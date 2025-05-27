@@ -1,0 +1,86 @@
+7 抗震设施
+==============================================
+
+.. raw:: html
+
+  <h2 id="test111">7 抗震设施</h2>
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idt7.0.1"> 7.0.1</a> <span id="idt7.0.1"> 目前除常规抗震设施外，在中大型以上桥梁抗震设计中，桥梁抗震阻尼器的应用不断增多。本标准养护要求主要针对目前使用较多的桥梁黏滞流体阻尼器，其他类型阻尼器(熔断阻尼器、限位阻尼器、支座式金属屈服阻尼器等)桥梁养护管理部门可根据实际类型特点制定相应的计划方案进行养护。</span></p>
+ <p style="text-align:justify"><a href="#idt7.0.2"> 7.0.2</a> <span id="idt7.0.2"> 参考加固方法如下：</span></p>
+ <ol>
+ <li>地震设防区梁式桥上部结构抗震的薄弱部位为横梁、支座，易发生的震害为梁的纵、横向窜支，撞击造成梁端损坏、落梁，以及支座底板附近下部结构混凝土破损、锚固螺栓拔出或剪断、支座倾覆、销子损坏、滚轴脱离等。</li>
+ </ol>
+ <dl>
+ <li>&emsp;&emsp;1）拓宽支承面,防止纵向落梁的加固措施：拓宽墩、台帽的托架支撑，如<a href="#figt21">图 21</a>所示。</li>
+ <li>&emsp;&emsp;2）防止跨内伸缩装置脱落，如<a href="#figt22">图 22</a>所示。</li> 
+ </dl>
+ 
+ <div align="center"><img id="figt21" src="./_static/fig/t21.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 21 采用支座支承上部结构时的托架支撑示意</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt21'));</script>
+ <div align="center"><img id="figt22" src="./_static/fig/t22.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 22 防止跨内伸缩缝脱落的装置示意</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt22'));</script> 
+ <dl>
+ <li>&emsp;&emsp;3）防止横向落梁的加固措施<br/>&emsp;&emsp;采用在梁底或盖梁上植入锚固螺栓安装限位挡块，或在盖梁上进行抱箍焊接安装限位挡块的措施防止梁体在横向产生过大位移。</li>
+ <li>&emsp;&emsp;4）采用高强度钢索限制梁体纵向位移的防落梁措施，如<a href="#figt23">图 23</a>所示。</li> 
+ </dl>
+  <div align="center"><img id="figt23" src="./_static/fig/t23.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 23 高强钢索限制梁体纵向位移的防落梁措施示意</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt23'));</script> 
+  <dl>
+ <li>&emsp;&emsp;5）支座的连接加固:两支座可用钢筋纵向连接加固，如<a href="#figt24">图 24</a>所示。</li>
+ </dl> 
+  <div align="center"><img id="figt24" src="./_static/fig/t24.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 24 采用钢筋纵向连接加固示意</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt24'));</script>  
+ <ol start="2">
+ <li>地震设防区桥梁下部结构的薄弱部位为：墩帽与墩身或盖梁与立柱(排架桩)连接处、墩身与承台连接处、承台与基桩连接处；墩、台身或基桩断面变化处；水中墩(桩)干湿交替、风化严重的部位；基础局部冲刷严重的部位。易发生的震害为：墩、台基础下沉、滑移、倾斜、断裂；桥台胸墙开裂；台(墩)帽拉裂；地基土液化，承载力降低；以及岸坡滑坡和基础液化造成跨径变化，引发落梁、塌孔。</li>
+ </ol>
+ <dl>
+ <li>&emsp;&emsp;1）桩式或柱式桥墩，可在桩或柱之间用槽钢或角钢做成钢板箍和横夹板，并用螺栓将其拧紧。斜夹板可用电焊连接，如<a href="#figt25">图 25</a>所示。</li>
+ </dl> 
+  <div align="center"><img id="figt25" src="./_static/fig/t25.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 25 桩式或柱式墩抗震加固示意<br/>1-槽钢或角钢；2-螺栓；3—钢板箱厚6~8；4-连接钢板桩柱式墩加固<br/>(尺寸单位：cm；铁件：mm)</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt25'));</script>  
+ <dl>
+ <li>&emsp;&emsp;2）对多孔长桥，可增设抗震墩。即在原有桥墩两边加设钢筋混凝土斜撑(即斜墩)，斜撑尺寸视原墩高度和跨径而定，其截面承载力的验算，可参照基桩承台斜桩计算方法，如<a href="#figt26">图 26</a>所示。</li>
+ </dl> 
+  <div align="center"><img id="figt26" src="./_static/fig/t26.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 26 斜撑加固示意<br/>1-一般冲刷线以下1.0 m：2-斜撑；3-38°~45°</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt26'));</script> 
+ <dl>
+ <li>&emsp;&emsp;3）桥墩截面偏小、强度不足时，可采用加大桥墩断面加固。</li>
+ <li>&emsp;&emsp;4）对于圆形柱或方形柱,也可采取钢套管的加固措施，如<a href="#figt27">图 27</a>所示。</li>
+ </dl> 
+  <div align="center"><img id="figt27" src="./_static/fig/t27.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 27 钢套管加固柱的约束示意</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt27'));</script> 
+ <dl>
+ <li>&emsp;&emsp;5）在柱周围附上一层形似套管的、相对较厚的钢筋混凝土。</li>
+ <li>&emsp;&emsp;6）采用碳纤维等对钢筋混凝土柱进行加固。</li>
+ </dl> 
+ <ol start="3">
+ <li>桥台的抗震加固措施如下:</li>
+ </ol>
+ <dl>
+ <li>&emsp;&emsp;1）当桥台经过验算，在地震作用下的抗倾覆及抗滑稳定性不能满足安全要求时，可采用加筑围裙的方法</li>
+ <li>&emsp;&emsp;2）当桥台填土压力在地震作用下发生变化，危及桥台安全时，应在桥台背增设挡墙，在桥台前建筑扶壁，在桥台后增设桥孔，或同时将埋置式、一字式桥台改为U形桥台。</li>
+ </dl> 
+ <ol start="4">
+ <li>地震设防区拱桥抗震的薄弱部位为：拱顶、拱圈1/4跨径处、拱脚、腹拱与立柱连接处。易发生的震害为拱上建筑局部挤坏，腹拱与立柱连接处开裂式脱落，拱圈变形、开裂、拱脚位移、开裂等。</li>
+ </ol>
+ <p style="text-align:justify;text-indent:2em;" > 在双曲拱桥拱肋的横系梁间以钢筋拉杆，中间用花篮螺栓拉紧，拉杆尺寸应通过计算确定。各部外露的钢筋均应进行油漆防锈，其经常保养按钢构件养护方法处理，如<a href="#figt28">图28</a>所示。</p>
+ <p style="text-align:justify;text-indent:2em;" > 在双曲拱桥拱顶三道横系梁间设拉杆。拉杆用20～22钢筋，两端焊接在横系梁的钢板箍上(钢板箍用6 mm～8 mm厚的钢板制成，宽200 mm)，中间用花篮螺栓拉紧，如<a href="#figt28">图28</a>所示。</p> 
+  <div align="center"><img id="figt28" src="./_static/fig/t28.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 28 双曲拱桥拱肋整体连接<br/>1-C20混凝土填平；2-拱筋；3-拱顶；4-拱圈；5-横系梁；6—钢筋拉杆；7—角钢；8—双螺帽；9—橡皮垫圈；10—斜拉杆；11—钢板箍；12一螺栓；13一法兰螺栓</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt28'));</script> 
+ <p style="text-align:justify;text-indent:2em;" > 在石拱桥拱圈的跨中和1/4跨处加设三道钢板箍，用螺栓在拱底及拱侧钻孔锚固，应注意拱侧锚固点设在拱圈厚度的1/3处，锚固孔用膨胀水泥砂浆堵塞，见<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/twsm/t5.html#figt11">图11</a>所示。</p> 
+ <ol start="5">
+ <li>地震后拱桥桥台发生位移，处置程序参见<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/twsm/t5.html#id5.3.14">第5.3.14条</a>条文说明。</li>
+ <li>其他的抗震加固方法有设置减隔震支座、抗震阻尼器等。</li> 
+ </ol>
+

@@ -1,0 +1,28 @@
+12 养护工程的检查及验收
+==============================================
+
+.. raw:: html
+
+  <h2 id="test111">12 养护工程的检查及验收</h2>
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id12.0.1"> 12.0.1</a> <span id="id12.0.2"> 大修、改扩建工程应按现行行业标准《城市桥梁工程施工与质量验收规范》CJJ2及《城镇道路工程施工与质量验收规范》CJJ1有关规定进行质量验收。质量验收应按检验批、分项工程、分部工程、单位工程顺序进行，应对工程过程和隐蔽部分的施工进行检查和验收，并应进行验收记录。竣工资料应及时归档。</span></p>
+ <p style="text-align:justify"><a href="#id12.0.2"> 12.0.2</a> <span id="id12.0.2"> 保养小修应检查完成情况及损坏恢复程度，并应将资料及时归档。</span></p>
+ <p style="text-align:justify"><a href="#id12.0.3"> 12.0.3</a> <span id="id12.0.3"> 中修工程的检查与验收应符合下列规定:</span></p>
+ <p style="text-align:justify;text-indent:1.7em;">1、对工程过程和隐蔽部分的施工进行检查和验收。<br/>&emsp;&emsp;&nbsp;2、程完成后，应对工程外观质量及桥梁整体恢复程度提出验收意见，并报有关单位备案。<br/>&emsp;&emsp;&nbsp;3、修工程竣工资料应及时归档。</span></p>
+ <p style="text-align:justify"><a href="#id12.0.4"> 12.0.4</a> <span id="id12.0.4"> 桥梁加固工程检查与验收应按设计文件及相关标准执行验收程序。</span></p> 
+
+.. raw:: html
+
+    <style>
+        #abc{
+            height:250px;
+            background-color: #f0ffff;
+        }
+    </style>
+ </head>
+ <body>
+    <div id="abc"></div>
+ </body> 

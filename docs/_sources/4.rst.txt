@@ -1,0 +1,1424 @@
+4 检测评估
+==============================================
+
+.. raw:: html
+
+  <h2 id="test111">4 检测评估</h2>
+
+4.1 一般规定
+---------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id4.1.1"> 4.1.1</a> <span id="id4.1.1"> 城市桥梁必须按规定进行检测评估，及时掌握桥梁的基本状况，并采取相应的养护措施。检测评估应根据其内容、周期、评估要求分为经常性检查、定期检测、特殊检测。</span></p>
+ <p style="text-align:justify"><a href="#id4.1.2"> 4.1.2</a> <span id="id4.1.2"> 城市桥梁的检测评估工作应包括下列内容:</span></p>
+ <ol>
+ <li>了解桥梁初始状态,记录桥梁当前状况</li>
+ <li>解车辆和交通量的改变给设施运行带来的影响:</li>
+ <li>跟踪结构与材料的使用性能变化;</li>
+ <li>为桥梁状况评估提供相关信息，对桥梁当前及未来的交通量、荷载等级、承载能力及耐久性进行评估;</li>
+ <li>给养护、管理、设计与建设等部门反馈信息，提供养扩维修建议。</li>   
+ </ol>
+ <p style="text-align:justify"><a href="#id4.1.3"> 4.1.3</a> <span id="id4.1.3"> 城市桥梁技术状况检测评估应根据检测结果按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/3.html#id3.0.5">第3.0.5条</a>的要求对城市桥梁划分完好状态及结构状况等级。</span></p>
+ <p style="text-align:justify"><a href="#id4.1.4"> 4.1.4</a> <span id="id4.1.4"> 在城市桥梁技术状况检测评估时，对桥梁因主要构件损坏，影响桥梁结构安全的，I类养护的城市桥梁应判定为不合格级，应立即安排修复；Ⅱ类～V类养护的城市桥梁应判定为D级，并应对桥梁进行结构检测或特殊检测。</span></p>
+
+  
+4.2 经常性检查
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id4.2.1"> 4.2.1</a> <span id="id4.2.1"> 经常性检查应对结构变异、桥梁及桥梁安全保护区域施工作业情况和桥面系、限载标志、限高标志、交通标志及其他附属设施等状况进行日常巡检。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.2"> 4.2.2</a> <span id="id4.2.2"> 经常性检查应由经过培训的专职桥梁管理人员或有一定经验的工程技术人员负责。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.3"> 4.2.3</a> <span id="id4.2.3"> 经常性检查宜以目测检查为主，并应按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLA.html">附录A</a>现场填写城市桥梁日常巡检报表，登记所检查桥梁病害的损坏类型、损坏程度、损坏位置等,提出相应的养护措施。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.4"> 4.2.4</a> <span id="id4.2.4"> 经常性检查应按城市桥梁的养护类别、养护等级、技术状况分别制定巡检周期。对重要桥梁，或遇恶劣天气、汛期、雨季、冰冻等特殊情况，周期宜缩短。特殊情况可设专人看护。巡检周期宜符合下列规定：</span></p>
+ <ol>
+ <li>I等养护的城市桥梁应每日巡检。</li>
+ <li>II等养护的城市桥梁巡检周期不宜超过3d。</li>
+ <li>Ⅲ等养护的城市桥梁巡检周期不宜超过7d。</li>   
+ </ol> 
+ <p style="text-align:justify"><a href="#id4.2.5"> 4.2.5</a> <span id="id4.2.5"> 经常性检查记录应定期整理归档，并提出评价意见。当巡检过程中发现设施明显损坏，影响车辆和行人安全时，应立即设置警示标志,及时向主管部门报告，并应采取相应维护措施。</span></p>
+ <p style="text-align:justify"><a href="#id4.2.6"> 4.2.6</a> <span id="id4.2.6"> 经常性检查应包括下列内容:</span></p>
+ <ol>
+ <li>检查城市桥梁各组成结构的完好状态,主要检查内容见<a href="#B4.2.6">表4.2.6</a>。</li>   
+ </ol> 
+
+ <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+	<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.2.6">表4.2.6 各组成结构的检查要点</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="100px">组成结构</td>
+	 <td  align="center" id="dhbg" width="200px">部位</td>
+	 <td  align="center" id="dhbg" width="600px">检查要点</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="7">桥面系及附属结构</td>
+   <td align="center" id="dhbg">桥面铺装</td>
+   <td align="left" id="dhbg">平整性及裂缝、坑槽、拥包、车辙、积水、沉陷、碎边、桥头跳车等</td>
+   </tr>
+	 <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">伸缩装置</td>
+   <td align="left" id="dhbg">连接松动、异常变形、破损、脱落、漏水、阻塞等;是否造成明显跳车</td>
+   </tr>
+	 <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">排水设施</td>
+   <td align="left" id="dhbg">泄水孔堵塞；排水设施缺损等</td>
+   </tr>
+	 <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">人行道铺装</td>
+   <td align="left" id="dhbg">裂缝、松动或变形、残缺等</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">栏杆、防撞护栏</td>
+   <td align="left" id="dhbg">污秽、破损、缺失、露筋、锈蚀、断裂、松动等</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">防护网、声屏障</td>
+   <td align="left" id="dhbg">锈蚀、缺损、变形、松动等</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">挡土墙、护坡、调治构造物</td>
+   <td align="left" id="dhbg">开裂、破撷、增陷、倾斜等</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" colspan="2">开上部结构、下部结构</td>
+   <!-- <td></td> --> 
+   <td align="left" id="dhbg">异常变化、缺陷、变形、沉降、位移等</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" colspan="2">人行天桥和人行地下通道的自动扶梯、照明设施及其封闭结构等附属设施</td>
+   <!-- <td></td> --> 
+   <td align="left" id="dhbg">异常变化、缺陷、积水等</td>
+   </tr>
+	 </table>
+ <p><font size="2">  </font></p>
+ <ol start="2">
+ <li>检查在城市桥梁安全保护区域内的施工作业情况。</li>   
+ <li>城市桥梁限载标志及交通标志设施等各类标志完好情况</li>   
+ <li>其他较明显的损坏及不正常现象。</li>   
+ </ol> 
+
+4.3 定期检查
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id4.3.1"> 4.3.1</a> <span id="id4.3.1"> 定期检测应分为常规定期检测和结构定期检测。常规定期检测应每年1次，可根据城市桥梁实际运行状况和结构类型、周边环境等适当增加检测次数。结构定期检测应按规定的时间间隔进行，I类养护的城市桥梁宜为3年～5年，关键部位可设仪器监控测试；Ⅱ类～V类养护的城市桥梁宜为6年～10年。</span></p>
+ <p style="text-align:justify"><a href="#id4.3.2"> 4.3.2</a> <span id="id4.3.2"> 常规定期检测应由专职桥梁养护工程技术人员或实践经验丰富的桥梁工程技术人员负责，并应对每座桥梁制定相应的定期检测计划与实施方案。</span></p>
+ <p style="text-align:justify"><a href="#id4.3.3"> 4.3.3</a> <span id="id4.3.3"> 常规定期检测宜以目测为主，并应配备照相机、裂缝观测仪、探查工具及辅助器材等必要的量测仪器和设备。</span></p>
+ <p style="text-align:justify"><a href="#id4.3.4"> 4.3.4</a> <span id="id4.3.4"> 常规定期检测应包括下列内容：</span></p>
+ <ol>
+ <li>对照城市桥梁资料卡和设施量年报表现场校核城市桥梁的基本数据，并应符合本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLB.html">附录B</a>和<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLC.html">附录C</a>的要求。</li>   
+ <li>记录病害状况，实地判断损坏原因，估计维修范围和方案。</li>   
+ <li>对难以判断其损坏程度和原因的构件，提出作特殊检测的建议。</li>   
+ <li>对损坏严重、危及安全的城市桥梁，提出限载以至暂时限制交通的建议。</li>  
+ <li>根据城市桥梁技术状况，确定下次检测的时间。</li>  
+ </ol> 
+ <p style="text-align:justify"><a href="#id4.3.5"> 4.3.5</a> <span id="id4.3.5"> 常规定期检测应包括下列范围：</span></p>
+ <ol>
+ <li>桥面系包括桥面铺装、桥头搭板、伸缩装置、排水系统、人行道、栏杆或护栏等。</li>   
+ <li>上部结构包括主梁、主桁架、主拱圈、横梁、横向联系、主节点、挂梁、连接件等。</li>   
+ <li>下部结构包括支座、盖梁、墩身、台帽、台身、基础、招土墙、护坡及河床冲刷情况等。</li>   
+ </ol> 
+ <p style="text-align:justify"><a href="#id4.3.6"> 4.3.6</a> <span id="id4.3.6"> 下列结构桥梁开展常规定期检测时，尚应符合下列规定：</span></p>
+ <ol>
+ <li>I 类养护的桥梁结构变位应每年测量1次，拉索索力和吊杆拉力应每年测量1次。</li>   
+ <li>拱桥及软弱地基桥梁的沉降宜每年测量1次。</li>   
+ <li>独柱式墩桥梁墩柱的侧向倾角及梁体相对水平位移值应每年测量1次。</li>   
+ </ol> 
+ <p style="text-align:justify"><a href="#id4.3.7"> 4.3.7</a> <span id="id4.3.7"> 常规定期检测的情况记录、评分及养护维修管理措施的建议，均应及时整理、归档。已建立信息管理系统的，应及时纳入城市桥梁管理系统数据库。</span></p>
+ <p style="text-align:justify"><a href="#id4.3.8"> 4.3.8</a> <span id="id4.3.8"> 应根据常规定期检测的结果，进行桥梁技术状况的评估和分级。I类养护的城市桥梁应按影响结构安全状况进行评估；Ⅱ类～V类养护的城市桥梁应按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html">附录D</a>对桥面系、上部结构、下部结构评分等级、扣分表进行评估，并应符合本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/4.html#id6">第4.5节</a>的有关规定。人行地下通道应按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html">附录D</a>评分等级、扣分表进行评估并应符合本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/4.html#id7">第4.6节</a>的有关规定。</span></p>
+ <p style="text-align:justify"><a href="#id4.3.9"> 4.3.9</a> <span id="id4.3.9"> I 类养护的城市桥梁，结构定期检测应根据桥梁检测技术方案和细节分组，并进行标识，确定相应的检测频率；Ⅱ类～V类养护的城市桥梁结构定期检测应包括桥梁结构中的所有构件。</span></p>
+ <p style="text-align:justify"><a href="#id4.3.10"> 4.3.10</a> <span id="id4.3.10"> 结构定期检测应根据桥龄、交通量、车辆载重、桥梁使用历史、已有技术评定、自然环境以及桥梁临时封闭的社会影响制定详细计划。计划应包括采用的测试技术与组织方案，并提交主管部门批准。</span></p>
+ <p style="text-align:justify"><a href="#id4.3.11"> 4.3.11</a> <span id="id4.3.11">结构定期检测应包括下列内容：</span></p>
+ <ol>
+ <li>查阅历次检测报告和常规定期检测中提出的建议。</li>   
+ <li>根据常规定期检测中桥梁状况评定结果，进行梁体线形、墩柱沉降及结构构件的检测。</li>   
+ <li>通过材料取样试验确认材料特性、退化程度和退化性质。</li> 
+ <li>对桥梁进行结构检算，包括承载力检算、稳定性检算和刚度验算。</li>   
+ <li>分析确定退化的原因,以及对结构性能和耐久性的影响。</li>   
+ <li>对可能影响结构正常工作的构件，评价其在下一次检测之前的可能退化情况；如构件在下一次检测前可能失效，需立即报告桥梁养护管理部门。</li> 
+ <li>检测河道的淤积、冲刷等现象，记录水位。</li>   
+ <li>必要时对桥梁进行荷载试验和分析评估。城市桥梁的荷载试验评估按有关标准进行。</li>   
+ <li>通过综合检测评定，确定具有潜在退化可能或已处于退化状况的桥梁构件，提出相应的养护措施。</li>   
+ </ol> 
+ <p style="text-align:justify"><a href="#id4.3.12"> 4.3.12</a> <span id="id4.3.12"> 对下列城市桥梁应进行监控测试，可按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLE.html">附录E</a>进行监控测试，并可采用自动化监测系统:</span></p>
+ <ol>
+ <li>经现场重复荷载试验其结果属于D级或E级的桥梁；</li>   
+ <li>施工质量不佳或存在疑问的桥梁；</li>   
+ <li>对结构随时间因素变化进行研究的桥梁；</li>   
+ <li>I类养护的城市桥梁。</li>    
+ </ol> 
+ <p style="text-align:justify"><a href="#id4.3.13"> 4.3.13</a> <span id="id4.3.13"> 结构定期检测应有现场记录，应按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLF.html">附录F</a>填写结构定期检测现场记录表，并应符合下列规定:</span></p>
+ <ol>
+ <li>技术状况评定应符合常规定期检测中的评分标准，I 类养护的城市桥梁技术状况评估应按本标准附录F表中的损坏状况进行;Ⅱ类～V类养护的城市桥梁，按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLF.html">附录F</a>表中的损坏状况，依据本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html">附录D</a>的评分等级、扣分表进行评估并应符合本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/4.html#id6">第4.5节</a>的有关规定。同时填写下列相关内容:</li>   
+ </ol>
+ <dl>
+ <li>&emsp;&emsp;1) 所有桥梁构件的侵蚀环境情况;</li>   
+ <li>&emsp;&emsp;2) 构件的实测损坏类型和程度。</li> 
+ </dl>
+ <ol start="2">
+ <li>对I类养护的城市桥梁评为不合格级的，或退化速度过快的构件，Ⅱ类～V类养护的城市桥梁技术状况评定为D级、E级的，应在结构状态记录表中记录下列相关内容：</li>   
+ </ol>
+ <dl>
+ <li>&emsp;&emsp;1) 构件编号；</li>   
+ <li>&emsp;&emsp;2) 构件描述；</li> 
+ <li>&emsp;&emsp;3) 构件在结构中的位置；</li> 
+ <li>&emsp;&emsp;4) 损坏状况描述：包括损坏位置、程度、产生的原因和可能的退化、照片编号、所有材料试验的细节和材料在结构中的部位。</li>    
+ </dl>
+ <ol start="3">
+ <li>特殊构件信息表应记录结构状态记录表中没有涵盖的信息，包括下列内容：</li>   
+ </ol>
+ <dl>
+ <li>&emsp;&emsp;1) 没有在评分标准中定义的构件；</li>   
+ <li>&emsp;&emsp;2) 无法检测的构件,并说明不能检测的原因；</li> 
+ <li>&emsp;&emsp;3) 河道的淤积、冲刷、水位记录；</li> 
+ <li>&emsp;&emsp;4) 记录材料测试和取样的位置并编号，以便试验结果的交叉参考。</li>    
+ </dl>
+ <ol start="4">
+ <li>照片记录表中的照片应针对构件损坏拍摄，并应按顺序编号。</li>   
+ </ol>
+ <p style="text-align:justify"><a href="#id4.3.14"> 4.3.14</a> <span id="id4.3.14"> 结构定期检测应对桥梁构件进行侵蚀环境分类，并应符合下列规定：</span></p>
+
+ <ol>
+ <li>桥梁构件的侵蚀环境宜按<a href="#B4.3.14">表4.3.14</a>分类。</li>   
+ </ol>
+	<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.2.6">表4.3.14 侵蚀环境分类</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="200px">侵蚀环境分类</td>
+	 <td  align="center" id="dhbg" width="700px">状态描述</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">A类</td>
+   <td align="left" id="dhbg">无侵蚀性静水浸没环境，与无侵蚀性土壤直接接触的环境</td>
+   </tr>
+	 <tr>
+   <td align="center" id="dhbg">B类</td>
+   <td align="left" id="dhbg">严寒和寒冷地区露天环境，构件表面经常处于结露或湿润状态的环境,水位频繁变动环境</td>
+   </tr>
+	 <tr>
+   <td align="center" id="dhbg">C类</td>
+   <td align="left" id="dhbg">距海岸线1 km范围内,直接承受盐雾影响的环境</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">D类</td>
+   <td align="left" id="dhbg">盐渍土环境，受除冰盐作用环境,严实和寒冷地区冬季水位变动区环境</td>
+   </tr>
+	</table>
+ <p><font size="2">  </font></p>
+
+ <ol start="2">
+ <li>易受盐侵蚀地区、沼泽、腐殖质土壤(填土)或工业废弃区，受人为或自然的侵蚀性物质影响的环境，应检测土壤侵蚀性、水质侵蚀性。</li>   
+ </ol>
+ <p style="text-align:justify"><a href="#id4.3.15"> 4.3.15</a> <span id="id4.3.15"> 对下列城市桥梁应进行监控测试，可按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLE.html">附录E</a>进行监控测试，并可采用自动化监测系统:</span></p>
+ <p style="text-align:justify"><a href="#id4.3.16"> 4.3.16</a> <span id="id4.3.16"> 对下列城市桥梁应进行监控测试，可按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLE.html">附录E</a>进行监控测试，并可采用自动化监测系统:</span></p>
+ <p style="text-align:justify"><a href="#id4.3.17"> 4.3.17</a> <span id="id4.3.17"> 对下列城市桥梁应进行监控测试，可按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLE.html">附录E</a>进行监控测试，并可采用自动化监测系统:</span></p>
+ <p style="text-align:justify"><a href="#id4.3.18"> 4.3.18</a> <span id="id4.3.18"> 对下列城市桥梁应进行监控测试，可按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLE.html">附录E</a>进行监控测试，并可采用自动化监测系统:</span></p>
+ <ol>
+ <li>城市桥梁进行结构定期检测的原因；</li>   
+ <li>结构定期检测的方法和评价结论；</li>   
+ <li>采用相关技术标准或数据分析；确定桥梁承载能力、抗倾覆能力及耐久性能；</li>   
+ <li>结构使用限制,其中包括荷载、速度、机动车通行或车道数限制；</li>  
+ <li>养护维修加固措施；</li>   
+ <li>进一步检测、试验、结构分析评估及建议。</li>     
+ </ol> 
+
+4.4 特殊检测
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id4.4.1"> 4.4.1</a> <span id="id4.4.1"> 特殊检测应由专业人员采用专门技术手段，并辅以现场和试验室测试等特殊手段进行详细检测和综合分析，检测结果应提交书面报告。</span></p>
+ <p style="text-align:justify"><a href="#id4.4.2"> 4.4.2</a> <span id="id4.4.2"> 城市桥梁在下列情况下应进行特殊检测：</span></p>
+ <ol>
+ <li>城市桥梁遭受洪水冲刷、流冰、漂流物、船舶或车辆撞击、滑坡、地震、风灾、火灾、化学剂腐蚀、车辆荷载超过桥梁限载的车辆通过等特殊灾害造成结构损伤。</li>   
+ <li>城市桥梁定期检测中难以判明安全的桥梁。</li>   
+ <li>为提高或达到设计承载等级而需进行修复加固、改建、扩建的城市桥梁。</li>   
+ <li>超过设计使用年限,需延长使用的城市桥梁。</li>  
+ <li>常规定期检测中桥梁技术状况评定时，I类养护的城市桥梁被评定为不合格级的桥梁，Ⅱ类～V类养护的城市桥梁被评定为D级或E级的桥梁。</li>  
+ <li>常规定期检测发现加速退化的桥梁构件需补充检测的城市桥梁。</li>  
+ </ol> 
+ <p style="text-align:justify"><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3"> 实施特殊检测前,检测单位应收集下列资料：</span></p>
+ <ol>
+ <li>竣工资料；</li>   
+ <li>识别和鉴定桥梁结构的主要材料以及它们的强度：</li>   
+ <li>特殊检测的原因,影响桥梁承载能力的因素；</li>   
+ <li>历次桥梁定期检测和特殊检测报告；</li>  
+ <li>历次维修资料；</li>  
+ <li>交通量统计资料。</li>  
+ </ol> 
+ <p style="text-align:justify"><a href="#id4.4.4"> 4.4.4</a> <span id="id4.4.4"> 市桥梁特殊检测应包含下列内容：</span></p>
+ <ol>
+ <li>结构材料缺损状况诊断；</li>  
+ <li>结构整体性能、功能状况评估。</li>  
+ </ol> 
+ <p style="text-align:justify"><a href="#id4.4.5"> 4.4.5</a> <span id="id4.4.5"> 结构材料缺损状况的诊断，宜根据缺损的类型、位置和检测的要求，选择表面测量、无损检测技术和局部取试样等方法。试样宜在有代表性构件的次要部位获取。检测与评估应按相应的试验标准进行。</span></p>
+ <p style="text-align:justify"><a href="#id4.4.6"> 4.4.6</a> <span id="id4.4.6"> 结构整体性能、功能状况评估应根据诊断的构件材料质量状况及其在结构中的实际功能，用计算分析评估结构承载能力。当计算分析评估不满足或难以确定时，应用静力荷载方法鉴定结构承载能力，采用动力荷载方法测定结构力学性能参数和振动参数。结构计算、荷载试验和评估应符合国家现行有关标准的规定。</span></p>
+ <p style="text-align:justify"><a href="#id4.4.7"> 4.4.7</a> <span id="id4.4.7"> 特殊检测报告应包括下列主要内容：</span></p>
+ <ol>
+ <li>述概、桥梁基本情况、检测组织、时间背景和工作过程。</li>   
+ <li>描述目前桥梁技术状况、试验与检测项目及方法、检测数据与分析结果、桥梁技术状况评价。</li>   
+ <li>阐述检测部位的损坏原因及程度，评定桥梁继续使用的安全性。</li>   
+ <li>提出结构及局部构件的维修、加固或改造的建议方案，提出维护管理措施。</li>  
+ </ol>
+  <p style="text-align:justify"><a href="#id4.4.8"> 4.4.8</a> <span id="id4.4.8"> 对特殊检测结果不满足要求的城市桥梁，在维修加固之前，应采取限载、限速或封闭交通的措施，并应继续监测结构变化。</span></p>
+ 
+4.5 城市桥梁技术状况评估方法
+---------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id4.5.1"> 4.5.1</a> <span id="id4.5.1"> Ⅱ类～V类养护的城市桥梁技术状况的评估应包括：桥面系、上部结构、下部结构和全桥评估。应采用先构件后部位再综合及与单项直接控制指标相结合的办法评估。</span></p>
+ <p style="text-align:justify"><a href="#id4.5.2"> 4.5.2</a> <span id="id4.5.2"> Ⅱ类～V类养护的城市桥梁，应以桥梁状况指数BCI确定桥梁技术状况；应以桥梁结构指数BSI确定桥梁不同组成部位的结构状况。应按分层加权法根据桥梁定期检测记录，对桥面系、上部结构和下部结构按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html">附录D</a>的评分等级、扣分表分别进行评估,再综合得出整座桥梁技术状况的评估。</span></p>
+ <p style="text-align:justify"><a href="#id4.5.3"> 4.5.3</a> <span id="id4.5.3"> 桥面系的技术状况应采用桥面系状况指数<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math>表示；桥面系的结构状况应采用桥面系结构指数<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math>表示。根据桥面铺装、桥头平顺、仲缩装置、排水系统、人行道和栏杆等要素的损坏扣分值；<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math>和<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math>应按下列公式计算：</span></p>
+ 
+$$ BCI_{\\mathrm{m} }=\\sum\\limits _{h=1}^{a}(100-MDP_{\\mathrm{h} })\\cdot\\omega _{\\mathrm{h} }\\tag{4.5.3-1}$$
+$$ BSI_{\\mathrm{m} }=\\min(100-MDP_{\\mathrm{h} })\\tag{4.5.3-2}$$
+$$ MDP_{\\mathrm{h} }=\\sum\\limits_{i}DP_{\\mathrm{h} i}\\cdot\\omega _{\\mathrm{h} i}\\tag{4.5.3-3}$$
+$$ \\omega _{\\mathrm{h} i}=3.0\\mu_{\\mathrm{h} i}^{3}-5.5\\mu_{\\mathrm{h} i}^{2}+3.5\\mu_{\\mathrm{h} i}\\tag{4.5.3-4}$$
+$$ \\mu_{\\mathrm{h} i}=\\dfrac{DP_{\\mathrm{h} i}}{\\sum\\limits_{i}DP_{\\mathrm{h} i}}\\tag{4.5.3-5}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桥面系的评价要素,包括桥面铺装、桥头平顺、伸缩装置、排水系统、人行道和栏杆；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math></td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">桥面系评价要素的总数；</td>
+ </tr> 
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>M</mi><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桥面系第h类要素中损坏的综合扣分值；<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>M</mi><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub><mo>&lt;</mo><mo data-mjx-texclass="OP" movablelimits="true">max</mo><mo stretchy="false">(</mo><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub><mo stretchy="false">)</mo></math>时，取值为<math xmlns="http://www.w3.org/1998/Math/MathML"><mo data-mjx-texclass="OP" movablelimits="true">max</mo><mo stretchy="false">(</mo><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub><mo stretchy="false">)</mo></math>；当<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>M</mi><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub><mo>&gt;</mo><mn>100</mn></math>时，取值为100；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">桥面系第h类要素的权重，按表<a href="#B4.5.3">表4.5.3</a>的规定取值：</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mi mathvariant="normal">h</mi><mi>i</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">桥面系第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">h</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>项损坏的扣分值，应按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html/#figD.0.1">附录表D-1</a>取值;</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi mathvariant="normal">h</mi><mi>i</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">桥面系第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi></math>类要素第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>项损坏的权重;</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>μ</mi><mrow><mi mathvariant="normal">h</mi><mi>i</mi><mrow><mi>j</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">桥面系第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>项损坏的扣分值占桥面系第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">h</mi></math>类要素中所有损坏扣分值的比例。</td>
+ </tr> 
+ </table>
+ <p></p>
+ 
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.3">表4.5.3 桥面系各要素权重值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="225px">评估要素</td>
+   <td  align="center" id="dhbg" width="225px">权重</td>
+   <td  align="center" id="dhbg" width="225px">评估要素</td>
+   <td  align="center" id="dhbg" width="225px">权重</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" colspan="4">梁式桥桁架桥拱桥 刚构桥 悬臂十挂梁</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">桥面铺装</td>
+   <td align="center" id="dhbg">0.30</td>
+   <td align="center" id="dhbg">排水系统</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">桥头平顺</td>
+   <td align="center" id="dhbg">0.15</td>
+   <td align="center" id="dhbg">人行道</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">伸缩装置</td>
+   <td align="center" id="dhbg">0.25</td>
+   <td align="center" id="dhbg">栏杆或护栏</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" colspan="4">人行天桥</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">桥面铺装</td>
+   <td align="center" id="dhbg">0.40</td>
+   <td align="center" id="dhbg">排水系统</td>
+   <td align="center" id="dhbg">0.20</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">伸缩装置</td>
+   <td align="center" id="dhbg">0.15</td>
+   <td align="center" id="dhbg">栏杆或护栏</td>
+   <td align="center" id="dhbg">0.25</td>
+   </tr>
+   </table>
+ <p><font size="2"> 注：在计算<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math>时，出现的要素其权重应按剩余要素权重的比例关系重新分配给利余要素。</font></p> 
+
+ 
+ <p style="text-align:justify"><a href="#id4.5.4"> 4.5.4</a> <span id="id4.5.4">桥梁上部结构技术状况的评估应逐跨进行，然后再计算整座桥梁上部结构的技术状况指数<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math>桥梁上部结构的结构状况应采用上部结构结构状况指数<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math>表示。<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math>和<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math>应按下列公式计算：</span></p>
+
+$$ BCI_{\\mathrm{s} }=\\dfrac{1}{b}\\sum\\limits _{i=1}^{b}BCI_{\\mathrm{s}i }\\tag{4.5.4-1}$$
+$$ BSI_{\\mathrm{s} }=\\min(BCI_{\\mathrm{s}i})\\tag{4.5.4-2}$$
+$$ BCI_{\\mathrm{s}i }=\\sum\\limits _{j=1}^{c}(100-SDP_{ij})\\cdot\\omega _{ij}\\tag{4.5.4-3}$$
+$$ SDP_{ij}=\\sum\\limits_{\\mathrm{k}}DP_{ij\\mathrm{k}}\\cdot\\omega _{ij\\mathrm{k}}\\tag{4.5.4-4}$$
+$$\\omega _{ij\\mathrm{k}}=3.0\\mu_{ij\\mathrm{k}}^{3}-5.5\\mu_{ij\\mathrm{k}}^{2}+3.5\\mu_{ij\\mathrm{k}}\\tag{4.5.4-5}$$
+$$\\mu_{ij\\mathrm{k}}=\\dfrac{DP_{ij\\mathrm{k}}}{\\sum\\limits_{\\mathrm{k}}DP_{ij\\mathrm{k}}}\\tag{4.5.4-6}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow><mi>i</mi></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>跨上部结构技术状况指数;</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi></math></td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">桥梁跨数；</td>
+ </tr> 
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>ij</mi></mrow></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>跨上部结构中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件损坏的综合扣分值；当<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>S</mi><mi>D</mi><msub><mi>P</mi><mrow><mi>i</mi><mi>j</mi></mrow></msub><mo>&lt;</mo><mo data-mjx-texclass="OP" movablelimits="true">max</mo><mo stretchy="false">(</mo><mi>D</mi><msub><mi>P</mi><mrow><mi>i</mi><mi>j</mi><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub><mo stretchy="false">)</mo></math>时，取值为<math xmlns="http://www.w3.org/1998/Math/MathML"><mo data-mjx-texclass="OP" movablelimits="true">max</mo><mo stretchy="false">(</mo><mi>D</mi><msub><mi>P</mi><mrow><mi>i</mi><mi>j</mi><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub><mo stretchy="false">)</mo></math>；当<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>S</mi><mi>D</mi><msub><mi>P</mi><mrow><mi>i</mi><mi>j</mi></mrow></msub><mo>&gt;</mo><mn>100</mn></math>时，取值为100；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi>ij</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>跨上部结构中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件的权重，按表<a href="#B4.5.4">表4.5.4</a>的规定取值：</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math></td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>跨上部结构的桥梁构件类型数；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mi>ij</mi><mi mathvariant="normal">k</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>跨上部结构中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>项损坏的扣分值，按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html/#figD.0.2">附录表D-2</a>取值;</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi>ij</mi><mi mathvariant="normal">k</mi><mi>i</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>跨上部结构中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">k</mi></math>项损坏的权重;</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>μ</mi><mrow><mi>i</mi><mrow><mi>j</mi></mrow><mi mathvariant="normal">k</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>跨上部结构中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">k</mi></math>项损坏的扣分值占第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件所有损坏扣分值的比例。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.4">表4.5.4 桥梁上部结构各构件的权重值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="300px">桥梁类型</td>
+   <td  align="center" id="dhbg" width="300px">构件类型</td>
+   <td  align="center" id="dhbg" width="300px">权重</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">梁桥</td>
+   <td align="center" id="dhbg">主梁</td>
+   <td align="center" id="dhbg">0.60</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">横向联系</td>
+   <td align="center" id="dhbg">0.40</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="4">悬臂十挂梁</td>
+   <td align="center" id="dhbg">悬臂梁</td>
+   <td align="center" id="dhbg">0.60</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">挂梁</td>
+   <td align="center" id="dhbg">0.20</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">挂梁支座</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">防落梁装置</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">刚构桥</td>
+   <td align="center" id="dhbg">主梁</td>
+   <td align="center" id="dhbg">0.80</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">横向连接</td>
+   <td align="center" id="dhbg">0.20</td>
+   </tr>  
+   <tr>
+   <td align="center" id="dhbg" rowspan="5">桁架桥</td>
+   <td align="center" id="dhbg">桁片</td>
+   <td align="center" id="dhbg">0.50</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">主节点</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">纵梁</td>
+   <td align="center" id="dhbg">0.20</td>
+   </tr> 
+    <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">横梁</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">连接件</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">钢结构拱桥圬工拱桥<br/>(无拱上构造)</td>
+   <td align="center" id="dhbg">主拱圈(析)</td>
+   <td align="center" id="dhbg">0.70</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">横向联系</td>
+   <td align="center" id="dhbg">0.30</td>
+   </tr>  
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">钢筋混凝土拱桥<br/>圬工拱桥<br/>(有拱上构造)</td>
+   <td align="center" id="dhbg">主供圈</td>
+   <td align="center" id="dhbg">0.50</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">拱上构造</td>
+   <td align="center" id="dhbg">0.20</td>
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">横向联系</td>
+   <td align="center" id="dhbg">0.30</td>
+   </tr> 
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">人行天桥<br/>(梁桥)</td>
+   <td align="center" id="dhbg">主梁</td>
+   <td align="center" id="dhbg">0.55</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">模向联系</td>
+   <td align="center" id="dhbg">0.35</td>
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">外部装饰板</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr> 
+    <tr>
+   <td align="center" id="dhbg" rowspan="6">人行天桥<br/>(钢桁架桥)</td>
+   <td align="center" id="dhbg">桁片</td>
+   <td align="center" id="dhbg">0.48</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">主节点</td>
+   <td align="center" id="dhbg">0.08</td>
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">纵梁</td>
+   <td align="center" id="dhbg">0.18</td>
+   </tr> 
+    <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">横梁</td>
+   <td align="center" id="dhbg">0.08</td>
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">连接件</td>
+   <td align="center" id="dhbg">0.08</td>
+   </tr>  
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">外部装饰板</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr>   
+   </table>
+ <p><font size="2">  </font></p> 
+
+ <p style="text-align:justify"><a href="#id4.5.5"> 4.5.5</a> <span id="id4.5.5">桥梁下部结构技术状况的评估应逐墩(台)进行，然后再计算整座桥梁下部结构的技术状况指数<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math>桥梁下部结构的结构状况采用下部结构的结构状况指数<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math>表示，按下列公式计算<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math>、<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math>值：</span></p>
+
+$$ BCI_{\\mathrm{x} }=\\dfrac{1}{b+1}\\sum\\limits _{j=10}^{b}BCI_{\\mathrm{x}j }\\tag{4.5.5-1}$$
+$$ BSI_{\\mathrm{x} }=\\min(BCI_{\\mathrm{x}j})\\tag{4.5.5-2}$$
+$$ BCI_{\\mathrm{x}j }=\\sum\\limits _{k=1}^{d}(100-SDP_{jk})\\cdot\\omega _{jk}\\tag{4.5.5-3}$$
+$$ SDP_{jk}=\\sum\\limits_{l}DP_{j\\mathrm{k}l}\\cdot\\omega _{j\\mathrm{k}l}\\tag{4.5.5-4}$$
+$$\\omega _{j\\mathrm{k}l}=3.0\\mu_{j\\mathrm{k}l}^{3}-5.5\\mu_{j\\mathrm{k}l}^{2}+3.5\\mu_{j\\mathrm{k}l}\\tag{4.5.5-5}$$
+$$\\mu_{j\\mathrm{k}l}=\\dfrac{DP_{j\\mathrm{k}l}}{\\sum\\limits_{l}DP_{j\\mathrm{k}l}}\\tag{4.5.5-6}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow><mi>j</mi></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>墩(台)下部结构技术状况指数；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi></math></td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">桥梁跨数；</td>
+ </tr> 
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>jk</mi></mrow></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>号墩(台)下部结构中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>类构件损坏的综合扣分值；当<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>S</mi><mi>D</mi><msub><mi>P</mi><mrow><mi>j</mi><mi>k</mi></mrow></msub><mo>&lt;</mo><mo data-mjx-texclass="OP" movablelimits="true">max</mo><mo stretchy="false">(</mo><mi>D</mi><msub><mi>P</mi><mrow><mi>j</mi><mi mathvariant="normal">k</mi><mrow><mi>l</mi></mrow></mrow></msub><mo stretchy="false">)</mo></math>时，取值为<math xmlns="http://www.w3.org/1998/Math/MathML"><mo data-mjx-texclass="OP" movablelimits="true">max</mo><mo stretchy="false">(</mo><mi>D</mi><msub><mi>P</mi><mrow><mi>j</mi><mi mathvariant="normal">k</mi><mrow><mi>l</mi></mrow></mrow></msub><mo stretchy="false">)</mo></math>；当<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>S</mi><mi>D</mi><msub><mi>P</mi><mrow><mi>j</mi><mi>k</mi></mrow></msub><mo>&gt;</mo><mn>100</mn></math>时，取值为100；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi>jk</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>号墩(台)下部结构中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>类构件的权重，按表<a href="#B4.5.5">表4.5.5</a>的规定取值：</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>d</mi></math></td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>号墩(台)下部结构的构件类型数；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mi>j</mi><mi mathvariant="normal">k</mi><mi>l</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>号墩(台)下部结构中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>l</mi></math>项损坏的扣分值，按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html/#figD.0.3">附录表D-3</a>取值;</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi>j</mi><mi mathvariant="normal">k</mi><mi>l</mi><mi>i</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>号墩(台)下部结构中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">l</mi></math>项损坏的权重;</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>μ</mi><mrow><mi>j</mi><mrow><mi mathvariant="normal">k</mi></mrow><mi >l</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>号墩(台)下部结构中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi >l</mi></math>项损坏的扣分值占第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>类构件所有损坏扣分值的比例。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.5">表4.5.5 桥梁下部结构各构件的权重值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="100px">部位</td>
+   <td  align="center" id="dhbg" width="250px">构件类型</td>
+   <td  align="center" id="dhbg" width="100px"> 权重</td>
+   <td  align="center" id="dhbg" width="100px">部位</td>
+   <td  align="center" id="dhbg" width="250px">构件类型</td>
+   <td  align="center" id="dhbg" width="100px"> 权重</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" colspan="6">梁式桥桁架桥刚构桥 悬臂十挂梁</td>
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+    <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="5">桥墩</td>
+   <td align="center" id="dhbg" >盖梁</td>
+   <td align="center" id="dhbg" >0.15</td>
+   <td align="center" id="dhbg" rowspan="5">桥台</td>
+   <td align="center" id="dhbg" >台帽</td>
+   <td align="center" id="dhbg">0.15</td>
+   </tr>   
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >墩身</td>
+   <td align="center" id="dhbg" >0.30</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >台身</td>
+   <td align="center" id="dhbg" >0.20</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >基础</td>
+   <td align="center" id="dhbg" >0.40</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >基础</td>
+   <td align="center" id="dhbg" >0.40</td>
+   </tr>
+    <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" rowspan="2">支座</td>
+   <td align="center" id="dhbg" rowspan="2">0.15</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >耳墙(翼墙)</td>
+   <td align="center" id="dhbg" >0.10</td>
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >支座</td>
+   <td align="center" id="dhbg" >0.15</td>
+   </tr>  
+   <tr>
+   <td align="center" id="dhbg" colspan="6">拱桥</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>     
+   <tr>
+   <td align="center" id="dhbg" rowspan="5">桥墩</td>
+   <td align="center" id="dhbg" >盖梁</td>
+   <td align="center" id="dhbg" >0.10</td>
+   <td align="center" id="dhbg" rowspan="5">桥台</td>
+   <td align="center" id="dhbg" >台帽</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr>   
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >墩身</td>
+   <td align="center" id="dhbg" >0.30</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >台身</td>
+   <td align="center" id="dhbg" >0.30</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >基础</td>
+   <td align="center" id="dhbg" >0.45</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >基础</td>
+   <td align="center" id="dhbg" >0.35</td>
+   </tr>
+    <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" rowspan="2">拱脚</td>
+   <td align="center" id="dhbg" rowspan="2">0.15</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >耳墙(翼墙)</td>
+   <td align="center" id="dhbg" >0.10</td>
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >拱脚</td>
+   <td align="center" id="dhbg" >0.15</td>
+   </tr> 
+   <tr>
+   <td align="center" id="dhbg" colspan="6">人行天桥</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr> 
+   <tr>
+   <td align="center" id="dhbg" rowspan="5">桥墩</td>
+   <td align="center" id="dhbg" >盖梁</td>
+   <td align="center" id="dhbg" >0.18</td>
+   <td align="center" id="dhbg" rowspan="5">桥台</td>
+   <td align="center" id="dhbg" >台帽</td>
+   <td align="center" id="dhbg">0.20</td>
+   </tr>   
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >墩身</td>
+   <td align="center" id="dhbg" >0.34</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >台身</td>
+   <td align="center" id="dhbg" >0.40</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >基础</td>
+   <td align="center" id="dhbg" >0.20</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >基础</td>
+   <td align="center" id="dhbg" >0.20</td>
+   </tr>
+    <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >外部装饰</td>
+   <td align="center" id="dhbg" >0.10</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" rowspan="2">支座</td>
+   <td align="center" id="dhbg" rowspan="2">0.20</td>
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >支座</td>
+   <td align="center" id="dhbg" >0.18</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>          
+   </table>
+ <p><font size="2"> 注：在计算<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math>时，未出现的构件类型其权重应按刺余构件类型权重的比例关系重新分配给剩余构件类型。</font></p> 
+
+
+
+ <p style="text-align:justify"><a href="#id4.5.6"> 4.5.6</a> <span id="id4.5.6">整个桥梁的技术状况指数<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><mi>I</mi></math>根据桥面系、上部结构和下部结构的技术状况指数，应按下式计算：</span></p>
+
+$$\BCI=BCI_{\\mathrm{m} }\\cdot\\omega _{\\mathrm{m} }+BCI_{\\mathrm{s} }\\cdot\\omega _{\\mathrm{s} }+BCI_{\\mathrm{x} }\\cdot\\omega _{\\mathrm{x} }\\tag{4.5.6}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><mo>、</mo><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub><mo>、</mo><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">桥面系、上部结构和下部结构的权重，按<a href="#B4.5.6">表4.5.6</a>的规定取值。</td>
+ </tr>
+ </table>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.6">表4.5.6 桥梁结构组成部分的权重值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="120px">桥梁类型</td>
+   <td  align="center" id="dhbg" width="100px">桥梁部位</td>
+   <td  align="center" id="dhbg" width="80px"> 权重</td>
+   <td  align="center" id="dhbg" width="120px">桥梁类型</td>
+   <td  align="center" id="dhbg" width="100px">桥梁部位</td>
+   <td  align="center" id="dhbg" width="80px"> 权重</td>
+   <td  align="center" id="dhbg" width="120px">桥梁类型</td>
+   <td  align="center" id="dhbg" width="100px">桥梁部位</td>
+   <td  align="center" id="dhbg" width="80px"> 权重</td>   
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">梁式桥<br/>桁架桥<br/>刚构桥<br/>悬臂+挂梁</td>
+   <td align="center" id="dhbg" >桥面系</td>
+   <td align="center" id="dhbg" >0.15</td>
+   <td align="center" id="dhbg" rowspan="3">拱桥</td>
+   <td align="center" id="dhbg" >桥面系</td>
+   <td align="center" id="dhbg" >0.10</td>
+   <td align="center" id="dhbg" rowspan="3">人行天桥</td>
+   <td align="center" id="dhbg" >桥面系</td>
+   <td align="center" id="dhbg" >0.15</td>   
+   </tr>   
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >上部结构</td>
+   <td align="center" id="dhbg" >0.40</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >上部结构</td>
+   <td align="center" id="dhbg" >0.45</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >上部结构</td>
+   <td align="center" id="dhbg" >0.45</td>   
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >下部结构</td>
+   <td align="center" id="dhbg" >0.45</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >下部结构</td>
+   <td align="center" id="dhbg" >0.45</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >下部结构</td>
+   <td align="center" id="dhbg" >0.40</td>   
+   </tr>
+   </table>
+ <p><font size="2">  </font></p> 
+
+ <p style="text-align:justify"><a href="#id4.5.7"> 4.5.7</a> <span id="id4.5.7">桥梁上部结构、下部结构、桥面系以及整座桥梁结构的完好状况可按<a href="#B4.5.7">表4.5.7</a>进行评估。</span></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.7">表4.5.7 桥梁完好状况评估标准</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="150px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msup><mi>I</mi><mrow><mo>∗</mo></mrow></msup></math></td>
+   <td  align="center" id="dhbg" width="150px">[90,100]</td>
+   <td  align="center" id="dhbg" width="150px">[80,90)</td>
+   <td  align="center" id="dhbg" width="150px">[66,80)</td>
+   <td  align="center" id="dhbg" width="150px">[50,66)</td>
+   <td  align="center" id="dhbg" width="150px">[0,50)</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >评估等级</td>
+   <td align="center" id="dhbg" >A</td>
+   <td align="center" id="dhbg" >B</td>
+   <td align="center" id="dhbg" >C</td>
+   <td align="center" id="dhbg" >D</td>
+   <td align="center" id="dhbg" >E</td>
+   </tr>
+   </table>
+ <p><font size="2"> 注：<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msup><mi>I</mi><mrow><mo>∗</mo></mrow></msup></math>表示<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><mi>I</mi></math>、<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><mo>、</mo><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math>或<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math>。<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><mi>I</mi></math>的计算可应用<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><mi>I</mi></math>软件进行。</font></p> 
+
+ <p style="text-align:justify"><a href="#id4.5.8"> 4.5.8</a> <span id="id4.5.8"> 桥梁上部结构、下部结构、桥面系的结构状况可按<a href="#B4.5.8">表4.5.8</a>进行评估。</span></p>
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.5.8">表4.5.8 桥梁结构状况评估标准</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="150px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msup><mi>I</mi><mrow><mo>∗</mo></mrow></msup></math></td>
+   <td  align="center" id="dhbg" width="150px">[90,100]</td>
+   <td  align="center" id="dhbg" width="150px">[80,90)</td>
+   <td  align="center" id="dhbg" width="150px">[66,80)</td>
+   <td  align="center" id="dhbg" width="150px">[50,66)</td>
+   <td  align="center" id="dhbg" width="150px">[0,50)</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >评估等级</td>
+   <td align="center" id="dhbg" >A</td>
+   <td align="center" id="dhbg" >B</td>
+   <td align="center" id="dhbg" >C</td>
+   <td align="center" id="dhbg" >D</td>
+   <td align="center" id="dhbg" >E</td>
+   </tr>
+   </table>
+ <p><font size="2"> 注：<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msup><mi>I</mi><mrow><mo>∗</mo></mrow></msup></math>表示<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>S</mi><mi>I</mi></math>、<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><mo>、</mo><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math>或<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math>。<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><mi>I</mi></math>的计算可应用<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><mi>I</mi></math>软件进行。</font></p> 
+
+ 
+ <p style="text-align:justify"><a href="#id4.5.9"> 4.5.9</a> <span id="id4.5.9"> 各种类型桥梁有下列情况之一，即可将桥梁技术状况直接评定为不合格级桥或D级桥：</span></p>    
+ <ol>
+ <li>预应力梁产生受力裂缝且裂缝宽度超过本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/5.html#idB5.3.2">表5.3.2</a>限值。</li>
+ <li>拱桥的拱脚处产生水平位移或无铰拱拱脚产生较大的转动。</li>
+ <li>钢结构节点板及连接铆钉、螺栓损坏数量在20%以上，钢箱梁开焊，钢结构主要构件有严重扭曲、变形、开焊，锈蚀削弱截面面积10%以上。</li>
+ <li>墩、台、桩基出现结构性断裂缝，或裂缝有开合现象，倾斜、位移、沉降变形危及桥梁安全时。</li>
+ <li>关键部位混凝土出现压碎或压杆失稳、变形现象。</li>
+ <li>结构永久变形大于设计标准值。</li>
+ <li>结构刚度达不到设计标准要求。</li>
+ <li>支座错位、变形、破损严重或缺失，已失去正常支承功能。</li>
+ <li>基底冲刷面积达20%以上。</li>
+ <li>当通过桥梁验算检测，承载能力下降达25%以上。</li>
+ <li>人行道栏杆累计残缺长度大于20%或单处大于2 m。</li>
+ <li>上部结构有落梁和脱空趋势或梁、板断裂。</li>
+ <li>预应力钢筋锚头严重锈蚀失效。</li>
+ <li>钢-混凝土组合梁、桥面板发生纵向开裂，支座和梁端区域发生滑移或开裂；斜拉桥拉索、锚具损伤；悬索桥钢索、锚具损伤；系杆拱桥钢丝、吊杆和锚具损伤。</li>
+ <li>其他各种对桥梁结构安全有较大影响的部件损坏。</li>
+ </ol>
+
+
+4.6 人行地下通道技术状况评估方法
+---------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> 特殊检测应由专业人员采用专门技术手段，并辅以现场和试验室测试等特殊手段进行详细检测和综合分析，检测结果应提交书面报告。</span></p>
+ <p style="text-align:justify"><a href="#id4.6.2"> 4.6.2</a> <span id="id4.6.2"> 据人行地下通道的结构组成情况，可分为主体构造物、出入口、道面、排水设施、附属设施5个部位。各部位的构件类型可按<a href="#B4.6.2">表4.6.2</a>的规定确定。应按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html/#figD.0.4.1">附录表D4表</a>的扣分值分别对各构件、各部位进行评估，再综合得出整个人行地下通道的技术状况</span></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.6.2">表4.6.2 人行地下通道构件划分</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="220px">部位</td>
+   <td  align="center" id="dhbg" width="230px">构件类型</td>
+   <td  align="center" id="dhbg" width="220px">部位</td>
+   <td  align="center" id="dhbg" width="230px">构件类型</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">主体构造物</td>
+   <td align="center" id="dhbg" >衬砌和挡墙</td>
+   <td align="center" id="dhbg" >排水设施</td>
+   <td align="center" id="dhbg" >排水设施</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >变形缝</td>
+   <td align="center" id="dhbg" rowspan="4">附属设施</td>
+   <td align="center" id="dhbg" >照明设施</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">出入口</td>
+   <td align="center" id="dhbg" >梯道</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >通风设施</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >栏杆或护栏</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" rowspan="2">雨棚</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >道面</td>
+   <td align="center" id="dhbg" >道面</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   </table>
+ <p><font size="2">  </font></p> 
+
+
+ <p style="text-align:justify"><a href="#id4.6.3"> 4.6.3</a> <span id="id4.6.3"> 人行地下通道的主体构造物技术状况应采用主体构造物状况指数<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">z</mi></mrow></mrow></msub></math>表示，并应按下列公式计算:</span></p>
+
+$$PUCI_{z}=\\sum\\limits _{\\mathrm{h} =1}^{a}(100-\\dfrac{1}{b}\\sum\\limits _{i=1}^{b}ZDP_{\\mathrm{h} i})\\cdot\\omega _{\\mathrm{h} }\\tag{4.6.3-1}$$
+$$ZDP_{hi}=\\sum\\limits _{j}DP_{hij}\\cdot \\omega _{hij}\\tag{4.6.3-2}$$
+$$\\omega _{hij}=3.0\\mu^{3}_{hij}-5.5\\mu^{2}_{hij}+3.5_{hij}\\tag{4.6.3-3}$$
+$$\\mu_{hij}=\\dfrac{DP_{hij}}{\\sum\\limits _{j}DP_{hij}}\\tag{4.6.3-4}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">主体构造物的构件类型数；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi></math></td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">主体构造物中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi></math>类构件的构件数；</td>
+ </tr> 
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">主体构造物中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi></math>类构件权重，按表<a href="#B4.6.3">表4.6.3</a>的规定取值；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Z</mi><mi>D</mi><msub><mi>P</mi><mrow><mi>h</mi><mi>i</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">主体构造物中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个构件的总扣分值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mi mathvariant="normal">h</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">主体构造物中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">h</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>项损坏的扣分值，应按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html/#figD.0.4.1">附录表D-4-1</a>取值;</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi mathvariant="normal">h</mi><mi>i</mi><mrow><mi>j</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">主体构造物中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>项损坏的权重;</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>μ</mi><mrow><mi mathvariant="normal">h</mi><mi>i</mi><mrow><mi>j</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">主体构造物中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>h</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>项损坏的扣分值占第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个构件所有损坏扣分值的比例。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.6.3">表4.6.3 主体构造物各构件权重值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="450px">构造类型</td>
+   <td  align="center" id="dhbg" width="450px">权重</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >衬砌和挡墙</td>
+   <td align="center" id="dhbg" >0.6</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >变形缝</td>
+   <td align="center" id="dhbg" >0.4</td>
+   </tr>
+   </table>
+ <p><font size="2"> 注：在计算<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">z</mi></mrow></mrow></msub></math>时，未出现的构件类型其权重应按剩余构件类型权重的比例关系重新分配给剩余构件类型。</font></p> 
+
+
+ <p style="text-align:justify"><a href="#id4.6.4"> 4.6.4</a> <span id="id4.6.4"> 人行地下通道的出入口技术状况应采用出入口状况指数<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mi>c</mi></mrow></msub></math>表示，并应按下列公式计算:</span></p>
+
+$$PUCI_{\\mathrm{c} }=\\dfrac{1}{c}\\sum\\limits^{ec}_{i=1}PUCI_{\\mathrm{c} j}\\tag{4.6.4-1}$$
+$$PUCI_{\\mathrm{c}i}=\\sum\\limits_{\\mathrm{j=1}^{d}}(100-CDP_{ij})\\cdot\\omega _{ij}\\tag{4.6.4-2}$$
+$$CDP_{ij}=\\sum\\limits_{\\mathrm{k}}DP_{ij\\mathrm{k}}\\cdot\\omega _{ij\\mathrm{k}}\\tag{4.6.4-3}$$
+$$\\omega _{ij\\mathrm{k}}=3.0\\mu^{3}_{ij\\mathrm{k}}-5.5\\mu^{2}_{ij\\mathrm{k}}+3.5\\mu_{ij\\mathrm{k}}\\tag{4.6.4-4}$$
+$$\\mu_{ij\\mathrm{k}}=\\dfrac{DP_{ij\\mathrm{k}}}{\\sum\\limits_{\\mathrm{k}}DP_{ij\\mathrm{k}}}\\tag{4.6.4-5}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">出入口数；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>PUCI</mi><mrow><mrow><mi mathvariant="normal">c</mi><mi>i</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个出入口技术状况指数；</td>
+ </tr> 
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>d</mi></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个出入口的构件类型数；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi>i</mi><mi>j</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个出入口中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件的权重，按表<a href="#B4.6.4">表4.6.4</a>的规定取值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>C</mi><mi>D</mi><msub><mi>P</mi><mrow><mi>i</mi><mi>j</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个出入口中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件的总扣分值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mi>i</mi><mi>j</mi><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个出入口中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>项损坏的扣分值，按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html/#figD.0.4.2">附录表D-4-2</a>取值;</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi>i</mi><mi>j</mi><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个出入口中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>项损坏的权重;</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>μ</mi><mrow><mi>i</mi><mi>j</mi><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math>个出入口中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>项损坏的扣分值占第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>类构件的所有损坏扣分值的比例。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.6.4">表4.6.4 出入口各构件权重值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="450px">构造类型</td>
+   <td  align="center" id="dhbg" width="450px">权重</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >梯道</td>
+   <td align="center" id="dhbg" >0.5</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >栏杆或护栏</td>
+   <td align="center" id="dhbg" >0.5</td>
+   </tr>
+   </table>
+ <p><font size="2"> 注：在计算<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math>时，未出现的构件类型其权重应按剩余构件类型权重的比例关系重新分配给剩余构件类型。</font></p> 
+
+
+ <p style="text-align:justify"><a href="#id4.6.5"> 4.6.5</a> <span id="id4.6.5">人行地下通道的道面技术状况应采用道面状况指数<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></math>表示，并应按下列公式计算:</span></p>
+
+$$PUCI_{\\mathrm{d} }=\\dfrac{1}{e}\\sum\\limits^{e}_{j=1}PUCI_{\\mathrm{d} j}\\tag{4.6.5-1}$$
+$$FDP_{\\mathrm{d} j}=100-\\sum\\limits_{\\mathrm{k}}DP_{j\\mathrm{k}}\\cdot\\omega _{j\\mathrm{k}}\\tag{4.6.5-2}$$
+$$\\omega _{j\\mathrm{k}}=3.0\\mu^{3}_{j\\mathrm{k}}-5.5\\mu^{2}_{j\\mathrm{k}}+3.5\\mu_{j\\mathrm{k}}\\tag{4.6.5-3}$$
+$$\\mu_{j\\mathrm{k}}=\\dfrac{DP_{j\\mathrm{k}}}{\\sum\\limits_{\\mathrm{k}}DP_{j\\mathrm{k}}}\\tag{4.6.5-4}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>e</mi></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">道面数；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>PUCI</mi><mrow><mrow><mi mathvariant="normal">d</mi><mi>j</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">附属设施中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>个道面技术状况指数；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>DP</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>个道面的第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>项损坏的扣分值，按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html/#figD.0.4.3">附录表D-4-3</a>取值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">附属设施中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>个道面的第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>项损坏的权重；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>μ</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>个道面的第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>项损坏的扣分值占第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>j</mi></math>个道面的所有损坏扣分值的比例。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+
+
+ <p style="text-align:justify"><a href="#id4.6.6"> 4.6.6</a> <span id="id4.6.6">人行地下通道的排水设施技术状况应采用排水设施状况指数<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">p</mi></mrow></mrow></msub></math>表示并应按下列公式计算:</span></p>
+
+$$PUCI_{\\mathrm{p} }=100-\\sum\\limits_{\\mathrm{k}}DP_{\\mathrm{k}}\\cdot\\omega _{\\mathrm{k}}\\tag{4.6.6-1}$$
+$$\\omega _{\\mathrm{k}}=3.0\\mu^{3}_{\\mathrm{k}}-5.5\\mu^{2}_{\\mathrm{k}}+3.5\\mu_{\\mathrm{k}}\\tag{4.6.6-2}$$
+$$\\mu_{\\mathrm{k}}=\\dfrac{DP_{\\mathrm{k}}}{\\sum\\limits_{\\mathrm{k}}DP_{\\mathrm{k}}}\\tag{4.6.6-3}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>DP</mi><mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">排水设施中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>项损坏的扣分值，按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html/#figD.0.4.4">附录表D-4-4</a>取值；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">排水设施中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>项损坏的权重；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>μ</mi><mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">排水设施中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math>项损坏的扣分值占排水设施所有损坏扣分值的比例。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+
+ <p style="text-align:justify"><a href="#id4.6.7"> 4.6.7</a> <span id="id4.6.7">人行地下通道的附属设施技术状况应采用附属设施状况指数<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">f</mi></mrow></mrow></msub></math>表示，并应按下列公式计算：</span></p>
+
+$$PUCI_{\\mathrm{f} }=\\sum\\limits^{f}_{l=1}(100-FDP_{l})\\cdot\\omega _{l}\\tag{4.6.7-1}$$
+$$FDP_{l}=\\sum\\limits^{ }_{m}DP_{lm}\\cdot\\omega _{lm}\\tag{4.6.7-2}$$
+$$\\omega _{lm}=3.0\\mu^{3}_{lm}-5.5\\mu^{2}_{lm}+3.5\\mu_{lm}\\tag{4.6.7-3}$$
+$$\\mu_{lm}=\\dfrac{DP_{lm}}{\\sum\\limits_{m}DP_{lm}}\\tag{4.6.7-4}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="50px" align='right' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">附属设施的构件类型数；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">t</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">附属设施中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>l</mi></math>类构件的权重，按<a href="#B4.6.7">表4.6.7</a>的规定取值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>FDP</mi><mrow><mrow><mi>l</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">附属设施中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>l</mi></math>类构件的总扣分值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>DP</mi><mrow><mrow><mi>l</mi><mi mathvariant="normal">m</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">附属设施中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>l</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi></math>项损坏的扣分值，按本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/FLD.html/#figD.0.4.5">附录表D-4-5</a>取值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>l</mi><mi mathvariant="normal">m</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">附属设施中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>l</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi></math>项损坏的权重；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'  ><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>μ</mi><mrow><mrow><mi>l</mi><mi mathvariant="normal">m</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">附属设施中第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>l</mi></math>类构件第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi></math>项损坏的扣分值占第<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>l</mi></math>类构件的所有损坏扣分值的比例。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.6.7">表4.6.7 附属设施各构件权重值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="450px">构件类型</td>
+   <td  align="center" id="dhbg" width="450px">权重</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >照明设施</td>
+   <td align="center" id="dhbg" >0.4</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >通风设施</td>
+   <td align="center" id="dhbg" >0.3</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >雨棚</td>
+   <td align="center" id="dhbg" >0.3</td>
+   </tr>
+   </table>
+ <p><font size="2"> 注：在计算<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">f</mi></mrow></mrow></msub></math>时，未出现的构件类型其权重应按剩余构件类型权重的比例关系重新分配给剩余构件类型。</font></p> 
+
+
+ <p style="text-align:justify"><a href="#id4.6.8"> 4.6.8</a> <span id="id4.6.8"> 人行地下通道状况指数<i>PUCI</i>应按下式计算：</span></p>
+
+
+$$\\small{PUCI=PUCI_{z}\\cdot \\omega _{z}+PUCI_{c}\\cdot \\omega _{c}+PUCI_{d}\\cdot \\omega _{d}+PUCI_{p}\\cdot \\omega _{p}+PUCI_{f}\\cdot \\omega _{f}}\\tag{4.6.8}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="150px" align='left' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi>z</mi></mrow></msub><mo>、</mo><msub><mi>ω</mi><mrow><mi>c</mi></mrow></msub><mo>、</mo><msub><mi>ω</mi><mrow><mi>d</mi></mrow></msub><mo>、</mo><msub><mi>ω</mi><mrow><mi>p</mi></mrow></msub><mo>、</mo><msub><mi>ω</mi><mrow><mi>f</mi></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">主体构造物、出入口、道面、排水设施、附属设施权重，按<a href="#B4.6.8">表4.6.8</a>的规定取值。</td>
+ </tr>
+ </table>
+ <p></p>
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.6.8">表4.6.8 人行地下通道各部位权重值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="450px">部位</td>
+   <td  align="center" id="dhbg" width="450px">权重</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >主体构造物</td>
+   <td align="center" id="dhbg" >0.50</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >出入口</td>
+   <td align="center" id="dhbg" >0.20</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >道面</td>
+   <td align="center" id="dhbg" >0.10</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >排水设施</td>
+   <td align="center" id="dhbg" >0.10</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >附属设施</td>
+   <td align="center" id="dhbg" >0.10</td>
+   </tr>
+  	</table>
+ <p><font size="2"> 注：在计算<i>PUCI</i>时，未出现的构件类型其权重应按剩余构件类型权重的比例关系重新分配给剩余构件类型。</font></p> 
+
+ <p style="text-align:justify"><a href="#id4.6.9"> 4.6.9</a> <span id="id4.6.9">人行地下通道状况指数PUCI可按<a href="#B4.6.9">表4.6.9</a>进行评估.</span></p>    
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.6.9">表4.6.9 人行地下通道评价标准</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="150px">等级</td>
+   <td  align="center" id="dhbg" width="150px">A级</td>
+   <td  align="center" id="dhbg" width="150px">B级</td>
+   <td  align="center" id="dhbg" width="150px">C级</td>
+   <td  align="center" id="dhbg" width="150px">D级</td>
+   <td  align="center" id="dhbg" width="150px">E级</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" ><i>PUCI</i>得分</td>
+   <td align="center" id="dhbg" >[90,100]</td>
+   <td align="center" id="dhbg" >[80,90)</td>
+   <td align="center" id="dhbg" >[66,80)</td>
+   <td align="center" id="dhbg" >[50,66)</td>
+   <td align="center" id="dhbg" >[0,50)</td>
+   </tr>
+   </table>
+ <p><font size="2">  </font></p> 
+
+
+
+
+:math:`\ `
+
+    

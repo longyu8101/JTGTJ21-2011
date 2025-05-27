@@ -1,0 +1,2550 @@
+4 检测评估
+==============================================
+
+.. raw:: html
+
+  <h2 id="test111">4 检测评估</h2>
+
+4.1 一般规定
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idt4.1.1"> 4.1.1</a> <span id="idt4.1.1"> 经常性检查、定期检测、特殊检测的含义。</span></p>
+
+ <ol>
+ <li>经常性检查就是日常的巡检，随时发现问题，进行维修。</li>
+ <li>定期检测分为常规定期检测和结构定期检测。常规定期检测主要针对桥梁结构中常见的缺损及日常养护的实施效果，每年进行一次简易快速的结构技术状况的动态数据采集，并以书面报告及必要的影像资料，对设施的运行状态做出评定，是制定年度养护维修计划的主要依据。结构定期检测的目的是按固定周期对桥梁结构安全进行检测。结构定期检测是评定桥梁结构的状况、结构的性能与承载能力，对桥梁结构状态的所有方面进行详细调查，确认和量化结构的退化程度，认定缺损原因和推荐适当的消除措施，包括养护、维修、加固措施或建议特殊检测。</li> 
+ <li>特殊检测是特殊情况下对桥梁采取的检测，其日的是查明桥梁病害原因、破损程度和承载能力，确定桥梁或主要构件的技术状态，以便采取相应的技术措施。</li> 
+ </ol>
+ <p style="text-align:justify;text-indent:2em;" >城市桥梁的检测、评估与养护宜按<a href="#figt1">图1</a>所示流程进行。</p>
+ <div align="center"><img id="figt1" src="./_static/fig/t1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 1 养护流程</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt1'));</script>
+
+4.2 经常性检查
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idt4.2.2"> 4.2.2</a> <span id="idt4.2.2">城市桥梁养护应设置专职桥梁管理人员，负责所管辖桥梁的日常检查工作。未设置专职桥梁管理人员的城市桥梁养护管理部门应由有桥梁施工或养护管理经验的工程技术人员负责日常检查。</span></p>
+ <p style="text-align:justify"><a href="#idt4.2.6"> 4.2.6</a> <span id="idt4.2.6">特殊结构桥检查要点还应包括斜拉索(包括锚具、护简、护套、减震圈)破损、锚固区密封设施缺陷、主缆渗水、钢索防护层破损、缆索异常见动等。</span></p> 
+ 
+4.3 定期检查
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idt4.3.1"> 4.3.1</a> <span id="idt4.3.1">城市桥梁结构定期检测是用来确定桥梁的功能状态和承载能力的变化，提供桥梁状态和退化评定的连续记录，形成桥梁结构安全评定分析的基础，建立修理和修复计划的优先次序，并启动必要的养护措施。因此，结构定期检测是保证桥梁结构安全运营的最重要手段。一般通过下列三项工作来达到控制结构安全的目的：</span></p>
+ <ol>
+ <li>评定桥梁结构的状况、结构的性能与承载能力。</li>
+ <li>对桥梁受力和结构状态的所有方面进行详细调查，确认及量化现在和将来结构的退化程度。</li>
+ <li>认定所有缺损最有可能的原因和推荐适当的消除措施，包括养护、维修、加固或建议特殊检测。</li>  
+ </ol>
+ <p style="text-align:justify;text-indent:2em;" >城市桥梁结构定期检测取决于合适的计划和技术、足够的设备以及参与检测人员的经验和可靠性。检测不仅局限于早已存在的缺陷，还应包括隐含的问题，从而制定预防性结构维修计划。</p>
+ <p style="text-align:justify;text-indent:2em;" >结构定期检测的周期应根据城市桥梁建造年限、结构特点、历年常规定期检测评定的完好状态来综合确定。具有历史价值或列人文物保护范围的桥梁宜缩短检测周期。</p>
+ <p style="text-align:justify"><a href="#idt4.3.2"> 4.3.2</a> <span id="idt4.3.2">常规定期检测专职桥梁养护工程技术人员是指具有五年以上桥梁养护管理经验的、具有工程师资格的专业技术人员。实践经验丰富的桥梁工程技术人员是指具有五年以上桥梁施工、养护维修、管理经验的工程技术人员。</span></p>
+ <p style="text-align:justify"><a href="#idt4.3.4"> 4.3.4</a> <span id="idt4.3.4">本条第4款暂时限制交通的建议，含限制交通和封闭交通。</span></p>
+ <p style="text-align:justify"><a href="#idt4.3.6"> 4.3.6</a> <span id="idt4.3.6">桥梁进行常规定期检测时，每年观测时间宜尽量固定。</span></p>
+ <p style="text-align:justify;text-indent:2em;" >第1款桥梁结构变位检测宜包括下列内容：</p>
+ <ol>
+ <li>面结构纵向线形，桥面标高和墩(台)顶的水平变位：塔顶变位，主缆线形；拱轴线侧向偏离，拱肋矢高等。</li> <li>桥梁墩台基础竖向沉降、水平变位和转角。</li>
+ </ol> 
+ <p style="text-align:justify;text-indent:2em;" >系杆拱桥、悬索桥及斜拉桥通过每年一次的吊杆振动频率的测试，对每年的吊杆力进行对比分析；检查悬索桥吊杆上端与主缆索的索夹是否有松动、移位，下端与梁连接的螺栓有无松动等问题。</p>
+ <p style="text-align:justify"><a href="#idt4.3.9"> 4.3.9</a> <span id="idt4.3.9">对Ⅱ类～V类养护的城市桥梁，结构定期检测应包括桥梁结构中的所有构件。对I类养护的城市桥梁，结构定期检测应根据桥梁检测技术方案和细节进行。如采用桥梁分段或根据所采用的检测技术相同或相类似的构件、连接和细节分组，并对各个分组加以标识，并确定相应的检测频率。</span></p>
+ <p style="text-align:justify"><a href="#idt4.3.11"> 4.3.11</a> <span id="idt4.3.11">第4款，桥梁结构检算评定时，所用构件的几何尺寸、变位、材料强度值、缺损程度宜以结构实体检测结果为依据。</span></p>
+ <p style="text-align:justify;text-indent:2em;" >第8款，若在结构定期检测时，因缺少桥梁原始资料，且需确定桥梁荷载等级，明确桥梁技术状况，应先对桥梁结构进行实测实量，绘制相关结构图纸后，再进行桥梁荷载试验，并进行分析评估。</p>
+ <p style="text-align:justify;text-indent:2em;" >当桥梁结构检算评定结果不满足结构承载能力要求时，应通过荷载试验对桥梁的结构状态和工作性能进行评定。</p>
+ <p style="text-align:justify"><a href="#idt4.3.13"> 4.3.13</a> <span id="idt4.3.13">由结构定期检测工程师填写相关表格，包括状态评定表、特殊构件信息表和照片记录表。成文的检查报告应清楚和详细到日后能完全看清注释的草图。现场应拍摄照片说明损坏状况，并在报告和表格引用中加以注释。</span></p>
+ <p style="text-align:justify;text-indent:2em;" >在填写现场数据表格时，检测者应按统一标准评定构件状态。评定为D、E状态和不合格级的构件应提供损坏的位置、程度及数量，描述必须准确。</p>
+ <p style="text-align:justify;text-indent:2em;" >为便于结构的检算和分析评估，一般梁式桥(钢筋混凝土和预应力混凝土)的结构检测应包括以下内容:桥梁外观检查(缺损状况检查)、桥梁细部几何尺寸测量、桥梁实际承担的车辆荷载、混凝土强度检测、碳化深度检测、保护层厚度检测、钢筋锈蚀状况、裂缝检测(位置、长度、深度和宽度)、支座检测(对病害描述和照片)、桥梁结构变位测量、伸缩装置检测、伸缩装置高差检测等。</p>
+ <p style="text-align:justify"><a href="#idt4.3.14"> 4.3.14</a> <span id="idt4.3.14">严寒和寒冷地区冬季水位变动区环境是指混凝土构件处于冰冻和冻融循环环境。易受盐侵蚀地区、沼泽、腐殖质土壤(填土)或工业废弃区，受人为或自然的侵蚀性物质影响的环境，应检测土壤侵蚀性、水质侵蚀性，根据检测结果确定侵蚀环境对构件耐久性的影响，执行相关标准要求。</span></p>
+ <p style="text-align:justify"><a href="#idt4.3.15"> 4.3.15</a> <span id="idt4.3.15">一体化加宽的桥梁按一座桥梁评估。在一座桥的一侧或两侧加宽但并未与原桥形成整体的桥梁应按单独桥梁分开评估。</span></p>
+ <p style="text-align:justify"><a href="#idt4.3.16"> 4.3.16</a> <span id="idt4.3.16">结构承载能力鉴定可采用结构检算和静力荷载、动力荷载试验对比的方法。静力荷载试验通过布置在控制截面或重要部位的传感器，测试其承受静力荷载下的变形、应变、内力、裂缝等资料，对结构的强度、刚度、稳定性进行分析。动力荷载试验主要是测试在动载作用下的受迫振动特性及桥梁的结构自振特性。通过动静载试验结果，结合理论计算值和相关规范值进行比较分析，给出承载能力的评价。</span></p>
+ <p style="text-align:justify"><a href="#idt4.3.17"> 4.3.17</a> <span id="idt4.3.17">本条为强制性条文。Ⅱ类～V类养护的城市桥梁的整体状况评定为A、B、C级和合格级的可视作不影响结构的工作性能、完整性和耐久性；评定为D级的应视为缺陷影响了结构的工作性能和整体性；评定为E级的应属危桥。I类养护的城市桥梁评为合格级的可视作不影响结构的工作性能、完整性和耐久性；评定为不合格级的应视为缺陷影响了结构的工作性能和整体性，应立即维修。</span></p>          
+  
+4.4 特殊检测
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idt4.4.5"> 4.4.5</a> <span id="idt4.4.5"> 局部取样时不得影响桥梁结构的安全性能。</span></p>
+ <p style="text-align:justify"><a href="#idt4.4.6"> 4.4.6</a> <span id="idt4.4.6"> 荷载试验时加载应经过计算分析确定，加载时应逐步加载，设计、布置试验仪器时，要安装预警装置。加载过程除用预警装置监视试验桥梁安全外，还要用仪器严密监视设施变化。当设施变化超过预定变化限值时，立即停止试验。</span></p>
+ <p style="text-align:justify"><a href="#idt4.4.8"> 4.4.8</a> <span id="idt4.4.8"> 监测结构变化包括构件的缺损、变形及内力变化。</span></p>
+
+4.5 市桥梁技术状况评估方法
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idt4.5.1"> 4.5.1</a> <span id="idt4.5.1">Ⅱ类～V类养护的城市桥梁技术状况的评估方法：</span></p> 
+ <p style="text-align:justify;text-indent:2em;" >对城市桥梁结构的不同组成部分分别进行评估，可以了解桥梁不同组成部分的损坏状况。否则，只得到整个桥梁的综合状况，而不知道具体的损坏部位。</p>
+ <p style="text-align:justify;text-indent:2em;" >构件是城市桥梁结构组成的最小单位，桥面系采用评价要素，上部结构、下部结构分别列出构件类型。部位是由构件所组成的评估体，桥面系作为一个整体的评估体；上部结构先对每跨进行评价，再综合得到上部结构的评价指数；下部结构先对每个独立的桥墩或桥台进行评价，再综合得到下部结构的评价指数。最后，通过综合计算，得到全桥的评价指数。</p>
+ <p style="text-align:justify;text-indent:2em;" >在本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/4.html#id4.5.9">第4.5.9条</a>中列出了单项直接控制指标，可作为直接评定为D级桥的依据，并在附录D中对此类情况按不同损坏类型用*号表示。值得注意的是，该构件扣分值按80分计算，仍需按计算规则计算桥面系、上部结构、下部结构的 BCI、BSI值，最后计算全桥的BCI值。但该桥的评定等级不得高于D级。</p>
+ <p style="text-align:justify"><a href="#idt4.5.2"> 4.5.2</a> <span id="idt4.5.2">Ⅱ类～V类养护的城市桥梁技术状况评估是指根据定期检测结果进行的评估。常规定期检测时采用目测方法观测桥梁各部分的损坏状况，结构定期检测由具有相应资质的专业单位承担。Ⅱ类～V类养护的城市桥梁采用综合指标——桥梁状况指数BCI表示其损坏状况;采用桥梁结构指数BSI表示桥梁不同组成部分的最不利的单个要素或单跨(墩)的结构状况，更注重掌握桥梁结构的损坏状况，以便引起城市桥梁养护管理部门的关注，采取更加切实可行的养护手段予以专项治理。这是在结构物评定时常用的方法。</span></p> 
+ <p style="text-align:justify;text-indent:2em;" >这里采用的BCI计算方法称为分层加权法，即根据观测的损坏状况及其扣分值，逐级、分层加权，最终得到桥梁各部分的BCI、BSI以及全桥的BCI。与以往的评定方法相比，这种方法的优点是：①不需要对桥梁各部分的损坏进行现场评分，仅需要对各部分的损坏状况进行现场描述和记录，降低了对定期检测人员的要求，使得一般的养护人员经过简单培训便可从事定期检测工作。②考虑不同类型桥梁的特点。不同类型的桥梁，由于其组成不同、受力特点不同，所以权重也不相同。③评定方法详细到构件，评定过程可以准确反映具体的损坏部位，便于根据数据的积累监视桥梁状况的退化过程。</p>
+ <p style="text-align:justify;text-indent:2em;" >BCI、BSI计算过程中所涉及的扣分标准、权重是根据专家评分结果反演而得的。同时也可用BCI软件进行计算。</p>
+ <p style="text-align:justify;text-indent:2em;" >钢筋混凝土拱桥和圬工拱桥(有拱上构造)的技术状况评估适用于钢筋混凝土和圬工的肋拱桥、桁架拱桥和双曲拱桥。</p>
+ <p style="text-align:justify;text-indent:2em;" >人行天桥的技术状况评估适用于钢结构梁式(简支梁、连续梁)人行天桥、钢筋混凝土梁式(简支梁、连续梁)人行天桥和钢桁架人行天桥。</p>   
+ <p style="text-align:justify"><a href="#idt4.5.3"> 4.5.3</a> <span id="idt4.5.3">桥面系的技术状况评估:</span></p> 
+ <p style="text-align:justify;text-indent:2em;" >桥头平顺指桥台与台后填土之间是否接顺，是否存在高差、松动、沉陷等。</p>
+ <p style="text-align:justify;text-indent:2em;" >人行天桥桥面系评估要素不包括人行道、桥头平顺两类要素。主桥与各梯道的桥面系按一个整体计算。</p>
+ <p style="text-align:justify"><a href="#idt4.5.4"> 4.5.4</a> <span id="idt4.5.4">上部结构的技术状况评估:</span></p> 
+ <p style="text-align:justify;text-indent:2em;" >上部结构计算以每跨为一个评估单元，得到单跨的技术状况指数后，再综合评定。本标准附录<a href="#figD.0.2">表D-2</a>上部结构各构件评分等级、扣分表可依据<a href="#B1">表1</a>，根据各构件的评价项选用。</p> 
+   <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B1">表1 桥梁上部结构各构件的评价项</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="200px">桥梁分类</td>
+   <td  align="center" id="dhbg" width="200px">构件类型</td>
+   <td  align="center" id="dhbg" width="500px">评价项</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">梁桥</td>
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" >PC或 RC梁式构件、钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" >横向联系、钢结构物</td>
+   </tr>   
+   <tr>
+   <td align="center" id="dhbg" rowspan="4">悬臂+挂梁</td>
+   <td align="center" id="dhbg" >悬臂梁</td>
+   <td align="center" id="dhbg" >PC或RC梁式构件物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >挂梁</td>
+   <td align="center" id="dhbg" >PC或 RC梁式构件、钢结构物</td>
+   </tr>   
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >挂梁支座</td>
+   <td align="center" id="dhbg" >支座</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >防落梁装置</td>
+   <td align="center" id="dhbg" >防落梁装置</td>
+   </tr>  
+   <tr>
+   <td align="center" id="dhbg" rowspan="5">桁架桥</td>
+   <td align="center" id="dhbg" >桁片</td>
+   <td align="center" id="dhbg" >PC或RC梁式构件、钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >主节点</td>
+   <td align="center" id="dhbg" >PC或 RC梁式构件、钢结构物</td>
+   </tr>   
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >纵梁</td>
+   <td align="center" id="dhbg" >PC或RC梁式构件、钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横梁</td>
+   <td align="center" id="dhbg" >PC或RC梁式构件、钢结构物</td>
+   </tr>     
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >连接件</td>
+   <td align="center" id="dhbg" >PC或RC梁式构件、钢结构物</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">刚构桥</td>
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" >拱桥横向联系、钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" >PC或RC梁式构件、钢结构物</td>
+   </tr> 
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">钢结构拱桥圬工拱桥(无拱上构造)</td>
+   <td align="center" id="dhbg" >主拱圈(桁)</td>
+   <td align="center" id="dhbg" >主拱圈、钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" >拱桥横向联系、钢结构物</td>
+   </tr> 
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">钢筋促凝土拱桥圬工拱桥(有拱上构造)</td>
+   <td align="center" id="dhbg" >主拱圈</td>
+   <td align="center" id="dhbg" >主拱圈</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >拱上构造</td>
+   <td align="center" id="dhbg" >实腹式、空腹式</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" >拱桥横向联系、钢结构物</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">人行天桥（梁桥）</td>
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" >PC或 RC梁式构件、钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" >横向联系</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >外部装饰板</td>
+   <td align="center" id="dhbg" >外部装饰板</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="5">人行天桥（钢桁架桥）</td>
+   <td align="center" id="dhbg" >桁片</td>
+   <td align="center" id="dhbg" >钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >主节点</td>
+   <td align="center" id="dhbg" >钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >纵梁</td>
+   <td align="center" id="dhbg" >钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横梁</td>
+   <td align="center" id="dhbg" >钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >连接件</td>
+   <td align="center" id="dhbg" >钢结构物</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >外部装饰板</td>
+   <td align="center" id="dhbg" >外部装饰板</td>
+   </tr>
+	</table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+ <p style="text-align:justify"><a href="#idt4.5.5"> 4.5.5</a> <span id="idt4.5.5">下部结构的技术状况评估：</span></p> 
+ <p style="text-align:justify;text-indent:2em;" >下部结构计算以每个独立的桥墩或桥台为一个评估单元，得到单个桥墩或桥台的技术状况指数后，再综合评定。</p> 
+ <p style="text-align:justify;text-indent:2em;" >对于单个桥墩或桥台采用多立柱支撑的方式，均按一个整体结构进行评估。</p> 
+ <p style="text-align:justify;text-indent:2em;" >拱桥与梁桥下部结构的区别是增加了拱脚这一构件类型，但拱桥上下部结构相连的部位通常并不设支座。从理论分析来说，拱脚作为主要承重构件主拱圈的一部分，其位置对保持整体的稳定性非常重要，一旦拱脚发生损坏或位移必然导致整个受力体系的改变。所以，拱脚的权重应比其他附属构件的权重要大。此处并不是简单地将未出现要素(支座)进行权重重新分配，而是充分考虑拱桥的结构特点和现场考察情况。因此，在拱桥下部结构的技术状况评估中，将支座用拱脚替换掉，并相应增加拱脚的权重，减少基础的权重。</p> 
+ <p style="text-align:justify;text-indent:2em;" >人行天桥增加外部装饰板构件类型对人行天桥外部进行装饰，或增设防雨棚等附属设施，可参照此构件类型进行评价，未出现该要素其权重应按剩余要素权重的比例关系重新分配给剩余要素。</p> 
+ <p style="text-align:justify;text-indent:2em;" >人行天桥梯道的梯脚，按桥台计算。</p>     
+ <p style="text-align:justify"><a href="#idt4.5.6"> 4.5.6</a> <span id="idt4.5.6">全桥的技术状况评估：</span></p> 
+ <p style="text-align:justify;text-indent:2em;" >拱桥结构因上部结构为拱结构，承担水平推力，一旦出现结构病害，可能造成突发垮塌，且近年拱桥发生垮塌事故较多，应引起足够的重视，为此，对各组成部位的权重适当调整，减少了桥面系的权重，增加了上部结构的权重。</p>  
+ <p style="text-align:justify;text-indent:2em;" >人行天桥在城市内承担了大量行人过街的任务，亦是重要的市政设施。上部结构是其主要受力构件，亦是养护管理的重点，且由于下部结构简单，基础等不易检查到，为此，对各组成部位的权重适当调整，减少了下部结构的权重，增加了上部结构的权重。</p>    
+ <p style="text-align:justify"><a href="#idt4.5.7"> 4.5.7</a> <span id="idt4.5.7">、<a href="#idt4.5.8"> 4.5.8</a> <span id="idt4.5.8"> BC1、BS1计算示例：</span></p> 
+ <ol>
+ <li>跨钢筋混凝土连续箱梁桥(<a href="#B2">表2</a>～<a href="#B5">表5</a>):</li>
+ </ol>
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B2">表2 某三跨钢筋混凝土连续箱梁桥基本信息</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="180px">结构类型</td>
+   <td  align="center" id="dhbg" width="180px">长度（m）</td>
+   <td  align="center" id="dhbg" width="180px">桥梁跨数(跨)</td>
+   <td  align="center" id="dhbg" width="180px">桥台数（个）</td>
+   <td  align="center" id="dhbg" width="180px">桥墩数（个）</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >钢筋混凝土连续箱梁</td>
+   <td align="center" id="dhbg" >70</td>
+   <td align="center" id="dhbg" >3</td>
+   <td align="center" id="dhbg" >2</td>
+   <td align="center" id="dhbg" >2</td>
+   </tr>
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3">表3 <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="160px">评价要素</td>
+   <td  align="center" id="dhbg" width="180px">损坏类型</td>
+   <td  align="center" id="dhbg" width="60px">严重程度</td>
+   <td  align="center" id="dhbg" width="100px">单项扣分<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub><mo>⋅</mo><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="120px">各评价要素<br/>扣分/评分</td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="7">桥面铺装</td>
+   <td align="center" id="dhbg" >网裂或龟裂</td>
+   <td align="center" id="dhbg" >6%</td>
+   <td align="center" id="dhbg" >15.00</td>
+   <td align="center" id="dhbg" >0.46</td>
+   <td align="center" id="dhbg" >6.94</td>
+   <td align="center" id="dhbg" rowspan="7">max（65.00，59.99）/35.00</td>
+   <td align="center" id="dhbg" rowspan="7">0.30</td>
+   <td align="center" id="dhbg" rowspan="12">69.00</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >波浪及车辙</td>
+   <td align="center" id="dhbg" >2%</td>
+   <td align="center" id="dhbg" >5.00</td>
+   <td align="center" id="dhbg" >0.19</td>
+   <td align="center" id="dhbg" >0.94</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >坑槽</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >碎裂或破碎</td>
+   <td align="center" id="dhbg" >4%</td>
+   <td align="center" id="dhbg" >65.00</td>
+   <td align="center" id="dhbg" >0.80</td>
+   <td align="center" id="dhbg" >52.11</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >坑洞</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >桥面贯通横缝</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >桥面贯通纵缝</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >桥头平顺</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >15.00/85.00</td>
+   <td align="center" id="dhbg" >0.15</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >伸缩装置</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >15.00/85.00</td>
+   <td align="center" id="dhbg" >0.25</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >排水系统</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >20.00/80.00</td>
+   <td align="center" id="dhbg" >0.10</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >栏杆或护栏</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >20.00/80.00</td>
+   <td align="center" id="dhbg" >0.10</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >人行道块件</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >15.00/85.00</td>
+   <td align="center" id="dhbg" >0.10</td>
+   <!-- <td></td> --> 
+   </tr>
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4">表4 <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+           
+   <tr>
+   <td  align="center" id="dhbg" width="40px">跨号</td>
+   <td  align="center" id="dhbg" width="130px">构件类型</td>
+   <td  align="center" id="dhbg" width="180px">损坏类型</td>
+   <td  align="center" id="dhbg" width="60px">严重程度</td>
+   <td  align="center" id="dhbg" width="100px">单项扣分<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math> · <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px">各构件大类<br/>扣分/评分</td>
+   <td  align="center" id="dhbg" width="50px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">si</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="9">1</td>
+   <td align="center" id="dhbg" rowspan="8">主梁（PC梁式构件）</td>
+   <td align="center" id="dhbg" >表面网状裂缝</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" rowspan="8">36.98/63.02</td>
+   <td align="center" id="dhbg" rowspan="8">1.00</td>
+   <td align="center" id="dhbg" rowspan="9">63.02</td>
+   <td align="center" id="dhbg" rowspan="13">71.01</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >混凝土剥离</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >露筋锈蚀</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >梁体下挠</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>   
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >结构裂缝</td>
+   <td align="center" id="dhbg" >明显</td>
+   <td align="center" id="dhbg" >35.00</td>
+   <td align="center" id="dhbg" >0.78</td>
+   <td align="center" id="dhbg" >27.44</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >裂缝处渗水</td>
+   <td align="center" id="dhbg" >轻微</td>
+   <td align="center" id="dhbg" >15.00</td>
+   <td align="center" id="dhbg" >0.64</td>
+   <td align="center" id="dhbg" >9.54</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >桥面贯通横缝</td>
+   <td align="center" id="dhbg" >非贯通</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >梁体位移</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">2</td>
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >25.00/75.00</td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" rowspan="2">75.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">3</td>
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >25.00/75.00</td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" rowspan="2">75.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   </table>
+   </font>
+   <p style="text-indent:2em;" ><font size="2">注：上部结构为三跨钢筋混凝土连续箱梁，无横向联系，<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi>i</mi><mi>j</mi></mrow></msub></math>取值时未出现的构件类型其权重应按剩余构件类型权重的比例关系重新分配给剩余构件类型。</font></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B5">表5 <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+           
+   <tr>
+   <td  align="center" id="dhbg" width="40px">墩台号</td>
+   <td  align="center" id="dhbg" width="130px">构件类型</td>
+   <td  align="center" id="dhbg" width="200px">损坏类型</td>
+   <td  align="center" id="dhbg" width="60px">严重程度</td>
+   <td  align="center" id="dhbg" width="100px">单项扣分<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math> · <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px">各构件大类<br/>扣分/评分</td>
+   <td  align="center" id="dhbg" width="50px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi><mi>j</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="10">0</td>
+   <td align="center" id="dhbg" rowspan="6">台帽</td>
+   <td align="center" id="dhbg" >网状裂缝</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" rowspan="6">52.33/47.67</td>
+   <td align="center" id="dhbg" rowspan="6">0.15</td>
+   <td align="center" id="dhbg" rowspan="10">76.65</td>
+   <td align="center" id="dhbg" rowspan="13">78.33</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >混凝土剥离</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >露筋锈蚀</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >结构裂缝</td>
+   <td align="center" id="dhbg" >严重</td>
+   <td align="center" id="dhbg" >30.00</td>
+   <td align="center" id="dhbg" >0.73</td>
+   <td align="center" id="dhbg" >21.78</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >裂缝处渗水</td>
+   <td align="center" id="dhbg" >严重</td>
+   <td align="center" id="dhbg" >40.00</td>
+   <td align="center" id="dhbg" >0.76</td>
+   <td align="center" id="dhbg" >30.55</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >墩台成块剥落</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >台身</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >25.00/75.00</td>
+   <td align="center" id="dhbg" >0.20</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >基础</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >15.00/85.00</td>
+   <td align="center" id="dhbg" >0.40</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >耳墙</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >15.00/85.00</td>
+   <td align="center" id="dhbg" >0.10</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >支座</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >20.00/80.00</td>
+   <td align="center" id="dhbg" >0.15</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">1</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >80.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >80.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >76.65</td>
+   <!-- <td></td> --> 
+   </tr>
+   </table>
+   </font>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+ <ol start="2">
+ <li>跨钢箱梁U形人行天桥(两侧梯道均为两跨钢筋混凝土结构)(<a href="#B6">表6</a>～<a href="#B9">表9</a>):</li>
+ </ol>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B6">表6 三跨钢箱梁 U形人行天桥基本信息</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="150px">结构类型</td>
+   <td  align="center" id="dhbg" width="150px">长度（m）</td>
+   <td  align="center" id="dhbg" width="150px">主桥跨数(跨)</td>
+   <td  align="center" id="dhbg" width="150px">引桥跨数(跨)</td>
+   <td  align="center" id="dhbg" width="150px">桥台数（个）</td>
+   <td  align="center" id="dhbg" width="150px">桥墩数（个）</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >主桥钢箱梁、引桥钢筋混凝土结构</td>
+   <td align="center" id="dhbg" >110</td>
+   <td align="center" id="dhbg" >3</td>
+   <td align="center" id="dhbg" >4（两侧各两跨）</td>
+   <td align="center" id="dhbg" >2</td>
+   <td align="center" id="dhbg" >6</td>
+   </tr>
+  
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7">表7 <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="160px">评价要素</td>
+   <td  align="center" id="dhbg" width="180px">损坏类型</td>
+   <td  align="center" id="dhbg" width="60px">严重程度</td>
+   <td  align="center" id="dhbg" width="100px">单项扣分<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub><mo>⋅</mo><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="120px">各评价要素<br/>扣分/评分</td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="10">桥面铺装</td>
+   <td align="center" id="dhbg" >网裂或龟裂</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" rowspan="10">7.5/92.5</td>
+   <td align="center" id="dhbg" rowspan="10">0.40</td>
+   <td align="center" id="dhbg" rowspan="13">82.18</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >波浪及车辙</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >坑槽</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >碎裂或破碎</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >洞穴</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >桥面贯通横缝</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >人行天桥桥面铺装变形</td>
+   <td align="center" id="dhbg" >＜3%</td>
+   <td align="center" id="dhbg" >5.00</td>
+   <td align="center" id="dhbg" >0.75</td>
+   <td align="center" id="dhbg" >3.75</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >人行天桥桥面铺装磨损</td>
+   <td align="center" id="dhbg" >＜3%</td>
+   <td align="center" id="dhbg" >5.00</td>
+   <td align="center" id="dhbg" >0.75</td>
+   <td align="center" id="dhbg" >3.75</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >桥面贯通纵缝</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >人行天桥桥面铺装防滑能力</td>
+   <td align="center" id="dhbg" >足够</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >桥头平顺</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >40.71/59.29</td>
+   <td align="center" id="dhbg" >0.15</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >排水系统</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >43.59/56.41</td>
+   <td align="center" id="dhbg" >0.20</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >栏杆或护栏</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >0.00/100.00</td>
+   <td align="center" id="dhbg" >0.25</td>
+   <!-- <td></td> --> 
+   </tr>
+  </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B8">表8 <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+           
+   <tr>
+   <td  align="center" id="dhbg" width="40px">跨号</td>
+   <td  align="center" id="dhbg" width="130px">构件类型</td>
+   <td  align="center" id="dhbg" width="180px">损坏类型</td>
+   <td  align="center" id="dhbg" width="60px">严重程度</td>
+   <td  align="center" id="dhbg" width="100px">单项扣分<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math> · <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px">各构件大类<br/>扣分/评分</td>
+   <td  align="center" id="dhbg" width="50px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">si</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="11">主3</td>
+   <td align="center" id="dhbg" rowspan="9">主梁（钢结构物）</td>
+   <td align="center" id="dhbg" >变色起皮</td>
+   <td align="center" id="dhbg" >＜30%</td>
+   <td align="center" id="dhbg" >15.00</td>
+   <td align="center" id="dhbg" >0.38</td>
+   <td align="center" id="dhbg" >10.46</td>
+   <td align="center" id="dhbg" rowspan="9">29.75/70.25</td>
+   <td align="center" id="dhbg" rowspan="9">1.00</td>
+   <td align="center" id="dhbg" rowspan="11">70.25</td>
+   <td align="center" id="dhbg" rowspan="29">72.96</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >油漆剥落</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >一般锈蚀</td>
+   <td align="center" id="dhbg" >＜10%</td>
+   <td align="center" id="dhbg" >25.00</td>
+   <td align="center" id="dhbg" >0.63</td>
+   <td align="center" id="dhbg" >19.29</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >锈蚀成洞</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>   
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >焊缝裂纹</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >焊缝开裂</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >铆钉损失</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >螺栓松动</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >错位变形</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >外部装饰</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">主4</td>
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >29.75/70.25</td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" rowspan="3">70.25</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >外部装饰</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">主5</td>
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >29.75/70.25</td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" rowspan="3">70.25</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >外部装饰</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">梯1</td>
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >25.00/75.00</td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" rowspan="3">75.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >外部装饰</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">梯2</td>
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >25.00/75.00</td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" rowspan="3">75.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >外部装饰</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">梯6</td>
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >25.00/75.00</td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" rowspan="3">75.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >外部装饰</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">梯7</td>
+   <td align="center" id="dhbg" >主梁</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >25.00/75.00</td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" rowspan="3">75.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >外部装饰</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   </table>
+   </font>
+   <p style="text-indent:2em;" ><font size="2">注：三、四、五主跨上部结构为钢箱梁，无横向联系和装饰板，<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi>i</mi><mi>j</mi></mrow></msub></math>取值时未出现的构件类型其权重应按剩余构件类型权重的比例关系重新分配给剩余构件类型。</font></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B9">表9 <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+           
+   <tr>
+   <td  align="center" id="dhbg" width="60px">墩台号</td>
+   <td  align="center" id="dhbg" width="70px">构件类型</td>
+   <td  align="center" id="dhbg" width="200px">损坏类型</td>
+   <td  align="center" id="dhbg" width="90px">严重程度</td>
+   <td  align="center" id="dhbg" width="100px">单项扣分<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math> · <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px">各构件大类<br/>扣分/评分</td>
+   <td  align="center" id="dhbg" width="50px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi><mi>j</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="7">0</td>
+   <td align="center" id="dhbg" rowspan="4">基础</td>
+   <td align="center" id="dhbg" >基础掏空</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" rowspan="4">0.00/100.00</td>
+   <td align="center" id="dhbg" rowspan="4">0.22</td>
+   <td align="center" id="dhbg" rowspan="7">100.00</td>
+   <td align="center" id="dhbg" rowspan="14">85.00</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >混凝土桩损坏</td>
+   <td align="center" id="dhbg" >完好</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >基础位移</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >基础冲刷</td>
+   <td align="center" id="dhbg" >严重</td>
+   <td align="center" id="dhbg" >30.00</td>
+   <td align="center" id="dhbg" >0.73</td>
+   <td align="center" id="dhbg" >21.78</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >台帽</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >0.00/100.00</td>
+   <td align="center" id="dhbg" >0.17</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >台身</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >0.00/100.00</td>
+   <td align="center" id="dhbg" >0.39</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >支座</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >0.00/100.00</td>
+   <td align="center" id="dhbg" >0.22</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">1(墩)</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >80.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">2(墩)</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >80.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">3(墩)</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >80.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">4(墩)</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >80.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">5(墩)</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >80.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">6(墩)</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >80.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">7(台)</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >100.00</td>
+   <!-- <td></td> --> 
+   </tr>
+   </table>
+   </font>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+
+
+ <ol start="3">
+ <li>单跨钢筋混凝土拱桥(<a href="#B10">表10</a>～<a href="#B13">表13</a>):</li>
+ </ol> 
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B10">表10 单跨钢筋混凝土拱桥基本信息</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="180px">结构类型</td>
+   <td  align="center" id="dhbg" width="180px">长度（m）</td>
+   <td  align="center" id="dhbg" width="180px">桥梁跨数(跨)</td>
+   <td  align="center" id="dhbg" width="180px">桥台数（个）</td>
+   <td  align="center" id="dhbg" width="180px">桥墩数（个）</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >钢筋混凝土拱桥</td>
+   <td align="center" id="dhbg" >45</td>
+   <td align="center" id="dhbg" >1</td>
+   <td align="center" id="dhbg" >2</td>
+   <td align="center" id="dhbg" >0</td>
+   </tr>
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+ 
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B11">表11 <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="160px">评价要素</td>
+   <td  align="center" id="dhbg" width="180px">损坏类型</td>
+   <td  align="center" id="dhbg" width="60px">严重程度</td>
+   <td  align="center" id="dhbg" width="100px">单项扣分<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub><mo>⋅</mo><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="120px">各评价要素<br/>扣分/评分</td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="7">桥面铺装</td>
+   <td align="center" id="dhbg" >网裂或龟裂</td>
+   <td align="center" id="dhbg" >6%</td>
+   <td align="center" id="dhbg" >15.00</td>
+   <td align="center" id="dhbg" >0.33</td>
+   <td align="center" id="dhbg" >4.88</td>
+   <td align="center" id="dhbg" rowspan="7">88.63/11.37</td>
+   <td align="center" id="dhbg" rowspan="7">0.30</td>
+   <td align="center" id="dhbg" rowspan="12">69.04</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >波浪及车辙</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >坑槽</td>
+   <td align="center" id="dhbg" >1%</td>
+   <td align="center" id="dhbg" >65.00</td>
+   <td align="center" id="dhbg" >0.75</td>
+   <td align="center" id="dhbg" >48.43</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >碎裂或破碎</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >坑洞</td>
+   <td align="center" id="dhbg" >6%</td>
+   <td align="center" id="dhbg" >50.00</td>
+   <td align="center" id="dhbg" >0.69</td>
+   <td align="center" id="dhbg" >34.71</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >桥面贯通横缝</td>
+   <td align="center" id="dhbg" >半贯通</td>
+   <td align="center" id="dhbg" >5.00</td>
+   <td align="center" id="dhbg" >0.12</td>
+   <td align="center" id="dhbg" >0.61</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >桥面贯通纵缝</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >桥头平顺</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >0.00/100.00</td>
+   <td align="center" id="dhbg" >0.15</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >伸缩装置</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >7.50/92.50</td>
+   <td align="center" id="dhbg" >0.25</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >排水系统</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >10.00/90.00</td>
+   <td align="center" id="dhbg" >0.10</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >栏杆或护栏</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >15.00/85.00</td>
+   <td align="center" id="dhbg" >0.10</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >人行道块件</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >0.00/100.00</td>
+   <td align="center" id="dhbg" >0.10</td>
+   <!-- <td></td> --> 
+   </tr>
+  </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B12">表12 <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+           
+   <tr>
+   <td  align="center" id="dhbg" width="40px">跨号</td>
+   <td  align="center" id="dhbg" width="130px">构件类型</td>
+   <td  align="center" id="dhbg" width="180px">损坏类型</td>
+   <td  align="center" id="dhbg" width="60px">严重程度</td>
+   <td  align="center" id="dhbg" width="100px">单项扣分<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math> · <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>i</mi><mi>j</mi></mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px">各构件大类<br/>扣分/评分</td>
+   <td  align="center" id="dhbg" width="50px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">si</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="15">1</td>
+   <td align="center" id="dhbg" rowspan="13">主拱圈</td>
+   <td align="center" id="dhbg" >桥面贯通横缝</td>
+   <td align="center" id="dhbg" >非贯通</td>
+   <td align="center" id="dhbg" >25.00</td>
+   <td align="center" id="dhbg" >0.41</td>
+   <td align="center" id="dhbg" >10.13</td>
+   <td align="center" id="dhbg" rowspan="13">74.24/25.76</td>
+   <td align="center" id="dhbg" rowspan="13">0.50</td>
+   <td align="center" id="dhbg" rowspan="15">47.85</td>
+   <td align="center" id="dhbg" rowspan="15">47.85</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >主拱圈变形</td>
+   <td align="center" id="dhbg" >轻微</td>
+   <td align="center" id="dhbg" >40.00</td>
+   <td align="center" id="dhbg" >0.56</td>
+   <td align="center" id="dhbg" >22.32</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >砌体缺损</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >气砌体脱落</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>   
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >砂浆松动缺失</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >表面风化损坏</td>
+   <td align="center" id="dhbg" >轻微</td>
+   <td align="center" id="dhbg" >15.00</td>
+   <td align="center" id="dhbg" >0.27</td>
+   <td align="center" id="dhbg" >4.02</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >表面网状裂缝</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >构件断裂</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >结构裂缝</td>
+   <td align="center" id="dhbg" >明显</td>
+   <td align="center" id="dhbg" >35.00</td>
+   <td align="center" id="dhbg" >0.51</td>
+   <td align="center" id="dhbg" >17.98</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >混凝土剥离</td>
+   <td align="center" id="dhbg" >轻微</td>
+   <td align="center" id="dhbg" >30.00</td>
+   <td align="center" id="dhbg" >0.46</td>
+   <td align="center" id="dhbg" >13.89</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >露筋锈蚀</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >节点开裂</td>
+   <td align="center" id="dhbg" >1%</td>
+   <td align="center" id="dhbg" >10.00</td>
+   <td align="center" id="dhbg" >0.19</td>
+   <td align="center" id="dhbg" >1.87</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >裂缝处渗水</td>
+   <td align="center" id="dhbg" >轻微</td>
+   <td align="center" id="dhbg" >15.00</td>
+   <td align="center" id="dhbg" >0.27</td>
+   <td align="center" id="dhbg" >4.02</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >拱上构造</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >22.50/77.50</td>
+   <td align="center" id="dhbg" >0.20</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >横向联系</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >35.12/64.88</td>
+   <td align="center" id="dhbg" >0.30</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+  </table>
+   </font>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B13">表13 <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+           
+   <tr>
+   <td  align="center" id="dhbg" width="60px">墩台号</td>
+   <td  align="center" id="dhbg" width="70px">构件类型</td>
+   <td  align="center" id="dhbg" width="200px">损坏类型</td>
+   <td  align="center" id="dhbg" width="90px">严重程度</td>
+   <td  align="center" id="dhbg" width="100px">单项扣分<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="60px">权重<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math> · <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow><mrow><mi mathvariant="normal">l</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px">各构件大类<br/>扣分/评分</td>
+   <td  align="center" id="dhbg" width="50px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi><mi>j</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="50px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="7">0</td>
+   <td align="center" id="dhbg" rowspan="3">拱脚</td>
+   <td align="center" id="dhbg" >拱脚位移</td>
+   <td align="center" id="dhbg" >轻微</td>
+   <td align="center" id="dhbg" >35.00</td>
+   <td align="center" id="dhbg" >0.77</td>
+   <td align="center" id="dhbg" >27.06</td>
+   <td align="center" id="dhbg" rowspan="3">40.85/59.15</td>
+   <td align="center" id="dhbg" rowspan="3">0.25</td>
+   <td align="center" id="dhbg" rowspan="7">76.69</td>
+   <td align="center" id="dhbg" rowspan="8">76.69</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >拱脚开裂</td>
+   <td align="center" id="dhbg" >轻微</td>
+   <td align="center" id="dhbg" >20.00</td>
+   <td align="center" id="dhbg" >0.69</td>
+   <td align="center" id="dhbg" >13.79</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >拱脚残缺</td>
+   <td align="center" id="dhbg" >无</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <td align="center" id="dhbg" >0.00</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >基础</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >15.00/85.00</td>
+   <td align="center" id="dhbg" >0.58</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >耳墙（翼墙）</td>
+   <td align="center" id="dhbg" colspan="5">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >25.89/74.11</td>
+   <td align="center" id="dhbg" >0.17</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >台帽</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">台身</td>
+   <td align="center" id="dhbg" colspan="5">—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">1</td>
+   <td align="center" id="dhbg" colspan="8">略</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >76.69</td>
+   <!-- <td></td> --> 
+   </tr>
+   </table>
+   </font>
+   <p style="text-indent:2em;" ><font size="2">该桥无台帽、台身构件，<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi>j</mi></mrow><mrow><mrow><mi mathvariant="normal">k</mi></mrow></mrow></mrow></msub></math>取值时未出现的构件类型其权重应按剩余构件类型权重的比例关系重新分配给剩余构件类型。</font></p>
+
+ <p style="text-align:justify;text-indent:2em;" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><mo>=</mo><mrow><mi mathvariant="normal">m</mi><mi mathvariant="normal">i</mi><mi mathvariant="normal">n</mi></mrow><mo stretchy="false">(</mo><mn>100</mn><mo>−</mo><mi>M</mi><mi>D</mi><msub><mi>P</mi><mrow><mi>i</mi></mrow></msub><mo stretchy="false">)</mo><mo>=</mo><mn>11.37</mn></math>，桥面系结构状况评定为E级。</p>
+ <p style="text-align:justify;text-indent:2em;" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub><mo>=</mo><mrow><mi mathvariant="normal">m</mi><mi mathvariant="normal">i</mi><mi mathvariant="normal">n</mi></mrow><mo stretchy="false">(</mo><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow><mi>i</mi></mrow></msub><mo stretchy="false">)</mo><mo>=</mo><mn>47.85</mn></math>，上部结构结构状况评定为E级</p>
+ <p style="text-align:justify;text-indent:2em;" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>S</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow></mrow></msub><mo>=</mo><mrow><mi mathvariant="normal">m</mi><mi mathvariant="normal">i</mi><mi mathvariant="normal">n</mi></mrow><mo stretchy="false">(</mo><mi>B</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">x</mi></mrow><mi>j</mi></mrow></msub><mo stretchy="false">)</mo><mo>=</mo><mn>76.69</mn></math>，下部结构结构状况评定为C级。</p>
+ <p style="text-align:justify;text-indent:2em;" >全桥的技术状况指数 RCI计算:</p>
+ <p style="text-align:justify;text-indent:2em;" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>B</mi><mi>C</mi><mi>I</mi><mo>=</mo><mn>69.04</mn><mo>×</mo><mn>0.10</mn><mo>+</mo><mn>47.85</mn><mo>×</mo><mn>0.45</mn><mo>+</mo><mn>76.69</mn><mo>×</mo><mn>0.45</mn><mo>=</mo><mn>62.95</mn></math>，全桥技术状况评定为D级。</p>
+ <p style="text-align:justify;text-indent:2em;" >全桥结构状况指数BSI<sub>m</sub>、BSI<sub>s</sub>、BSI<sub>x</sub>、分别为11.37(E级)、47.85(E级)、76.69(C级)。应对该桥进行特殊结构检测或其他可靠性评估。</p>     
+ <p style="text-align:justify"><a href="#idt4.5.9"> 4.5.9</a> <span id="idt4.5.9">本条所列15款病害可直接评定为不合格级桥或D级桥，1类养护的城市桥梁可评定为不合格级，Ⅱ类～V类养护的城市桥梁可评定为D级桥。具体的损坏程度应通过结构定期检测、特殊检测或其他可靠性评估确定，检测单位应同时提出进一步的维修加固和监测建议。</span></p>         
+ <p style="text-align:justify;text-indent:2em;" >在附录D中列为“*”的，Ⅱ类～V类养护的城市桥梁该构件扣分值按80分计算，仍按计算规则计算桥面系、上部结构、下部结构的BCI、BSI值，最后计算全桥的BCI值。该桥的评定等级不得高于D级，并应注明该构件损坏部位、损坏程度、损坏原因及必要的分析。</p>
+ <p style="text-align:justify;text-indent:2em;" >第2款，拱桥应检查拱脚的位移、转动状况；测定拱轴线线形，是否存在突变点；判断其内力变化情况。进一步开展特殊检测。</p>
+ <p style="text-align:justify;text-indent:2em;" >第3款，钢结构节点板及连接铆钉、螺栓的损坏数量在20%以上，是指铆钉、螺栓总数量大于50个的情况。若总数量小于20个，损坏在3个以上；总数量大于20个，小于50个，损坏在7个以上；总数量大于50个，损坏在20%以上。</p>
+ <p style="text-align:justify;text-indent:2em;" >第8款，应全面检查支座损坏状况，是否存在单梁支撑点缺失的现象，是否存在单梁受力的现象，并评定不同损坏状况(变形、错位、脱空、破损严重、缺失)的支座数量分布情况，综合判断支座损坏情况。</p>
+ <p style="text-align:justify;text-indent:2em;" >第9款，包括水下承重构件经冲刷后其有效截面面积减少20%以上的情况。</p>
+ <p style="text-align:justify;text-indent:2em;" >对临水的桥台或桥墩受水流冲刷，易发生基底冲刷现象，一般可采用浑水检测或筑堰清淤方式检查基底冲刷情况。对水中的桥墩，一般可采用浑水检测。</p>
+ <p style="text-align:justify;text-indent:2em;" >浑水检测指由潜水员或采用水下摄影器材、测量器材对桥台或桥墩的水下部位进行摄影、测量，判断结构损伤情况和基底冲刷情况。</p>
+ <p style="text-align:justify;text-indent:2em;" >第15款，其他各种对桥梁结构安全有较大影响的部件损坏，是对前14种情况的补充。各地可根据当地实际情况列入判定为D级桥的条件。比如:圬工拱桥(石拱桥)石拱圈缺少；拱坡塌落；翼板断裂；支座脱空、上部结构移位；墩台防震挡块脱落、易落梁；悬臂梁牛腿变截面开裂、钢梁锈蚀等。</p>       
+
+
+4.6 行地下通道技术状况评估方法
+--------------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idt4.6.1"> 4.6.1</a> <span id="idt4.6.1"> 本标准可评估的人行地下通道包括以下两类。</span></p> 
+ <ol>
+ <li>只设置人行道，专供行人横穿道路的通道。这是一种非常常见的通道形式，其主要功能是在不影响通道上方道路正常交通的情况下，方便行人过街。</li>
+ <li>设置非机动车道和人行道，可供非机动车和行人使用的通道。</li> 
+ </ol>
+ <p style="text-align:justify;text-indent:2em;" >对有内装饰的人行地下通道，在定期检测中，可根据人行地下通道渗水状况及需判断渗水来源、判定渗水程度的实际情况，确定拆除内装饰范围；同时可根据人行地下通道变形缝的沉降、位移、松动、开裂情况，确定拆除内装饰范围;还可根据内装饰墙砖的裂缝、破损情况，确定拆除内装饰范围。内装饰拆除后，对人行地下通道进行技术状况评估，制定相应养护对策。</p>
+ <p style="text-align:justify"><a href="#idt4.6.2"> 4.6.2</a> <span id="idt4.6.2"> 人行地下通道评价的各个层次之间的关系如<a href="#figt2">图2</a>所示。</span></p> 
+
+ <div align="center"><img id="figt2" src="./_static/fig/t2.png" alt="Picture" width="500px"></div>
+  <p style="color: dimgray;text-align: center;">图 2 人行地下通道评价层次关系</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt2'));</script> 
+ <p style="text-align:justify"><a href="#idt4.6.3"> 4.6.3</a> <span id="idt4.6.3">～<a href="#idt4.6.9"> 4.6.9</a> <span id="idt4.6.9">人行地下通道PUCI计算示例(<a href="#B14">表14</a>～<a href="#B120">表20</a>)：<a href="#figt2">图2</a></span></p> 
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B14">表14 某人行地下通道基木信息</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="150px">结构类型</td>
+   <td  align="center" id="dhbg" width="150px">人行地下通道长度（m）</td>
+   <td  align="center" id="dhbg" width="150px">变形缝数量（道）</td>
+   <td  align="center" id="dhbg" width="150px">出入口数量（个）</td>
+   <td  align="center" id="dhbg" width="150px">挡土墙长度（m）</td>
+   <td  align="center" id="dhbg" width="150px">照明设备（盏）</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >箱涵</td>
+   <td align="center" id="dhbg" >34.5</td>
+   <td align="center" id="dhbg" >30</td>
+   <td align="center" id="dhbg" >2</td>
+   <td align="center" id="dhbg" >32</td>
+   <td align="center" id="dhbg" >6</td>
+   </tr>
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+ <p style="text-align:justify;text-indent:2em;" > 某人行地下通道各部位损坏如<a href="#B15">表15</a>所示。 </p>
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B15">表15 某人行地下通道各部位损坏信息</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="225px">部位</td>
+   <td  align="center" id="dhbg" width="225px">构件类型</td>
+   <td  align="center" id="dhbg" width="225px">损坏类型</td>
+   <td  align="center" id="dhbg" width="225px">损坏程度</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >主体构造物</td>
+   <td align="center" id="dhbg" >衬砌和挡墙</td>
+   <td align="center" id="dhbg" >混凝土剥离</td>
+   <td align="center" id="dhbg" >2%</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">出入口1</td>
+   <td align="center" id="dhbg" rowspan="2">梯道</td>
+   <td align="center" id="dhbg" >磨损</td>
+   <td align="center" id="dhbg" >2%</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >破裂或破碎</td>
+   <td align="center" id="dhbg" >1%</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >栏杆或护栏</td>
+   <td align="center" id="dhbg" >丢失残缺</td>
+   <td align="center" id="dhbg" >轻微</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">出入口2</td>
+   <td align="center" id="dhbg" rowspan="2">梯道</td>
+   <td align="center" id="dhbg" >磨损</td>
+   <td align="center" id="dhbg" >2%</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >破裂或破碎</td>
+   <td align="center" id="dhbg" >1%</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >栏杆或护栏</td>
+   <td align="center" id="dhbg" >丢失残缺</td>
+   <td align="center" id="dhbg" >轻微</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="4">道面</td>
+   <td align="center" id="dhbg" rowspan="4">道面</td>
+   <td align="center" id="dhbg" >破裂或破碎</td>
+   <td align="center" id="dhbg" >4%</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >坑槽</td>
+   <td align="center" id="dhbg" >1%</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >裂缝</td>
+   <td align="center" id="dhbg" >1%</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >磨损</td>
+   <td align="center" id="dhbg" >4%</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">排水设施</td>
+   <td align="center" id="dhbg" rowspan="2">排水设施</td>
+   <td align="center" id="dhbg" >破排水设施阻塞</td>
+   <td align="center" id="dhbg" >4%</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >残缺脱落</td>
+   <td align="center" id="dhbg" >6%</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">附属设施</td>
+   <td align="center" id="dhbg" >照明设施</td>
+   <td align="center" id="dhbg" >损坏或缺失</td>
+   <td align="center" id="dhbg" >1%</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >雨棚</td>
+   <td align="center" id="dhbg" >丢失残缺</td>
+   <td align="center" id="dhbg" >轻微</td>
+   </tr>
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B16">表16 <math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">z</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="80px">部位</td>
+   <td  align="center" id="dhbg" width="180px">构件类型</td>
+   <td  align="center" id="dhbg" width="180px">损坏类型</td>
+   <td  align="center" id="dhbg" width="80px">损坏程度</td>
+   <td  align="center" id="dhbg" width="120px">扣分值<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>D</mi><msub><mi>P</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow><mi>i</mi><mi>j</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px">得分</td>
+   <td  align="center" id="dhbg" width="100px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mrow><mi mathvariant="normal">h</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px">得分<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">z</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">箱涵</td>
+   <td align="center" id="dhbg" >衬砌和挡墙</td>
+   <td align="center" id="dhbg" >混凝土剥离</td>
+   <td align="center" id="dhbg" >2%</td>
+   <td align="center" id="dhbg" >15</td>
+   <td align="center" id="dhbg" >85</td>
+   <td align="center" id="dhbg" >0.6</td>
+   <td align="center" id="dhbg" rowspan="2">91</td>
+   </tr>
+   <tr>
+    <!-- <td></td> --> 
+   <td align="center" id="dhbg" >变形缝</td>
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >—</td>
+   <td align="center" id="dhbg" >0</td>
+   <td align="center" id="dhbg" >100</td>
+   <td align="center" id="dhbg" >0.4</td>
+    <!-- <td></td> --> 
+   </tr>
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B17">表17 <math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="80px">部位</td>
+   <td  align="center" id="dhbg" width="100px">构件<br/>类型</td>
+   <td  align="center" id="dhbg" width="120px">损坏<br/>类型</td>
+   <td  align="center" id="dhbg" width="90px">损坏<br/>程度</td>
+   <td  align="center" id="dhbg" width="90px">扣分值<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>D</mi><msub><mi>P</mi><mrow><mi>i</mi><mi>j</mi><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px">权重<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ω</mi><mrow><mi>i</mi><mi>j</mi><mi mathvariant="normal">k</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px">扣分/得分</td>
+   <td  align="center" id="dhbg" width="80px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi>i</mi><mi>j</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px">得分<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mi>c</mi><mi>i</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="80px">得分<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">出口1</td>
+   <td align="center" id="dhbg" rowspan="2">梯道</td>
+   <td align="center" id="dhbg" >磨损</td>
+   <td align="center" id="dhbg" >2%</td>
+   <td align="center" id="dhbg" >5</td>
+   <td align="center" id="dhbg" >0.75</td>
+   <td align="center" id="dhbg" rowspan="2">7.50/92.50</td>
+   <td align="center" id="dhbg" rowspan="2">0.5</td>
+   <td align="center" id="dhbg" rowspan="3">91.25</td>
+   <td align="center" id="dhbg" rowspan="6">91.25</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >碎裂或破碎</td>
+   <td align="center" id="dhbg" >1%</td>
+   <td align="center" id="dhbg" >5</td>
+   <td align="center" id="dhbg" >0.75</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >栏杆或护栏</td>
+   <td align="center" id="dhbg" >丢失残缺</td>
+   <td align="center" id="dhbg" >轻微</td>
+   <td align="center" id="dhbg" >10</td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" >10.00/90.00</td>
+   <td align="center" id="dhbg" >0.5</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">出口2</td>
+   <td align="center" id="dhbg" rowspan="2">梯道</td>
+   <td align="center" id="dhbg" >磨损</td>
+   <td align="center" id="dhbg" >2%</td>
+   <td align="center" id="dhbg" >5</td>
+   <td align="center" id="dhbg" >0.75</td>
+   <td align="center" id="dhbg" rowspan="2">7.50/92.50</td>
+   <td align="center" id="dhbg" rowspan="2">0.5</td>
+   <td align="center" id="dhbg" rowspan="3">91.25</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >碎裂或破碎</td>
+   <td align="center" id="dhbg" >1%</td>
+   <td align="center" id="dhbg" >5</td>
+   <td align="center" id="dhbg" >0.75</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >栏杆或护栏</td>
+   <td align="center" id="dhbg" >丢失残缺</td>
+   <td align="center" id="dhbg" >轻微</td>
+   <td align="center" id="dhbg" >10</td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" >10.00/90.00</td>
+   <td align="center" id="dhbg" >0.5</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B18">表18 <math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="100px">部位</td>
+   <td  align="center" id="dhbg" width="180px">损坏类型</td>
+   <td  align="center" id="dhbg" width="100px">损坏程度</td>
+   <td  align="center" id="dhbg" width="120px">扣分值<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>D</mi><msub><mi>P</mi><mrow><mi>j</mi><mrow><mi mathvariant="normal">k</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="120px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi>j</mi><mi mathvariant="normal">k</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="280px">扣分/得分<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mi>d</mi></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="4">道面</td>
+   <td align="center" id="dhbg" >碎裂或破碎</td>
+   <td align="center" id="dhbg" >4%</td>
+   <td align="center" id="dhbg" >15</td>
+   <td align="center" id="dhbg" >0.697</td>
+   <td align="center" id="dhbg" rowspan="4">24.48/75.52</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >坑槽</td>
+   <td align="center" id="dhbg" >1%</td>
+   <td align="center" id="dhbg" >5</td>
+   <td align="center" id="dhbg" >0.357</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >裂缝</td>
+   <td align="center" id="dhbg" >1%</td>
+   <td align="center" id="dhbg" >5</td>
+   <td align="center" id="dhbg" >0.357</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >磨损</td>
+   <td align="center" id="dhbg" >4%</td>
+   <td align="center" id="dhbg" >15</td>
+   <td align="center" id="dhbg" >0.697</td>
+   <!-- <td></td> --> 
+   </tr>
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B19">表19 <math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">p</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="100px">部位</td>
+   <td  align="center" id="dhbg" width="180px">损坏类型</td>
+   <td  align="center" id="dhbg" width="100px">损坏程度</td>
+   <td  align="center" id="dhbg" width="120px">扣分值<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>D</mi><msub><mi>P</mi><mrow><mi mathvariant="normal">k</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="120px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi mathvariant="normal">k</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="280px">扣分/得分<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mi>p</mi></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">排水设施</td>
+   <td align="center" id="dhbg" >排水设施组塞</td>
+   <td align="center" id="dhbg" >4%</td>
+   <td align="center" id="dhbg" >10</td>
+   <td align="center" id="dhbg" >0.666</td>
+   <td align="center" id="dhbg" rowspan="2">22.22/77.78</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >残缺脱落</td>
+   <td align="center" id="dhbg" >6%</td>
+   <td align="center" id="dhbg" >20</td>
+   <td align="center" id="dhbg" >0.778</td>
+   <!-- <td></td> --> 
+   </tr>
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B20">表20 <math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mrow><mi mathvariant="normal">f</mi></mrow></mrow></msub></math> 计算示例</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="100px">部位</td>
+   <td  align="center" id="dhbg" width="120px">构件类型</td>
+   <td  align="center" id="dhbg" width="150px">损坏类型</td>
+   <td  align="center" id="dhbg" width="120px">损坏程度</td>
+   <td  align="center" id="dhbg" width="110px">扣分值<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>F</mi><mi>D</mi><msub><mi>P</mi><mrow><mi>l</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px">得分</td>
+   <td  align="center" id="dhbg" width="100px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi >l</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="100px">得分<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>P</mi><mi>U</mi><mi>C</mi><msub><mi>I</mi><mrow><mi mathvariant="normal">f</mi></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="2">附属设施</td>
+   <td align="center" id="dhbg" >照明设施</td>
+   <td align="center" id="dhbg" >损坏或缺失</td>
+   <td align="center" id="dhbg" >1%</td>
+   <td align="center" id="dhbg" >10</td>
+   <td align="center" id="dhbg" >90</td>
+   <td align="center" id="dhbg" >0.57</td>
+   <td align="center" id="dhbg" rowspan="2">90.00</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" >雨棚</td>
+   <td align="center" id="dhbg" >丢失残缺</td>
+   <td align="center" id="dhbg" >轻微</td>
+   <td align="center" id="dhbg" >10</td>
+   <td align="center" id="dhbg" >90</td>
+   <td align="center" id="dhbg" >0.43</td>
+    <!-- <td></td> --> 
+   </tr>
+   </table>
+   <p style="text-indent:2em;" ><font size="2"> 由于该人行地下通道无通风设施，<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ω</mi><mrow><mi>i</mi></mrow></msub></math>取值时未出现的构件类型其权重应按刺余 构件类型权重的比例关系重新分配给剩余构件类型。</font></p>
+ <p style="text-align:justify;text-indent:2em;" >人行地下通道状况指数<i>PUCI</i>计算：</p>
+
+$$\\begin{array}{ll}  PUCI & =PUCI_{\\mathrm{z} }\\cdot \\omega _{\\mathrm{z} }+PUCI_{\\mathrm{c} }\\cdot \\omega _{\\mathrm{c} }+PUCI_{\\mathrm{d} }\\cdot \\omega _{\\mathrm{d} }+PUCI_{\\mathrm{p} }\\cdot \\omega _{\\mathrm{p} }+PUCI_{\\mathrm{f} }\\cdot \\omega _{\\mathrm{f} } \\\\  &=91\\times 0.5+91.25\\times 0.2+75.52\\times 0.1+77.78\\times 0.1+99.00\\times 0.1\\\\  &=88.08\\end{array} $$
+
+.. raw:: html
+
+ <p style="text-align:justify;text-indent:2em;" >该人行地下通道技术状况评定为B级。</p>
+
+
+
+:math:`\ `

@@ -1,0 +1,30 @@
+8 人行地下通道
+==============================================
+
+.. raw:: html
+
+  <h2 id="test111">8 人行地下通道</h2>
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.0.1"> 8.0.1</a> <span id="id8.0.1"> 人行地下通道内铺砌和装饰应完整、清洁。</span></p>
+ <p style="text-align:justify"><a href="#id8.0.2"> 8.0.2</a> <span id="id8.0.2"> 人行地下通道主体结构应每季度检查一次，主体结构应完好、不得漏水，混凝土裂缝不得大于本标准<a href="https://cjj99-2017.readthedocs.io/zh-cn/latest/5.html#B5.3.2">表5.3.2</a>的限值。墙体、顶板表面不得腐蚀、剥落。</span></p>
+ <p style="text-align:justify"><a href="#id8.0.3"> 8.0.3</a> <span id="id8.0.3"> 人行地下通道内装饰物应完好、牢固；涂装及装饰材料应采用环保、阻燃材料，对无装饰的墙身宜2年～3年涂装一次。</span></p>
+ <p style="text-align:justify"><a href="#id8.0.4"> 8.0.4</a> <span id="id8.0.4"> 人行地下通道内电器、电路、控制设备应每月检查一次，所有电气设备必须安全、可靠、有效，严禁漏电和超负荷运行。照明灯具应完好、有效。</span></p>
+ <p style="text-align:justify"><a href="#id8.0.5"> 8.0.5</a> <span id="id8.0.5"> 抽水泵站的电机、水泵等机械设备应按国家现行有关机械保修规定进行保养，设备运转应正常。</span></p>
+ <p style="text-align:justify"><a href="#id8.0.6"> 8.0.6</a> <span id="id8.0.6"> 人行地下通道内排水管道应完好畅通。通道出入口应采取减少雨水进人通道的措施。</span></p>
+ <p style="text-align:justify"><a href="#id8.0.7"> 8.0.7</a> <span id="id8.0.7"> 人行地下通道口及通道内应干燥、整洁和通风良好，不得有积水和积冰，通道口及梯道和坡道不得有积雪。</span></p>
+ <p style="text-align:justify"><a href="#id8.0.8"> 8.0.8</a> <span id="id8.0.8"> 梯道、坡道、扶手和无障碍设施应完好、牢固，防滑条应完整有效。坡道应平顺粗糙，不得有坑洞和油污等黏性易滑物质。</span></p>  
+
+
+    <style>
+        #abc{
+            height:50px;
+            background-color: #f0ffff;
+        }
+    </style>
+ </head>
+ <body>
+    <div id="abc"></div>
+ </body>  

@@ -1,0 +1,237 @@
+11 城市桥梁安全防护
+==============================================
+
+.. raw:: html
+
+  <h2 id="test111">第 11 篇 航标工程质量检验</h2>
+
+11.1 城市桥梁安全保护区域
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idt11.1.1"> 11.1.1</a> <span id="idt11.1.1">、<a href="#idt11.1.2"> 11.1.2</a> <span id="idt11.1.2">城市桥梁安全保护区域是指桥梁垂直投影面、隧道周边一定距离范围内的水域或陆城。由于城市桥梁结构类型复杂、可能损害城市桥梁的限制性作业行为多样、桥梁周边的水文地质条件不同,因此各地桥梁养护管理部门应按不同结构形式、不同类型城市桥梁的专业论证数据划定城市桥梁安全保护区域范围,同时向社会公示。下面是我国南方地区部分城市桥梁安全保护区域划分方法,可供参考。</span></p>
+
+ <ol>
+ <li>基坑工程的城市桥梁安全保护区域：</li>
+ </ol>
+ <dl>
+ <li>&emsp;&emsp;1）基坑开挖会对桥梁周边土体造成一定的扰动，从而引起桥梁沉降、倾斜、转动等，改变桥梁结构受力，甚至其内力变化将超出桥梁承载能力，造成桥梁破坏。对此，应采取相应技术措施提高基坑安全度，并采取必要的监测和保护措施，确保桥梁结构安全，使用功能完备。</li>
+ <li>&emsp;&emsp;2）基坑工程安全等级应根据环境条件、工程地质条件、水文地质条件等进行划分，并参考相关规范。本标准为便于桥梁养护管理人员操作，将基坑工程根据开挖深度划分为三级，见<a href="#B22">表22。</a></li>
+ </dl>
+
+       <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+     
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B22">表22 基坑安全等级划分</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="450px">基坑安全等级</td>
+   <td  align="center" id="dhbg" width="450px">开挖深度H（m）</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" >一级基坑工程</td>
+   <td align="center" id="dhbg" >H＞12</td>
+   </tr>   
+   <tr>
+   <td align="center" id="dhbg">二级基坑工程</td>
+   <td align="center" id="dhbg">z≤H≤12</td>
+	</tr>
+   <tr>
+   <td align="center" id="dhbg">三级基坑工程</td>
+   <td align="center" id="dhbg">H＜7</td>
+	</tr>   
+	</table>
+ <p><font size="2">  </font></p> 
+
+ <dl>
+ <li>&emsp;&emsp;3）基坑工程的城市桥梁安全保护区域按<a href="#B23">表23</a>划分。</li>
+ </dl>
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B23">表23 按基坑工程划分的城市桥梁安全保护区域</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="225px" rowspan="2">桥梁类型</td>
+   <td  align="center" id="dhbg" colspan="3">桥梁安全保护区域(m)</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" width="225px">一级基坑</td>
+   <td align="center" id="dhbg" width="225px">二级级基</td>
+   <td align="center" id="dhbg" width="225px">三级基坑</td>
+   </tr>   
+   <tr>
+   <td align="center" id="dhbg"> 特大桥</td>
+   <td align="center" id="dhbg">75</td>
+   <td align="center" id="dhbg">65</td>
+   <td align="center" id="dhbg">55</td>
+	</tr>
+   <tr>
+   <td align="center" id="dhbg"> 大桥</td>
+   <td align="center" id="dhbg">65</td>
+   <td align="center" id="dhbg">55</td>
+   <td align="center" id="dhbg">50</td>
+	</tr>
+  <tr>
+   <td align="center" id="dhbg">中桥</td>
+   <td align="center" id="dhbg">55</td>
+   <td align="center" id="dhbg">50</td>
+   <td align="center" id="dhbg">45</td>
+	</tr>
+  <tr>
+   <td align="center" id="dhbg">小桥、涵洞</td>
+   <td align="center" id="dhbg">50</td>
+   <td align="center" id="dhbg">45</td>
+   <td align="center" id="dhbg">40</td>
+	</tr>
+	</table>
+ <p><font size="2">注:桥梁类型划分参考《城市桥梁设计规范》CJJ 11-2011。</font></p> 
+ <dl>
+ <li>&emsp;&emsp;4）对于列为近代优秀保护建筑或文物的桥梁，需提高保护等级，按大桥划定保护区域，并应进行专项设计，经评审通过后方可实施。</li>
+ </dl>
+ <ol start="2">
+ <li>桩基工程的城市桥梁安全保护区域</li>
+ </ol>
+ <dl>
+ <li>&emsp;&emsp;1）挤土桩，主要是各类打人或压人的预制桩、封底的钢管桩和混凝土管桩、沉管灌注桩等；</li>
+ <li>&emsp;&emsp;2）部分挤土桩，主要是各类打人或压入的I型或H型钢桩、钢板桩、开口式的钢管桩、螺旋桩等；</li>
+ <li>&emsp;&emsp;3）非挤土桩，主要是各类挖孔或钻孔桩、预钻孔埋人桩等。<br/>&emsp;&emsp;由于部分挤土桩的挤土程度难以定量确定，偏于安全考虑，把部分挤土桩归人挤土桩的类别中，按挤土桩和非挤土桩两大类进行管理。</li>
+ <li>&emsp;&emsp;4）桩基工程的城市桥梁安全保护区城按<a href="#B24">表24</a>规定划分。</li>   
+ </dl>
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B24">表24 按桩基工程划分的桥梁安全保护区域</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="300px" rowspan="2">桥梁类型</td>
+   <td  align="center" id="dhbg" colspan="2">桥梁安全保护区域(m)</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" width="300px">挤土桩</td>
+   <td align="center" id="dhbg" width="300px">非挤土桩</td>
+   </tr>   
+   <tr>
+   <td align="center" id="dhbg"> 特大桥</td>
+   <td align="center" id="dhbg">80</td>
+   <td align="center" id="dhbg">40</td>
+	</tr>
+   <tr>
+   <td align="center" id="dhbg"> 大桥</td>
+   <td align="center" id="dhbg">60</td>
+   <td align="center" id="dhbg">30</td>
+	</tr>
+  <tr>
+   <td align="center" id="dhbg">中桥</td>
+   <td align="center" id="dhbg">50</td>
+   <td align="center" id="dhbg">25</td>
+	</tr>
+  <tr>
+   <td align="center" id="dhbg">小桥、涵洞</td>
+   <td align="center" id="dhbg">40</td>
+   <td align="center" id="dhbg">20</td>
+	</tr>
+	</table>
+ <p><font size="2">注:桥梁类型划分参考《城市桥梁设计规范》CJJ 11-2011。</font></p> 
+
+
+ <ol start="3">
+ <li>修建地下结构物、盾构顶进、埋设管线、降水工程等作业的城市桥梁安全保护区域，可划为桥梁垂直投影面周边各60 m范围。</li>
+ <li>疏浚作业的城市桥梁安全保护区域可划为桥梁跨越的河道上下游(桥梁垂直投影面两侧)各30 m范围。</li>
+ <li>爆破作业的城市桥梁安全保护区域可划为桥梁垂直投影面周边 200 m范围。</li>
+ <li>堆载(或卸载)作业的城市桥梁安全保护区域可划为桥梁垂直投影面周边50 m范围。</li>   
+ </ol>
+ <p style="text-align:justify"><a href="#idt11.1.3"> 11.1.3</a> <span id="idt11.1.3">城市桥梁安全保护设计方案包括作业区城、作业内容、开竣工日期、技术保护措施、施工设计图纸等内容。</span></p>
+ <p style="text-align:justify;text-indent:2em;" >城市桥梁安全保护协议包括以下内容:</p>
+ <ol>
+ <li>作业对城市桥梁影响的分析评估;</li>
+ <li>相关城市桥梁安全保护的设计方案;</li>
+ <li>作业的安全保护措施及施工方案;</li>
+ <li>在作业期间及后续阶段,城市桥梁的沉降、位移等监测方案;</li>   
+ <li>测资料的报送内容和形式;</li>
+ <li>施工应急预案;</li>
+ <li>其他需要的技术要求等。</li>  
+ </ol>
+
+ <p style="text-align:justify"><a href="#idt11.1.5"> 11.1.5</a> <span id="idt11.1.5">动态监测的主要内容应包括:</span></p>
+ <ol >
+ <li>全保护区域内地面沉降、土体侧移;</li>
+ <li>城市桥梁的垂直位移、水平位移等;</li>
+ <li>城市桥梁的墩台、基础、支座和接头连接部分的位移、转角等;</li>
+ <li>影响城市桥梁安全的其他监控内容。</li>   
+ </ol>
+
+11.2 超重车辆过桥
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idt11.2.1"> 11.2.1</a> <span id="idt11.2.1">本条为强制性条文。本条规定的超重车辆是指其车辆总重或轴重超出桥梁设计荷载标准或城市桥梁养护管理部门公布的限定荷载标准的车辆。</span></p>
+ <p style="text-align:justify;text-indent:2em;" >城市桥梁应设置限载标志，限定荷载标准可依据各地区城市桥梁设计荷载、技术状况、交通状况等具体情况确定。限载标志应符合现行国家标准《道路交通标志和标线 第2部分：道路交通标志》GB5768.2的规定。</p>
+ <p style="text-align:justify;text-indent:2em;" >超重车辆过桥应由桥梁养护管理部门组织评估，评估的主要依据：车辆主要技术指标；桥梁的设计文件(或竣工文件)及其他技术档案资料；对桥梁现状进行现场检测的数据；设计单位专项验算文件等。</p>
+ <p style="text-align:justify;text-indent:2em;" >超重车辆过桥前的加固措施应重点满足超重车辆过桥的承载力要求，并兼顾对桥梁原有损伤的加固和提高桥梁耐久性的要求，必要时应组织专家论证。</p>
+ <ol>
+ <li> 小跨径桥梁和圬工拱桥，在下部结构和地基受力许可条件下，可在桥面上临时设钢梁或木梁，大梁上铺设木桥面板，以供重车直接行驶。常用的有全部跨越法或部分跨越法，分别见<a href="#figt29">图 29</a>和<a href="#figt30">图 30</a>。</li>
+ </ol>
+ <div align="center"><img id="figt29" src="./_static/fig/t29.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 29 全桥跨越法示意<br/>1—加固梁；2—枕木；3—跳板；4—原有上部结构</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt29'));</script>
+ <div align="center"><img id="figt30" src="./_static/fig/t30.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 30 部分跨越法示意<br/>1—加固梁；2—枕木；3—跳板；4—原有上部结构</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt30'));</script> 
+
+ <ol start="2">
+ <li> 较大跨径和技术情况复杂的桥梁，应委托设计部门进行加固设计。</li>
+ <li> 梁式桥采用在桥下设临时支撑，以减小跨径，但应验算梁的强度。临时支撑不得影响城市正常的交通。</li>
+ <li> 通过加固无法达到通过超重车要求的桥梁，宜进行改建，或者在原桥的附近修建临时便桥通过。</li> 
+ </ol>
+ <p style="text-align:justify"><a href="#idt11.2.2"> 11.2.2</a> <span id="idt11.2.2"> 多轴多轮的运载车辆可以改善桥面的应力状况，对于轮压超过设计要求的车辆应进行局部应力分析或者采用临时铺装层等方法减小应力集中。</span></p>
+ <p style="text-align:justify"><a href="#idt11.2.3"> 11.2.3</a> <span id="idt11.2.3"> 对大跨径桥梁，超重车与拖车应按照桥梁荷载受力影响线保持一定车距，临时禁止其他车辆通行，以改善超重车过桥时的受力状况。</span></p>
+ <p style="text-align:justify"><a href="#idt11.2.4"> 11.2.4</a> <span id="idt11.2.4"> 超重车辆通行时应监测桥梁的位移、变形、裂缝扩张等,并及时反馈记录。不同桥型的应力、应变观测资料可以为桥梁运营和同类桥梁的超重车辆过桥提供参考。</span></p>
+
+
+11.3 桥下空间
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#idt11.3.1"> 11.3.1</a> <span id="idt11.3.1"> 城市桥梁桥下空间是指桥梁垂直投影面下除水面、铁路、道路以外的空间及场地。桥下空间不得用于商贸、餐饮、娱乐、机动车辆维修场地等用途。</span></p>
+ <p style="text-align:justify"><a href="#idt11.3.2"> 11.3.2</a> <span id="idt11.3.2"> 下空间使用单位应建立健全消防安全管理制度、环境卫生管理制度，达到如下要求：</span></p>
+ <ol>
+ <li> 按消防部门规定配备足够的消防设备，定期检查维修，保持完好和有效，灭火器周围不得存放其他物品。桥下消防通道内不得停放车辆或杂物。</li>
+ <li> 桥下空间不得存放汽油、柴油等易燃、易爆、化学危险品。</li>
+ <li> 桥下空间场地不得加油、使用煤气罐及明火。</li> 
+ <li> 桥下空间应保持清洁卫生，保证空间内干净整洁，地面无垃圾、杂草、堆放物、污水、污迹，墙面无乱贴、乱画、乱挂以及小广告等。</li>
+ <li> 栏或护网应保持完整、清洁，不得悬挂物品。</li>
+ <li> 桥下空间地面应采用沥青、水泥混凝土或石材等硬质材料铺装。地表面要平整、完好，不得有坑洞、碎裂，保证排水通畅无积水。</li>  
+ <li> 桥下空间使用单位应制定消防预案、防汛预案，并定期组织演练。</li> 
+ </ol> 
+ <p style="text-align:justify"><a href="#idt11.3.3"> 11.3.3</a> <span id="idt11.3.3"> 桥下空间属于城市桥梁安全管理范围，桥下空间使用单位负责桥下空间的日常管理和维护工作，必须达到“安全、有序、整洁、规范、美观”的要求，桥下搭建构筑物应征得城市桥梁养护管理部门同意。</span></p>
+ <p style="text-align:justify"><a href="#idt11.3.4"> 11.3.4</a> <span id="idt11.3.4"> 本条为强制性条文。城市桥梁桥下空间应统一规划、管理，合理、科学、安全使用。城市桥梁日常养护、维修需占用桥下空间,使用单位必须积极配合，桥下搭建构筑物不得影响桥梁检测作业。</span></p>
+

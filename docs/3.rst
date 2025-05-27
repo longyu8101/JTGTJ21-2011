@@ -1,0 +1,245 @@
+3 基本规定
+==============================================
+
+.. raw:: html
+
+  <h2 id="test111">3 基本规定</h2>
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id3.0.1"> 3.0.1</a> <span id="id3.0.1"> 市桥梁的养护应包括城市桥梁及其附属设施的检测评估、养护工程、安全防护及建立档案资料。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.2"> 3.0.2</a> <span id="id3.0.2"> 城市桥梁应根据养护类别、养护等级和技术状况级别进行养护。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.3"> 3.0.3</a> <span id="id3.0.3"> 根据城市桥梁在道路系统中的地位，城市桥梁养护类别宜分为5类:</span></p>
+ <p style="text-align:justify;text-indent:2em;"> I类养护—单孔跨径大于100m的桥梁及特殊结构的桥梁；<br/>&emsp;&emsp;Ⅱ类养护———城市快速路上的桥梁；&emsp;&emsp;Ⅲ类养护一城市主干路上的桥梁；&emsp;&emsp；V类养护一-城市次干路上的桥梁；&emsp;&emsp;V类养护——城市支路和街坊路上的桥梁。</p>
+ <p style="text-align:justify"><a href="#id3.0.4"> 3.0.4</a> <span id="id3.0.4"> 据各类桥梁在城市中的重要性，城市桥梁养护等级划分宜符合下列规定:</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 1、I等养护的城市桥梁应为I类～Ⅲ类养护的城市桥梁和位于集会中心、紧华地区、重要生产科研区及游览地区IV、V类养护的城市桥梁，应进行重点养护。<br/>&emsp;&emsp;2、Ⅱ等养护的城市桥梁应为集会点、商业区及旅游路线或市区之间的联络线、主要地区或重点企业所在区域IV、V类养护的城市桥梁，应有计划地进行养护。<br/>&emsp;&emsp;3、Ⅲ等养护的城市桥梁应为除I、II等养护的城市桥梁以外的其他桥梁，可进行一般养护。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.5"> 3.0.5</a> <span id="id3.0.5"> 城市桥梁技术状况应根据完好状态、结构状况等级综合评定。针对不同养护类别，其完好状态、结构状况等级划分及养护对策应符合下列规定:</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 1、I类养护的城市桥梁完好状态宜分为下列2个等级:<br/>&emsp;&emsp;&emsp;1)合格级——桥梁结构完好或结构构件有损伤，但不影响桥梁安全，应进行保养小修。<br/>&emsp;&emsp;&emsp;2)不合格级——桥梁结构构件损伤，影响结构安全，应立即修复。<br/>&emsp;&emsp;2、Ⅱ类～V类养护的城市桥梁完好状态宜按<a href="#B3.0.5.1">表 3.0.5.1</a>的规定分为5个等级。</span></p>
+ <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.0.5.1">表3.0.5-1 Ⅱ类～V类养护的城市桥梁完好状态分级</b></caption>	
+              
+		    <tr>
+		     <td  align="center" id="dhbg" width="100px">等级</td>
+		     <td  align="center" id="dhbg" width="100px">状态</td>
+				 <td  align="center" id="dhbg" width="200px">BCI范围</td>
+         <td  align="center" id="dhbg" width="500px">养护对策</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">A级</td>
+         <td align="center" id="dhbg">完好</td>
+         <td align="center" id="dhbg">[90，100]</td>
+         <td align="center" id="dhbg">日常保养</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">B级</td>
+         <td align="center" id="dhbg">良好</td>
+         <td align="center" id="dhbg">[80，90）</td>
+         <td align="center" id="dhbg">保养小修</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">C级</td>
+         <td align="center" id="dhbg">合格</td>
+         <td align="center" id="dhbg">[66，80）</td>
+         <td align="center" id="dhbg">针对性小修或中修工程</td>
+		    </tr>
+        <tr>
+         <td align="center" id="dhbg">D级</td>
+         <td align="center" id="dhbg">不合格</td>
+         <td align="center" id="dhbg">[50，66）</td>
+         <td align="center" id="dhbg">检测评估后进行中修、大修或加固工程</td>
+		    </tr>
+        <tr>
+         <td align="center" id="dhbg">E级</td>
+         <td align="center" id="dhbg">危险</td>
+         <td align="center" id="dhbg">[0，50）</td>
+         <td align="center" id="dhbg">检测评估后进行大修、加固或改扩建工程</td>
+		    </tr>
+		  	</table>
+ <p><font size="2"> </font></p>
+
+
+ <p style="text-align:justify;text-indent:2em;">3、II类～V类养护的城市桥梁结构状况宜按表<a href="#B3.0.5.2">表 3.0.5.2</a>的规定分为5个等级。</span></p>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.0.5.2">表3.0.5-2 Ⅱ类～V类养护的城市桥梁结构状况分级</b></caption>	
+              
+		    <tr>
+		     <td  align="center" id="dhbg" width="100px">等级</td>
+		     <td  align="center" id="dhbg" width="100px">状态</td>
+				 <td  align="center" id="dhbg" width="200px">BCI范围</td>
+         <td  align="center" id="dhbg" width="500px">养护对策</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">A级</td>
+         <td align="center" id="dhbg">完好</td>
+         <td align="center" id="dhbg">[90，100]</td>
+         <td align="center" id="dhbg">日常保养</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">B级</td>
+         <td align="center" id="dhbg">良好</td>
+         <td align="center" id="dhbg">[80，90）</td>
+         <td align="center" id="dhbg">保养小修</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">C级</td>
+         <td align="center" id="dhbg">合格</td>
+         <td align="center" id="dhbg">[66，80）</td>
+         <td align="center" id="dhbg">针对性小修或局部中修工程</td>
+		    </tr>
+        <tr>
+         <td align="center" id="dhbg">D级</td>
+         <td align="center" id="dhbg">不合格</td>
+         <td align="center" id="dhbg">[50，66）</td>
+         <td align="center" id="dhbg">检测评估后进行局部中修、大修或加固工程</td>
+		    </tr>
+        <tr>
+         <td align="center" id="dhbg">E级</td>
+         <td align="center" id="dhbg">危险</td>
+         <td align="center" id="dhbg">[0，50）</td>
+         <td align="center" id="dhbg">检测评估后进行大修、加周或改扩建工程</td>
+		    </tr>
+		  	</table>
+ <p><font size="2"> </font></p>
+ <p style="text-align:justify"><a href="#id3.0.6"> 3.0.6</a> <span id="id3.0.6"> 城市桥梁的养护工程宜分为保养小修、中修工程、大修工程、加固工程及改扩建工程。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.7"> 3.0.7</a> <span id="id3.0.7"> 城市桥梁养护应按养护类别、养护等级配备相应的养护设备、检测设备及专业养护技术人员。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.8"> 3.0.8</a> <span id="id3.0.8"> 城市桥梁的养护工程应采取有效措施,满足国家对环境保护和资源节约的要求。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.9"> 3.0.9</a> <span id="id3.0.9"> 城市桥梁养护作业安全防护应按国家现行安全生产标准执行。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.10"> 3.0.10</a> <span id="id3.0.10"> 市桥梁养护应制定各类城市桥梁突发事件及防治自然灾害应急预案，组织建立应急队伍，配备应急物资，并应定期演练。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.11"> 3.0.11</a> <span id="id3.0.11"> 城市桥梁养护应建立养护档案，并应符合下列规定</span></p>
+ <p style="text-align:justify;text-indent:2em;">1、城市桥梁养护档案应以每座桥梁为单位建档。<br/>&emsp;&emsp;2、养护档案应包括：技术资料，施工竣工资料，养护文件，巡查、检测、测试资料，地下构筑物、桥上架设管线等技术文件及相关资料。<br/>&emsp;&emsp;3、养护档案管理工作应逐步实现信息化，实现城市桥梁养护信息数据的动态更新和管理。</span></p>
+
+ <p style="text-align:justify"><a href="#id3.0.12"> 3.0.12</a> <span id="id3.0.12"> 当新建城市桥梁接收养护时,桥梁工程质量应符合现行行业标准《城市桥梁工程施工与质量验收规范》CJJ2的相关规定，外观应完好，竣工文件应齐全，且应进行功能性检测后，方可接管。新建桥梁应设立永久控制监测点。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.13"> 3.0.13</a> <span id="id3.0.13"> 城市桥梁应安全、完好、整洁,不得握自在桥梁结构上钻孔或设置其他设施。夜间照明应符合国家现行有关标准的要求；各种指示标志应齐全、清晰。人行天桥、立交、高架桥、通航河道桥梁的桥下和隧道洞口应设限高交通标志，严禁装载高度超过桥梁、隧道限高标志所示数值的车辆通行。通行机动车的城市桥梁应设限载牌，超重车辆过桥应符合本标准第11.2节的规定。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.14"> 3.0.14</a> <span id="id3.0.14"> 城市隧道的排水、通风、照明、消防、防汛等设施，必须齐全有效。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.15"> 3.0.15</a> <span id="id3.0.15"> 对I类养护的城市桥梁，必须设专人负责日常巡检，应根据桥梁特点定期进行结构检测。有条件的城市可采用自动化监测系统设点测控，应随时掌握桥梁技术状况和中长期发展趋势。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.16"> 3.0.16</a> <span id="id3.0.16"> 城市桥梁外装饰和绿化不得影响桥梁检修保养和影响桥梁耐久性，不得危及桥梁、车辆、行人的安全。绿化不得覆盖桥梁梁体。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.17"> 3.0.17</a> <span id="id3.0.17"> 在城市桥梁上增加构筑物、风雨棚、声屏障、盆栽绿化、广告牌、管线或交通标志牌等时，必须满足桥梁安全技术要求。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.18"> 3.0.18</a> <span id="id3.0.18"> 在特殊气候条件下，悬索桥和斜拉桥的通行限制应符合下列规定:</span></p>
+ <ol>
+ <li>桥上应设置交通信息显示屏。</li>
+ <li>雾天桥上行车时速宜符合<a href="#B3.0.18.1">表3.0.18-1</a>的规定。</li>
+ </ol>
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.0.18.2">表3.0.18-2 大风雨中桥上行车时速</b></caption>	
+              
+		    <tr>
+		     <td  align="center" id="dhbg" width="180px" rowspan="2">风速(m/s)</td>
+		     <td  align="center" id="dhbg" colspan="2">风中限速(km/h)</td>
+				 <!-- <td></td> --> 
+         <td  align="center" id="dhbg" colspan="2">风中限速(km/h)</td>
+				 <!-- <td></td> --> 
+		    </tr>
+        <tr>
+        <!-- <td></td> --> 
+        <td  align="center" id="dhbg" width="180px">直线</td>
+        <td  align="center" id="dhbg" width="180px">弯道</td>
+        <td  align="center" id="dhbg" width="180px">风直线</td>
+        <td  align="center" id="dhbg" width="180px">弯道</td>
+        </tr>
+		    <tr>
+         <td align="center" id="dhbg">80</td>
+         <td align="center" id="dhbg">60</td>
+         <td align="center" id="dhbg">40</td>
+         <td align="center" id="dhbg">55</td>
+         <td align="center" id="dhbg">35</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">50</td>
+         <td align="center" id="dhbg">40</td>
+         <td align="center" id="dhbg">30</td>
+         <td align="center" id="dhbg">35</td>
+         <td align="center" id="dhbg">25</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">30</td>
+         <td align="center" id="dhbg">25</td>
+         <td align="center" id="dhbg">20</td>
+         <td align="center" id="dhbg">25</td>
+         <td align="center" id="dhbg">15</td>
+		    </tr>
+        <tr>
+         <td align="center" id="dhbg">20</td>
+         <td align="center" id="dhbg">15</td>
+         <td align="center" id="dhbg">15</td>
+         <td align="center" id="dhbg">10</td>
+         <td align="center" id="dhbg">10</td>
+		    </tr>
+		  	</table>
+ <p><font size="2"> </font></p>
+
+ <ol strat="3">
+ <li>当风速大于19 m/s时，桥上行车时速宜符合<a href="#B3.0.18.2">表3.0.18-2</a>的规定。当风速大于21 m/s时，严禁货运车上桥行驶。当悬索有明显振颤时，应在现场进行监视或录像，并应进行记录。</li>
+ </ol>
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.0.18.2">表3.0.18-2 大风雨中桥上行车时速</b></caption>	
+              
+		    <tr>
+		     <td  align="center" id="dhbg" width="300px">风速(m/s)</td>
+		     <td  align="center" id="dhbg" width="300px">风中限速(km/h)</td>
+				 <td  align="center" id="dhbg" width="300px">风雨中限速(km/h)</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">19</td>
+         <td align="center" id="dhbg">60</td>
+         <td align="center" id="dhbg">50</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">21</td>
+         <td align="center" id="dhbg">50</td>
+         <td align="center" id="dhbg">40</td>
+		    </tr>
+		    <tr>
+         <td align="center" id="dhbg">23</td>
+         <td align="center" id="dhbg">40</td>
+         <td align="center" id="dhbg">30</td>
+		    </tr>
+        <tr>
+         <td align="center" id="dhbg">25</td>
+         <td align="center" id="dhbg">封桥禁行</td>
+         <td align="center" id="dhbg">封桥禁行</td>
+		    </tr>
+		  	</table>
+ <p><font size="2"> </font></p>
+ <p style="text-align:justify"><a href="#id3.0.19"> 3.0.19</a> <span id="id3.0.19"> 当改变城市桥梁设计车道划分时，应经设计单位验算，满足桥梁安全技术要求后方可实施。</span></p>
+ <p style="text-align:justify"><a href="#id3.0.20"> 3.0.20</a> <span id="id3.0.20"> 列入文物保护范围内的城市桥梁的养护，除应执行本标准外，还应符合文物部门的有关规定,</span></p>
+
+
+
+
+
+
+
+
+
+
+
+  

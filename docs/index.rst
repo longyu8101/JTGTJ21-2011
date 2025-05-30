@@ -5,11 +5,11 @@
 
 .. raw:: html
 
- <b><font size="5">中华人民共和国行业标准</font></b>
+ <b><font size="5">中华人民共和国行业推荐性标准</font></b>
 
  <p></p>
  
-城市桥梁养护技术标准
+公路桥梁承载能力检测评定规程
 =========================================
 
 
@@ -17,35 +17,22 @@
 .. raw:: html
 
 
- <h1 id="test111" ><font size="6"><br/><br/><br/>城市桥梁养护技术标准</font></h1>
-
- <b><br/><br/><font size="3"> Technical standard of maintenance for city bridge</font></b>
+ <h1 id="test111" ><font size="6"><br/><br/><br/>公路桥梁承载能力检测评定规程</font></h1>
 
 
-  <b><br/><br/><br/><font size="4">CJJ 99-2017</font></b>
+ <b><br/><br/><font size="3"> Specification for Inspection and Evaluation of<br/> Load-bearing Capacity of Highway Bridges</font></b>
+
+  <b><br/><br/><br/><font size="4">JTG/T J21-2011</font></b>
 
  <p></p>
   
-
-
- <body>
- <table border="0" style="font-family:times new roman" >
- <tr>
- <td><font size="4"><br/><br/>批准部门:</font></td>
- <td><font size="4"><br/><br/>中华人民共和国住房和城乡建设部</font></td>
- </tr>
- <tr>
- <td><font size="4"><br/>施行日期：</font></td>
- <td><font size="4"><br/>2018年2月1日</font></td>
- </tr>
-  </table>
 	</body>
 
 .. raw:: html
 
     <style>
         #abc{
-            height:300px;
+            height:250px;
             background-color: #f0ffff;
         }
     </style>
@@ -54,9 +41,23 @@
     <div id="abc"></div>
  </body>
 
+ <body>
+ <table border="0" style="font-family:times new roman" >
+ <tr>
+ <td><font size="4" align="left" id="dhbg" width="400px"><br/><br/>2011-10-08 发布</font></td>
+ <td><font size="4" align="right" id="dhbg" width="400px"><br/><br/>2011-11-01 实施</font></td>
+ </tr>
+ <tr>
+ <td><font size="4" colspan="2"><br/><br/>中华人民共和国交通运输部发布</font></td>
+  <!-- <td></td> --> 
+ </tr>
+ </table>
+ 
 
 
- <p><b><font size="4">2017·北京</font></b></p>
+
+
+
 
 
 
@@ -66,7 +67,6 @@
     :hidden:
     
     gg
-    qy
     1
     2
     3
@@ -76,16 +76,7 @@
     7
     8
     9
-    10
-    11
-    12
-    FLA
-    FLB
-    FLC
-    FLD
-    FLE
-    FLF
     ycsm
-    yyml
-    twsm
+    ylb
+    
    

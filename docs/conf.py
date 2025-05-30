@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '城市桥梁养护技术标准<br /><br />CJJ 99-2017'
+project = '公路桥梁承载能力检测评定规程<br /><br />JTG/T J21-2011'
 copyright = '' 
 
 # -- General configuration ---------------------------------------------------
@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # html_theme = 'sphinx_book_theme'
 
-html_title = "城市桥梁养护技术标准  CJJ 99-2017"
+html_title = "公路桥梁承载能力检测评定规程  JTG/T J21-2011"
 # html_logo = "_static/logo.png"
 html_favicon = "_static/logo.png"
 

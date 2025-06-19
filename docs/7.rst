@@ -14,28 +14,80 @@
 
  <p style="text-align:justify"><a href="#id7.1.1"> 7.1.1</a> <span id="id7.1.1"> 对在用桥梁，应从结构或构件的强度、同度、抗裂性和稳定性四个方面进行承载能力检测评定。</span></p>
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
- <p style="text-align:justify"><a href="#id7.1.2"> 7.1.2</a> <span id="id7.1.2">  </span></p>
- <p style="text-align:justify"><a href="#id7.1.3"> 7.1.3</a> <span id="id7.1.3">  </span></p>
- <p style="text-align:justify"><a href="#id7.1.4"> 7.1.4</a> <span id="id7.1.4">  </span></p>
+ <p style="text-align:justify;text-indent:2em;" > 在用桥梁承载能力评定包括持久状况下承载能力极限状态和正常使用极限状态。承载能力极限状态针对的是结构或构件的截面强度和稳定性，正常使用极限状态主要针对结构或构件的刚度和抗裂性。</p>
+ <p style="text-align:justify"><a href="#id7.1.2"> 7.1.2</a> <span id="id7.1.2"> 圬工结构桥梁在计算桥梁结构承载能力极限状态的抗力效应时，应根据桥梁试验检测结果，采用引入检算系数<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>或<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>2</mn></mrow></msub></math>截面折减系数<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math>的方法进行修正计算。</span></p>
+ <p style="text-align:justify"><a href="#id7.1.3"> 7.1.3</a> <span id="id7.1.3"> 配筋混凝土桥梁在计算桥梁结构承载能力极限状态的抗力效应时，应根据桥梁试验检测结果，采用引入检算系数<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>或<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Z</mi><mrow><mn>2</mn></mrow></msub></math>承载能力恶化系数<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">e</mi></mrow></mrow></msub></math>、截面折减系数<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math>和<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math>的方法进行修正计算。</span></p>
+ <p style="text-align:justify"><a href="#id7.1.4"> 7.1.4</a> <span id="id7.1.4"> 钢结构桥梁在计算桥梁结构承载能力极限状态的抗力效应时，应根据桥梁试验检测结果，采用引入检算系数<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>或<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>2</mn></mrow></msub></math>截面折减系数<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math>的方法进行修正计算。</span></p>
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
- <p style="text-align:justify"><a href="#id7.1.5"> 7.1.5</a> <span id="id7.1.5">  </span></p>
- <p style="text-align:justify"><a href="#id7.1.6"> 7.1.6</a> <span id="id7.1.6">  </span></p>
+ <p style="text-align:justify;text-indent:2em;" > <a href="#id7.1.2">7.1.2</a>~<a href="#id7.1.4">7.1.4</a> 本规程以基于概率理论的极限状态设计方法为基础，采用引入分项检算系数修正极限状态设计表达式的方法，对在用桥梁承载能力进行检测评定。分项检算系数主要包括：反映桥梁总体技术状况的检算系数<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>或<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>2</mn></mrow></msub></math>；考虑结构有效截面折减的截面折减系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">s</mi></mrow></mrow></msub></math>和<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math>；考虑结构耐久性影响因素的承载能力恶化系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">e</mi></mrow></mrow></msub></math>；反晚实际通行汽车荷载变异的活载影响系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">q</mi></mrow></mrow></msub></math>。主要依据圬工结构桥梁、配筋混凝土桥梁和钢结构桥梁的材料组成特点，引入不同的分项检算系数修正极限状态设计表达式。</p>
+ <p style="text-align:justify"><a href="#id7.1.5"> 7.1.5</a> <span id="id7.1.5">荷截效应<i>S</i>应按本规程<a href="https://jtgtj21-2011.readthedocs.io/zh-cn/latest/6.html">第6章</a>有关规定计算。对交通繁忙和重载车辆较多的桥梁，汽车荷载效应可根据实际运营荷截状况，通过活载影响修正系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">q</mi></mrow></mrow></msub></math>进行修正计算。</span></p>
+ <p style="text-align:justify"><a href="#id7.1.6"> 7.1.6</a> <span id="id7.1.6"> 当桥梁结构或构件的承载能力检算系数评定标度D≥3时，应进行正常使用极限状态评定计算。</span></p>
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
+ <p style="text-align:justify;text-indent:2em;" > 对在用桥梁,当结构或构件的承载能力检算系数评定标度为1或2时，结构或构件的总体技术状况较好，可不进行正常使用极限状态评定计算；当结构成构件的承载能力检算系数评定标度为3、4或5时，应采用引入检算系数<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>或<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Z</mi><mrow><mn>2</mn></mrow></msub></math>的方式对限制应力、结构变形和裂缝宽度等，进行正常使用极限状态评定计算。</p>
 
 7.2 圬工桥梁承载能力评定
 ------------------------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id7.2.1"> 7.2.1</a> <span id="id7.2.1">  </span></p>
+ <p style="text-align:justify"><a href="#id7.2.1"> 7.2.1</a> <span id="id7.2.1"> 圬工桥梁承载能力极限状态,应根据桥梁检测结果按<a href="#ideq7.2.1">式(7.2.1)</a><span id="ideq7.2.1">进行计算评定。</span></p>
 
- <p style="text-align:justify"><a href="#id7.2.2"> 7.2.2</a> <span id="id7.2.2">  </span></p>
- <p style="text-align:justify"><a href="#id7.2.3"> 7.2.3</a> <span id="id7.2.3">  </span></p>
+$$\\gamma_{0}S\\leqslant R(f_{\\mathrm{d}},\\xi_{\\mathrm{c} }a_{\\mathrm{d} })Z_{1}\\tag{7.2.1}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align="center" id="eqzs">式中:</td>
+ <td width="30px" align="right" id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>γ</mi><mrow><mn>0</mn></mrow></msub></math></td>
+ <td width="40px" align="right" id="eqzs">——</td>
+ <td id="eqzs">从混凝土浇筑到钢筋开始锈蚀所经历的时间(a)；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>S</mi></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">荷载效应函数；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>R</mi><mo stretchy="false">(</mo><mtext>&nbsp;</mtext><mo>⋅</mo><mtext>&nbsp;</mtext><mo stretchy="false">)</mo></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">抗力效应函数；</td>
+ </tr>  
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>f</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">材料强度设计值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>a</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">结构的几何尺寸；</td>
+ </tr>   
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">承载能力检算系数；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">截面折减系数。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+
+ <p style="text-align:justify"><a href="#id7.2.2"> 7.2.2</a> <span id="id7.2.2"> 抗力效应值应按现行设计规范进行计算，<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>、<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math>应按本规程有关规定取值。</span></p>
+ <p style="text-align:justify"><a href="#id7.2.3"> 7.2.3</a> <span id="id7.2.3"> 圬工桥梁正常使用极限状态，宜按现行公路桥涵设计和养护规范进行计算评定。</span></p>
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
+ <p style="text-align:justify;text-indent:2em;" > 圬工桥梁承载能力极限状态评定，主要考虑采取引入桥梁检算系数、截面折减系数和活载修正系数分别对极限状态方程中结构抗力效应和荷载效应进行修正，并通过比较判定结构或构件的承截能力状况。</p>
 
 
 7.3 配筋混凝土桥梁承载能力评定
@@ -43,25 +95,447 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id7.3.1"> 7.3.1</a> <span id="id7.3.1">  </span></p>
- <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
- <p style="text-align:justify"><a href="#id7.3.2"> 7.3.2</a> <span id="id7.3.2">  </span></p>
- <p style="text-align:justify"><a href="#id7.3.3"> 7.3.3</a> <span id="id7.3.3">  </span></p>
- <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
- <p style="text-align:justify"><a href="#id7.3.4"> 7.3.4</a> <span id="id7.3.4">  </span></p>
+ <p style="text-align:justify"><a href="#id7.3.1"> 7.3.1</a> <span id="id7.3.1"> 配筋混凝土桥梁承载能力极限状态,应根据桥梁检测结果按<a href="#ideq7.3.1">式(7.3.1)</a><span id="ideq7.3.1">进行计算评定。</span></p>
 
+$$\\gamma_{0}S\\leqslant R(f_{\\mathrm{d}},\\xi_{\\mathrm{c}}a_{\\mathrm{dc}},\\xi_{\\mathrm{s}}a_{\\mathrm{ds}})Z_{1}(1-\\xi_{\\mathrm{e}})\\tag{7.3.1}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align="center" id="eqzs">式中:</td>
+ <td width="30px" align="right" id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>γ</mi><mrow><mn>0</mn></mrow></msub></math></td>
+ <td width="40px" align="right" id="eqzs">——</td>
+ <td id="eqzs">结构的重要性系数；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">荷载效应函数；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs" align="right" colspan="2"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>R</mi><mo stretchy="false">(</mo><mtext>&nbsp;</mtext><mo>⋅</mo><mtext>&nbsp;</mtext><mo stretchy="false">)</mo></math></td>
+ <!-- <td></td> -->
+ <td id="eqzs">——</td>
+ <td id="eqzs">抗力效应函数；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>f</mi><mrow><mi mathvariant="normal">d</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">材料强度设计值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>a</mi><mrow><mi mathvariant="normal">dc</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">构建混凝土几何参数值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>a</mi><mrow><mi mathvariant="normal">ds</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">构建钢筋几何参数值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">承载能力检算系数。</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi mathvariant="normal">e</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">承载能力恶化系数；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi mathvariant="normal">c</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">配筋混凝土结构的截面折减系数；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi mathvariant="normal">s</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">钢筋的截面折减系数。</td>
+ </tr>        
+ </table>
+ <p></p>
+
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 配筋混凝土桥梁承载能力极限状态评定，采取引入桥梁检算系数、承载能力恶化系数、藏面折减系数和活载修正系数分别对极限状态方程中结构抗力效应和荷载效应进行修正，并通过比较判定结构或构件的承载能力状况。</p>
+ <p style="text-align:justify"><a href="#id7.3.2"> 7.3.2</a> <span id="id7.3.2"> 力效应值应按现行设计规范进行计算，<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>、<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi mathvariant="normal">e</mi></mrow></msub></math>、<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi mathvariant="normal">c</mi></mrow></msub></math>、<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi mathvariant="normal">s</mi></mrow></msub></math>应按本规程有关规定取值。</span></p>
+ <p style="text-align:justify"><a href="#id7.3.3"> 7.3.3</a> <span id="id7.3.3"> 配筋混凝土桥梁正常使用极限状态，宜按现行公路桥涵设计和养护规范及检测结果分以下三方面进行计算评定:</span></p>
+ <ol>
+ <li>限制应力:</li>
+ </ol>
+
+ <p style="text-align:justify"><a href="#id7.3.1"> 7.3.1</a> <span id="id7.3.1"> 配筋混凝土桥梁承载能力极限状态,应根据桥梁检测结果按<a href="#ideq7.3.1">式(7.3.1)</a><span id="ideq7.3.1">进行计算评定。</span></p>
+
+$$\\sigma _{d}<Z_{1}\\sigma _{\\mathrm{L} }\\tag{7.3.3-1}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align="center" id="eqzs">式中:</td>
+ <td width="30px" align="right" id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>σ</mi><mrow><mi mathvariant="normal">d</mi></mrow></msub></math></td>
+ <td width="40px" align="right" id="eqzs">——</td>
+ <td id="eqzs">计入活载影响修正系数的截面应力计算值；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>σ</mi><mrow><mi mathvariant="normal">L</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">应力限值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">承载能力检算系数。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+ <ol start="2">
+ <li>荷载作用下的变形:</li>
+ </ol>
+
+$$f_{d1}<Z_{1}f_{\\mathrm{L} }\\tag{7.3.3-2}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align="center" id="eqzs">式中:</td>
+ <td width="30px" align="right" id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>f</mi><mrow><mi mathvariant="normal">d1</mi></mrow></msub></math></td>
+ <td width="40px" align="right" id="eqzs">——</td>
+ <td id="eqzs">计入活载影响修正系数的荷载变形计算值；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>F</mi><mrow><mi mathvariant="normal">L</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">变形限值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">承载能力检算系数。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+ <ol start="3">
+ <li>各类荷载组合作用下裂缝宽度满足:</li>
+ </ol>
+
+$$\\delta <Z_{1}\\delta _{\\mathrm{L}}\\tag{7.3.3-3}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align="center" id="eqzs">式中:</td>
+ <td width="30px" align="right" id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>δ</mi><mrow><mi mathvariant="normal">d</mi></mrow></msub></math></td>
+ <td width="40px" align="right" id="eqzs">——</td>
+ <td id="eqzs">计入活载影响修正系数的短期荷载变形计算值；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>δ</mi><mrow><mi mathvariant="normal">L</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">变位限值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">承载能力检算系数。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 对在用桥梁，采取引入检算系数修正限制应力、变形和裂雄限值的方法，进行桥梁正常使用极限状态计算评定。</p>
+ <p style="text-align:justify"><a href="#id7.3.4"> 7.3.4</a> <span id="id7.3.4"> 桥梁结构或构件在持久状况下裂缝宽度应小于<a href="#B7.3.4">表7.3.4</a>的限值。</span></p>
+    <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.3.4">表7.3.4 裂缝限值表</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="100px">结构类别</td>
+   <td  align="center" id="dhbg" colspan="3">裂缝部位</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td  align="center" id="dhbg" width="150px">容许最大缝宽(mm)</td>
+   <td  align="center" id="dhbg" width="350px">其他要求</td>
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg" rowspan="5">钢筋混凝土梁</td>
+   <td align="center" id="dhbg"colspan="3">主筋附近竖向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> -->
+   <td align="center" id="dhbg">0.25</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>
+	<tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" colspan="3">腹板斜向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.30</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">组合梁结合面</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.50</td>
+   <td align="center" id="dhbg">不容许贯通结合面</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">横隔板与梁体端部</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.30</td>
+   <td align="center" id="dhbg"> </td>
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">横支座垫石</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.50</td>
+   <td align="center"id="dhbg"> </td>
+   </tr> 
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">全预应力混凝土梁</td>
+   <td align="center" id="dhbg"colspan="3">梁体竖向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">不容许</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>
+	<tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">梁体横向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">不容许</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">梁体纵向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.20</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>  
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">A类预应力混凝土梁</td>
+   <td align="center" id="dhbg"colspan="3">梁体竖向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">不容许</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>
+	<tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">梁体横向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">不容许</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">梁体纵向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.20</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>  
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">B类预应力混凝土梁</td>
+   <td align="center" id="dhbg" colspan="3">梁体竖向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.15</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>
+	<tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">梁体横向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.15</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">梁体纵向裂缝</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.20</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>  
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">砖、石、混凝土拱</td>
+   <td align="center" id="dhbg" colspan="3">拱圈横向</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.50</td>
+   <td align="center" id="dhbg">裂缝高小于截面高一半</td>
+   </tr>
+	<tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">拱圈纵向</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.50</td>
+   <td align="center" id="dhbg">裂缝长小于跨径的<math xmlns="http://www.w3.org/1998/Math/MathML" ><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>1</mn><mn>8</mn></mfrac></mstyle></math></td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg"colspan="3">拱波与拱肋结合处</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.20</td>
+   <td align="center" id="dhbg"> </td>
+   </tr>   
+   <tr>
+   <td align="center" id="dhbg" rowspan="7">墩台</td>
+   <td align="center" id="dhbg" colspan="3">墩台帽</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.30</td>
+   <td align="center" id="dhbg" rowspan="6">不容许贯通墩台身截面的一半</td>
+   </tr>
+	 <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" rowspan="5" width="80px">墩台身</td>
+   <td align="center" id="dhbg" rowspan="2" width="140px">经常受侵蚀性环境水影响</td>
+   <td align="center" id="dhbg"  width="80px">有筋</td>
+   <td align="center" id="dhbg">0.20</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">无筋</td>
+   <td align="center" id="dhbg">0.30</td>
+  <!-- <td></td> --> 
+   </tr>
+  <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" rowspan="2" >常年有水，但无侵蚀性影响</td>
+   <td align="center" id="dhbg" >有筋</td>
+   <td align="center" id="dhbg">0.50</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">无筋</td>
+   <td align="center" id="dhbg">0.35</td>
+   <!-- <td></td> --> 
+   </tr> 
+   <tr>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" colspan="2" >干沟或季节性有水河流</td>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.40</td>
+   <!-- <td></td> --> 
+   </tr>  
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg" colspan="3" >有冻结作用部分</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">0.20</td>
+   <td align="center" id="dhbg"> </td>
+   </tr> 
+ 	</table>
+ <p><font size="2"> 注：表中所列容许最大缝宽适用于一般条件。对于潮湿和空气中含有较多腐蚀性气体等条件下的缝宽限值应要求更严格一些。</font></p>
+   
 
 7.4 钢结构承载能力评定
 ------------------------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id7.4.1"> 7.4.1</a> <span id="id7.4.1">  </span></p>
- <p style="text-align:justify"><a href="#id7.4.2"> 7.4.2</a> <span id="id7.4.2">  </span></p>
+ <p style="text-align:justify"><a href="#id7.4.1"> 7.4.1</a> <span id="id7.4.1"> 钢结构桥梁结构构件强度、总体稳定性和疲劳强度验算应按现行公路桥涵设计规范执行，其应力限值取值为<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub><mo stretchy="false">[</mo><mi>σ</mi><mo stretchy="false">]</mo></math>。</span></p>
+ <p style="text-align:justify"><a href="#id7.4.2"> 7.4.2</a> <span id="id7.4.2"> 钢结构荷载作用下的变形应按<a href="#ideq7.4.2">式(7.4.2)</a><span id="ideq7.4.2">计算评定。</span></p>
+
+
+$$ f_{\\mathrm{d1} }<Z_{1}[\\ f\\ ]\\tag{7.4.2}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align="center" id="eqzs">式中:</td>
+ <td width="30px" align="right" id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>f</mi><mrow><mi mathvariant="normal">d1</mi></mrow></msub></math></td>
+ <td width="40px" align="right" id="eqzs">——</td>
+ <td id="eqzs">计入活载影响修正系数的荷载变形计算值；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mo stretchy="false">[</mo><mtext>&nbsp;</mtext><mi>f</mi><mtext>&nbsp;</mtext><mo stretchy="false">]</mo></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">容许变形值；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">承载能力检算系数。</td>
+ </tr> 
+ </table>
+ <p></p>
+
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
+ <p style="text-align:justify;text-indent:2em;" > 对钢结构，采取引入检算系数修正容许应力和容许变形的方式给出相应的限值取值，按设计规范给出的计算公式进行承载能力计算评定。</p>
 
 
 7.5 拉吊索承载能力评定
@@ -69,41 +543,701 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id7.5.1"> 7.5.1</a> <span id="id7.5.1">  </span></p>
+ <p style="text-align:justify"><a href="#id7.5.1"> 7.5.1</a> <span id="id7.5.1"> 拉吊索强度应按<a href="#ideq7.5.1">式(7.5.1)</a><span id="ideq7.5.1">计算评定。</span></p>
 
 
+$$\\\dfrac{T_{\\mathrm{j} }}{A}\\leqslant Z_{1}[\\ \\sigma \\ ]\\tag{7.5.1}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align="center" id="eqzs">式中:</td>
+ <td width="30px" align="right" id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>T</mi><mrow><mrow><mi mathvariant="normal">j</mi></mrow></mrow></msub></math></td>
+ <td width="40px" align="right" id="eqzs">——</td>
+ <td id="eqzs">计入活载影响修正系数的计算索力；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">容许应力限制；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mo stretchy="false"> [</mo><mtext>&nbsp;</mtext><mi>σ</mi><mtext>&nbsp;</mtext><mo stretchy="false">]</mo></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">索的计算面积；</td>
+ </tr>  
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align="right" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">承载能力检算系数。</td>
+ </tr> 
+ </table>
+ <p></p>
 7.6 桥梁地基评定
 ------------------------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id7.6.1"> 7.6.1</a> <span id="id7.6.1">  </span></p>
+ <p style="text-align:justify"><a href="#id7.6.1"> 7.6.1</a> <span id="id7.6.1"> 经久压实的桥梁地基土，在墩台与基础无异常变位的情况下可适当提高其承载能力，最大提高系数不得超过1.25。</span></p>
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
- <p style="text-align:justify"><a href="#id7.6.2"> 7.6.2</a> <span id="id7.6.2">  </span></p>
+ <p style="text-align:justify;text-indent:2em;" > 参照《公路桥涵地基与基础设计规范》(JTGD63一2007)第3.3.6条的相关规定，对经久压实的桥梁地基土，在墩台与基础无异常变位的情况下可考虑适当提高承载能力。最大提高系数为1.25。</p>
+ <p style="text-align:justify"><a href="#id7.6.2"> 7.6.2</a> <span id="id7.6.2"> 当桥头填土经久压实时，填土内摩擦角<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>φ</mi></math>可根据土质情况适当放大5”～10°，但提高后的最大取值不得超过 50°。</span></p>
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
+ <p style="text-align:justify;text-indent:2em;" > 对经久压实的桥台填土，在桥台无结构性病害的情况下，其内厚擦角随填土压实度的提高将有一定程度的增大，参照铁道行业的有关规范，填土内摩擦角<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>φ</mi></math>可根据土质情况适当放大5°～10°，但提高后的最大取值不得超过50°。</p>
 
 
-7.7 桥梁地基评定
+7.7 分项检算系数确定
 ------------------------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id7.7.1"> 7.7.1</a> <span id="id7.7.1">  </span></p>
- <p style="text-align:justify"><a href="#id7.7.2"> 7.7.2</a> <span id="id7.7.2">  </span></p>
- <p style="text-align:justify"><a href="#id7.7.3"> 7.7.3</a> <span id="id7.7.3">  </span></p>
+ <p style="text-align:justify"><a href="#id7.7.1"> 7.7.1</a> <span id="id7.7.1"> 圬工与配筋混凝土桥梁，应综合考虑桥梁结构或构件表观缺损状况、材质强度和桥梁结构自振频率等的检测评定结果，按下列规定确定承载能力检算系数<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>：</span></p>
+ <ol>
+ <li>按<a href="#ideq7.7.1">式(7.7.1)</a><span id="ideq7.7.1">计算确定结构或构件承载能力检算系数评定标度<i>D</i>。</li>
+  </ol>
+
+$$D=\\sum a_{j}D_{j}\\tag{7.7.1}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中:</td>
+ <td width="30px" align='left' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>a</mi><mrow><mi>j</mi></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">某项检测指标的权重值，<math xmlns="http://www.w3.org/1998/Math/MathML" ><munderover><mo data-mjx-texclass="OP" movablelimits="false">∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>3</mn></mrow></munderover><msub><mi>a</mi><mrow><mi>j</mi></mrow></msub><mo>=</mo><mn>1</mn></math>，按<a href="#B7.7.1.1">表7.7.1-1</a>的规定确定；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>D</mi><mrow><mi>j</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">结构或构件某项检测指标的评定标度，按本规程<a href="https://jtgtj21-2011.readthedocs.io/zh-cn/latest/4.html#id4.2.2">第4.2.2条</a>、<a href="https://jtgtj21-2011.readthedocs.io/zh-cn/latest/5.html#B5.3.5">表5.3.5</a>和<a href="https://jtgtj21-2011.readthedocs.io/zh-cn/latest/5.html#B5.9.2">表5.9.2</a>的有关规定取值。</td>
+ </tr>
+ </table>
+ <p></p> 
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.1.1">表7.7.1-1 承载能力检算系数检测指标权重值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="225px">检测指标名称</td>
+   <td  align="center" id="dhbg" width="225px">缺损状况</td>
+   <td  align="center" id="dhbg" width="225px">材质强度</td>
+   <td  align="center" id="dhbg" width="225px">自振频率</td>
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>a</mi><mrow><mi>j</mi></mrow></msub></math></td>
+   <td align="center" id="dhbg">0.4</td>
+   <td align="center" id="dhbg">0.3</td>
+   <td align="center" id="dhbg">0.3</td>
+   </tr>
+	</table>
+ <p><font size="2"> </font></p>
+ <ol start="2">
+ <li>根据结构或构件承载能力检算系数评定标度，宜按<a href="#B7.7.1.2">表7.7.1-2</a>确定桥梁承载能力检算系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>值，特殊情况可采用专家调查法确定。</li>
+  </ol>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.1.2">表7.7.1-2 圬工及配筋混凝土桥梁的承载能力检算系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="200px">承载能力检算系数评定标度<i>D</i></td>
+   <td  align="center" id="dhbg" width="100px">受弯</td>
+   <td  align="center" id="dhbg" width="100px">轴心受压</td>
+   <td  align="center" id="dhbg" width="100px">偏心受拉</td>
+   <td  align="center" id="dhbg" width="100px">偏心受压</td>
+   <td  align="center" id="dhbg" width="100px">偏心受拉</td>
+   <td  align="center" id="dhbg" width="100px">受扭</td>
+   <td  align="center" id="dhbg" width="100px">局部承压</td>
+	</tr>
+	<tr>
+   <td align="center" id="dhbg">1</td>
+   <td align="center" id="dhbg">1.15</td>
+   <td align="center" id="dhbg">1.20</td>
+   <td align="center" id="dhbg">1.05</td>
+   <td align="center" id="dhbg">1.15</td>
+   <td align="center" id="dhbg">1.15</td>
+   <td align="center" id="dhbg">1.10</td>
+   <td align="center" id="dhbg">1.15</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="center" id="dhbg">1.10</td>
+   <td align="center" id="dhbg">1.15</td>
+   <td align="center" id="dhbg">1.00</td>
+   <td align="center" id="dhbg">1.10</td>
+   <td align="center" id="dhbg">1.10</td>
+   <td align="center" id="dhbg">1.05</td>
+   <td align="center" id="dhbg">1.10</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="center" id="dhbg">1.00</td>
+   <td align="center" id="dhbg">1.05</td>
+   <td align="center" id="dhbg">0.95</td>
+   <td align="center" id="dhbg">1.00</td>
+   <td align="center" id="dhbg">1.00</td>
+   <td align="center" id="dhbg">0.95</td>
+   <td align="center" id="dhbg">1.00</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">4</td>
+   <td align="center" id="dhbg">0.90</td>
+   <td align="center" id="dhbg">0.95</td>
+   <td align="center" id="dhbg">0.85</td>
+   <td align="center" id="dhbg">0.90</td>
+   <td align="center" id="dhbg">0.90</td>
+   <td align="center" id="dhbg">0.85</td>
+   <td align="center" id="dhbg">0.90</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">5</td>
+   <td align="center" id="dhbg">0.80</td>
+   <td align="center" id="dhbg">0.85</td>
+   <td align="center" id="dhbg">0.75</td>
+   <td align="center" id="dhbg">0.80</td>
+   <td align="center" id="dhbg">0.80</td>
+   <td align="center" id="dhbg">0.75</td>
+   <td align="center" id="dhbg">0.80</td>
+   </tr>
+	</table>
+ <p style="text-indent:2em;" ><font size="2">注：1.小偏心受压可参照轴心受压取用承载能力检算系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>值。<br/>
+  &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;2.检算系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>值，可按承载能力检算系数评定标度<i>D</i>线形内插。</font></p>
+ 
+ <p style="text-align:justify"><a href="#id7.7.2"> 7.7.2</a> <span id="id7.7.2"> 钢结构桥梁承载能力检算系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>宜按<a href="#B7.7.2">表7.7.2</a>取值。</span></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.2">表7.7.2 钢结构桥梁承载能力检算系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="150px">缺损状况评定标度</td>
+   <td  align="center" id="dhbg" width="600px">性状描述</td>
+   <td  align="center" id="dhbg" width="150px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>值</td>
+  	</tr>
+	<tr>
+   <td align="center" id="dhbg">1</td>
+   <td align="left" id="dhbg">焊缝完好，各节点铆钉、螺栓无松动；构件表面完好，无明显损伤，防护涂层略有老化、污垢</td>
+   <td align="center" id="dhbg">(0.95,1.05]</td>
+   </tr>
+	<tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="left" id="dhbg">焊缝完好，少数节点有个别铆钉、螺栓松动变形；构件表面有少量锈迹，防护涂层油漆变色、起泡剥落，面积在 10%以内</td>
+   <td align="center" id="dhbg">(0.90,0.95]</td>
+   </tr>
+	<tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="left" id="dhbg">少数焊缝开裂，部分节点有铆钉、螺栓松动变形；构件表面有少量锈迹，防护涂层油漆明显老化变色并伴有大量起泡剥落，面积在10%~20%以内。个别次要构件有异常变形，行车稍感振动或摇晃</td>
+   <td align="center" id="dhbg">(0.85,0.90]</td>
+   </tr>
+	<tr>
+   <td align="center" id="dhbg">4</td>
+   <td align="left" id="dhbg">焊缝开裂，并造成截面削弱。联结部位铆钉、螺栓松动变形，10%~30%已损坏;构件表面锈迹严重，截面损失在3%~10%以内，防护涂层油漆明显老化变色并普遍起泡剥落，面积在 50%以上。个别主要构件有异常变形，行车有明显振动或摇晃并伴有异常声音</td>
+   <td align="center" id="dhbg">(0.80,0.85]</td>
+   </tr>
+	<tr>
+   <td align="center" id="dhbg">5</td>
+   <td align="left" id="dhbg">焊缝开裂严重，造成截面削弱在 10%以上。联结部位 30%以上铆钉、螺栓已损坏；构件表面锈迹严重，截面损失在10%以上，材质特性明显退化；防护涂层油漆完全失效。主要构件有异常变形，行车振动或摇晃显著并伴有不正常移动</td>
+   <td align="center" id="dhbg">≤0.80</td>
+   </tr>         
+	</table>
+ <p style="text-indent:2em;" ><font size="2"> </font></p>
+ 
+
+ <p style="text-align:justify"><a href="#id7.7.3"> 7.7.3</a> <span id="id7.7.3">拉吊索承载能力检算系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>宜按<a href="#B7.7.3">表7.7.3</a>取值。</span></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.3">表7.7.3 拉吊索承载能力检算系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="150px">缺损状况评定标度</td>
+   <td  align="center" id="dhbg" width="600px">性状描述</td>
+   <td  align="center" id="dhbg" width="150px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>值</td>
+  	</tr>
+	<tr>
+   <td align="center" id="dhbg">1</td>
+   <td align="left" id="dhbg">表面防护完好，锚头无积水，锚下混凝土无裂缝</td>
+   <td align="center" id="dhbg">(1.00,1.10]</td>
+   </tr>
+	<tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="left" id="dhbg">表面防护基本完好，有细微裂缝，锚头无锈蚀，锚固区无裂缝</td>
+   <td align="center" id="dhbg">(0.95,1.00]</td>
+   </tr>
+	<tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="left" id="dhbg">表面防护有少量裂缝，伴有少量锈迹，锚头有轻微锈蚀，锚固区有细小裂缝</td>
+   <td align="center" id="dhbg">(0.90,0.95]</td>
+   </tr>
+	<tr>
+   <td align="center" id="dhbg">4</td>
+   <td align="left" id="dhbg">表面防护普遍开裂，并有部分脱落，锚头锈蚀，锚固区有明显的受力裂缝</td>
+   <td align="center" id="dhbg">(0.85,0.90]</td>
+   </tr>
+	<tr>
+   <td align="center" id="dhbg">5</td>
+   <td align="left" id="dhbg">表面防护普遍开裂，并有大量脱落，钢索裸露，钢索锈蚀严重，锚头积水锈蚀，锚固区有明显的受力裂缝，裂缝宽度大于0.2 mm</td>
+   <td align="center" id="dhbg">≤0.85</td>
+   </tr>         
+	</table>
+ <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
- <p style="text-align:justify"><a href="#id7.7.4"> 7.7.4</a> <span id="id7.7.4">  </span></p>
+ <p style="text-align:justify;text-indent:2em;" > <a href="#id7.7.1">7.7.1</a>~<a href="#id7.7.3">7.7.3</a> 1988 年发布的《公路旧桥承载能力鉴定方法(试行)》，旧桥检算系数主要依据专家经验确定，存在检算系数评定标准难以把握和检测结果无法定量化应用等问题。本规程做了如下修订：</p>
+ <p style="text-align:justify;text-indent:2em;" > (1)对圬工与配筋混凝土桥梁，在确定桥梁综合技术状况时，综合考虑了桥梁缺损状况、混凝土强度和结构自振频率参数三项反映结构总体状况的主要指标，通过专家调查的方式确定了其影响权重分配，并按结构或构件受力类型给出了明确量化的桥梁检算系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Z</mi><mrow><mn>1</mn></mrow></msub></math>的取值范围。</p>
+ <p style="text-align:justify;text-indent:2em;" > (2)对钢结构和拉吊索，着重对结构或构件的缺损描述进行了细化与量化，并通过专家调查的方式确定了不同缺损状况对应的检算系数取值范围，增强了可操作性。</p>
+
+ <p style="text-align:justify"><a href="#id7.7.4"> 7.7.4</a> <span id="id7.7.4"> 配筋混凝土桥梁承载能力恶化系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">e</mi></mrow></mrow></msub></math>应该下列规定确定：</span></p>
+ 
+ <ol>
+ <li> 依据检测结果，按<a href="#B7.7.4.1">表7.7.4-1</a>的规定确定构件恶化状况评定标度<i>E</i></li>
+ </ol>
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.4.1">表7.7.4-1 配筋混凝土桥梁结构或构件恶化状况评定标度</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="100px">序号</td>
+   <td  align="center" id="dhbg" width="200px">检测指标名称</td>
+   <td  align="center" id="dhbg" width="100px">权重<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>a</mi><mrow><mi>j</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="600px">综合评定方法</td>
+  	</tr>
+	<tr>
+   <td align="center" id="dhbg">1</td>
+   <td align="center" id="dhbg">缺损状况</td>
+   <td align="center" id="dhbg">0.32</td>
+   <td align="left" id="dhbg" rowspan="7">恶化状况评定标度<i>E</i>按下式计算：<br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>E</mi><mo>=</mo><munderover><mo data-mjx-texclass="OP" movablelimits="false">∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>7</mn></mrow></munderover><msub><mi>E</mi><mrow><mi>j</mi></mrow></msub><msub><mi>a</mi><mrow><mi>j</mi></mrow></msub></math><br/>式中：<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>E</mi><mrow><mi>j</mi></mrow></msub></math>——结构或构件某项检测评定指标的评定<br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;标度，按本规程<a href="https://jtgtj21-2011.readthedocs.io/zh-cn/latest/4.html">第4</a>、<a href="https://jtgtj21-2011.readthedocs.io/zh-cn/latest/5.html">5章</a>的有关规定确定；<br/>&emsp;&emsp;&emsp;<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>a</mi><mrow><mi>j</mi></mrow></msub></math>——某项检测评定指标的权重。<br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<math xmlns="http://www.w3.org/1998/Math/MathML" ><munderover><mo data-mjx-texclass="OP" movablelimits="false">∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>7</mn></mrow></munderover><msub><mi>a</mi><mrow><mi>j</mi></mrow></msub><mo>=</mo><mn>1</mn></math></td>
+   </tr>
+	<tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="center" id="dhbg">钢筋锈蚀电位</td>
+   <td align="center" id="dhbg">0.11</td>
+   <!-- <td></td> --> 
+   </tr> 
+   <tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="center" id="dhbg">混凝土电阻率</td>
+   <td align="center" id="dhbg">0.05</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">4</td>
+   <td align="center" id="dhbg">混凝土碳化状况</td>
+   <td align="center" id="dhbg">0.20</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">5</td>
+   <td align="center" id="dhbg">钢筋保护层厚度</td>
+   <td align="center" id="dhbg">0.12</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">6</td>
+   <td align="center" id="dhbg">混氯离子含量</td>
+   <td align="center" id="dhbg">0.15</td>
+   <!-- <td></td> --> 
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">7</td>
+   <td align="center" id="dhbg">混凝土强度</td>
+   <td align="center" id="dhbg">0.05</td>
+   <!-- <td></td> --> 
+   </tr>     
+	</table>
+ <p style="text-indent:2em;" ><font size="2">注：对混凝土电阻率、混凝土碳化状况、氯离子含量三项检测指标，按本规程规定不需要进行检测评定时，其评定标度值应取1。</font></p> 
+ <ol start="2">
+ <li>根据恶化状况评定标度<i>E</i>及桥梁所处的环境条件，按<a href="#B7.7.4.2">表7.7.4-2</a>确定配筋混凝土桥梁的承载能力恶化系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">e</mi></mrow></mrow></msub></math>。</li>
+ </ol> 
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.4.2">表7.7.4-2 配筋混凝土桥梁的承载能力恶化系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">e</mi></mrow></mrow></msub></math>值</caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="180px" rowspan="2">恶化状况评定标度<i>E</i></td>
+   <td  align="center" id="dhbg" colspan="4">环境条件</td>
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+   <!-- <td></td> --> 
+  	</tr>
+	<tr>
+   <!-- <td></td> --> 
+   <td  align="center" id="dhbg" width="180px">干燥<br/>不冻<br/>无侵蚀性介质</td>
+   <td  align="center" id="dhbg" width="180px">干、湿交替<br/>不冻<br/>无侵蚀性介质</td>
+   <td  align="center" id="dhbg" width="180px">干、湿交替<br/>冻<br/>无侵蚀性介质</td>
+   <td  align="center" id="dhbg" width="180px">干、湿交替<br/>冻<br/>有侵蚀性介质</td>
+  	</tr> </tr>
+	<tr>
+   <td align="center" id="dhbg">1</td>
+   <td align="center" id="dhbg">0.00</td>
+   <td align="center" id="dhbg">0.02</td>
+   <td align="center" id="dhbg">0.05</td>
+   <td align="center" id="dhbg">0.06</td>
+   </tr> 
+   <tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="center" id="dhbg">0.02</td>
+   <td align="center" id="dhbg">0.04</td>
+   <td align="center" id="dhbg">0.07</td>
+   <td align="center" id="dhbg">0.08</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="center" id="dhbg">0.05</td>
+   <td align="center" id="dhbg">0.07</td>
+   <td align="center" id="dhbg">0.10</td>
+   <td align="center" id="dhbg">0.12</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">4</td>
+   <td align="center" id="dhbg">0.10</td>
+   <td align="center" id="dhbg">0.12</td>
+   <td align="center" id="dhbg">0.14</td>
+   <td align="center" id="dhbg">0.018</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">5</td>
+   <td align="center" id="dhbg">0.15</td>
+   <td align="center" id="dhbg">0.17</td>
+   <td align="center" id="dhbg">0.20</td>
+   <td align="center" id="dhbg">0.25</td>
+   </tr>
+   </table>
+ <p style="text-indent:2em;" ><font size="2">注：恶化系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">e</mi></mrow></mrow></msub></math>可按结构或构件恶化状况评定标度值线形内插。</font></p> 
+ 
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
- <p style="text-align:justify"><a href="#id7.7.5"> 7.7.5</a> <span id="id7.7.5">  </span></p>
+ <p style="text-align:justify;text-indent:2em;" > 对配筋混凝土桥梁，为考虑评定期内桥梁结构质量状况进一步衰退恶化产生的不利影响，通过承载能力恶化系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">e</mi></mrow></mrow></msub></math>来反映这一不利影响可能造成的结构抗力效应的降低。引入承载能力恶化系数的目的是为了使结构质量状况进一步衰退至某一阶段时，承载能力评定结果仍能维持在一定的可靠度水平之上。承载能力恶化系数主要考虑了结构或构件的缺损状况、钢筋锈蚀电位、钢筋保护层厚度以及混凝土强度、电阻率、氯离子含量和碳化状况等影响因素，通过专家调查方式确定各因素的影响权重，并综合考虑环境的干湿、温度及侵蚀介质等条件加以确定。</p>
+ 
+ <p style="text-align:justify"><a href="#id7.7.5"> 7.7.5</a> <span id="id7.7.5">圬工与配筋混凝土桥梁结构或构件的截面折减系数，应按以下规定确定：</span></p>
+ <ol>
+ <li>依据材料风化、碳化、物理与化学损伤三项检测指标的评定标度，按<a href="#ideq7.7.5">式(7.7.5)</a><span id="ideq7.7.5">计算确定结构或构件截面损伤的综合评定标度<i>R</i>。</li>
+  </ol>
+
+$$R=\\sum\\limits _{j=1}^{N}R_{j}a_{j}\\tag{7.7.5}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>R</mi><mrow><mi>j</mi></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">某项检测指标的评定标度，按<a href="#B7.7.5.1">表7.7.5-1</a>、<a href="#B7.7.5.2">表7.7.5-2</a>和<a href="#B7.7.5.3">表7.7.5-3</a>的规定确定；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>α</mi><mrow><mi>j</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">某项检测指标的权重值，<math xmlns="http://www.w3.org/1998/Math/MathML" ><munderover><mo data-mjx-texclass="OP" movablelimits="false">∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>N</mi></mrow></munderover><msub><mi>a</mi><mrow><mi>j</mi></mrow></msub><mo>=</mo><mn>1</mn></math>，按<a href="#B7.7.5.3">表7.7.5-3</a>的规定确定；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>N</mi></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">对砖、石结构，N=2；对混凝土及配筋混凝土结构，N=3。</td>
+ </tr> 
+ </table>
+ <p></p> 
+
+ <ol start="2">
+ <li>依据截面损伤的综合评定标度，按<a href="#B7.7.5.4">表7.7.5-4</a>确定截面折减系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi  mathvariant="normal">c</mi></mrow></msub></math></li>
+  </ol>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.5.1">表7.7.5-1 圬工与配筋混凝土桥梁材料风化评定标准</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="100px">评定标度</td>
+   <td  align="center" id="dhbg" width="200px">材料风化状况</td>
+   <td  align="center" id="dhbg" width="600px">性状描述</td>
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg">1</td>
+   <td align="center" id="dhbg">微风化</td>
+   <td align="left"  id="dhbg">手搓构件表面，无砂粒滚动摩擦的感觉，手掌上粘有构件材料粉末，无砂粒。构件表面直观较光洁</td>
+   </tr>
+	 <tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="center" id="dhbg">弱风化</td>
+   <td align="left"  id="dhbg" >手搓构件表面，有砂粒滚动摩擦的感觉，手掌上附着物大多为构件材料粉末，砂粒较少。构件表面砂粒附着不明显或略显粗糙</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="center"  id="dhbg">中度风化</td>
+   <td align="left"  id="dhbg">手搓构件表面，有较强的砂粒滚动摩擦的感觉或粗糙感，手掌上附着物大多为砂粒，粉末较少。构件表面明显可见砂粒附着或明显粗糙</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">4</td>
+   <td align="center" id="dhbg">较强风化</td>
+   <td align="left"  id="dhbg" >手搓构件表面，有强烈的砂粒滚动摩擦的感觉或粗糙感，手掌上附着物基本为砂粒，粉末很少。构件表面可见大量砂粒附着或有轻微剥落</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">5</td>
+   <td align="center" id="dhbg">严重风化</td>
+   <td align="left"  id="dhbg" >构件表面可见大量砂粒附着，且构件部分表层剥离或混凝土已露粗骨料</td>
+   </tr>
+	</table>
+ <p><font size="2"> </font></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.5.2">表7.7.5-2 圬工与配筋混凝土桥梁物理与化学损伤评定标准</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="100px">评定标度</td>
+   <td  align="center" id="dhbg" width="800px">性状描述</td>
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg">1</td>
+   <td align="left"  id="dhbg">构件表面较好，局部表面有轻微剥落</td>
+   </tr>
+	 <tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="left"  id="dhbg" >构件表面剥落面积在5%以内；或损伤最大深度与截面损伤发生部位构件最小尺寸之比小于0.02</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="left"  id="dhbg">构件表面剥落面积在5%~10%以内；或损伤最大深度与截面损伤发生部位构件最小尺寸之比小于0.04</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">4</td>
+   <td align="left"  id="dhbg" >构件表面剥落面积在10%~15%以内；或损伤最大深度与截面损伤发生部位构件最小尺寸之比小于0.10</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">5</td>
+   <td align="left"  id="dhbg" >构件表面剥落面积在15%~20%以内；或损伤最大深度和截面损伤发生部位构件最小尺寸之比大于0.10</td>
+   </tr>
+	</table>
+ <p><font size="2"> </font></p>
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.5.3">表7.7.5-3 材料风化、碳化及物理与化学损伤权重值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="300px">结构类别</td>
+   <td  align="center" id="dhbg" width="300px">检测指标名称</td>
+   <td  align="center" id="dhbg" width="300px">权重值<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>a</mi><mrow><mi>j</mi></mrow></msub></math></td>
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg" rowspan="2">砖、石结构</td>
+   <td align="center" id="dhbg">材料风化</td>
+   <td align="center" id="dhbg">0.20</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">物理与化学损伤</td>
+   <td align="center" id="dhbg">0.80</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" rowspan="3">混凝土及配筋混凝土结构</td>
+   <td align="center" id="dhbg">材料风化</td>
+   <td align="center" id="dhbg">0.10</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">混凝土碳化</td>
+   <td align="center" id="dhbg">0.35</td>
+   </tr>
+   <tr>
+   <!-- <td></td> --> 
+   <td align="center" id="dhbg">物理与化学损伤</td>
+   <td align="center" id="dhbg">0.55</td>
+   </tr>
+	</table>
+ <p><font size="2"> 注：对混凝土碳化，按本规程规定不需要进行检测评定时，其评定标度值应取1。</font></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.5.4">表7.7.5-4 圬工与配筋混凝土桥梁截面折减系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math>值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="450px">截面损伤综合评定标度<i>R</i></td>
+   <td  align="center" id="dhbg" width="450px">截面折减系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">c</mi></mrow></mrow></msub></math></td>
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>1</mn><mo>⩽</mo><mi>R</mi><mo>&lt;</mo><mn>2</mn></math></td>
+   <td align="left"  id="dhbg">(0.98,1.00]</td>
+   </tr>
+	 <tr>
+   <td align="center" id="dhbg"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>2</mn><mo>⩽</mo><mi>R</mi><mo>&lt;</mo><mn>3</mn></math></td>
+   <td align="left"  id="dhbg" >(0.93,0.98]</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>3</mn><mo>⩽</mo><mi>R</mi><mo>&lt;</mo><mn>4</mn></math></td>
+   <td align="left"  id="dhbg">(0.985,0.93]</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>4</mn><mo>⩽</mo><mi>R</mi><mo>&lt;</mo><mn>5</mn></math></td>
+   <td align="left"  id="dhbg" >≤0.85</td>
+   </tr>
+	</table>
+ <p><font size="2"> </font></p>
+
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
- <p style="text-align:justify"><a href="#id7.7.6"> 7.7.6</a> <span id="id7.7.6">  </span></p>
- <p style="text-align:justify"><a href="#id7.7.7"> 7.7.7</a> <span id="id7.7.7">  </span></p>
+ <p style="text-align:justify;text-indent:2em;" > 对圬工及配筋混凝土桥梁，由于材料风化、碳化、物理与化学损伤(如混凝土剥落、疏松、掉棱、缺角、桩基与墩柱由于冲蚀引起的剥落缩径等)引起的结构或构件有效截面损失，以及由于钢筋腐蚀剥落造成的钢筋有效面积损失，对结构构件截面抗力效应会产生影响。在检算结构抗力效应时，可用截面折减系数计及这一影响。</p>
+ <p style="text-align:justify"><a href="#id7.7.6"> 7.7.6</a> <span id="id7.7.6"> 配筋混凝土结构中，发生腐蚀的钢筋截面折减系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi  mathvariant="normal">s</mi></mrow></msub></math>，宜按<a href="#B7.7.6">表7.7.6</a>确定</span></p>
+
+ <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.6">表7.7.6 配筋混凝土钢筋截面折减系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi  mathvariant="normal">s</mi></mrow></msub></math>值</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="100px">评定标度</td>
+   <td  align="center" id="dhbg" width="600px">性状描述</td>
+   <td  align="center" id="dhbg" width="200px">截面折减系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi  mathvariant="normal">s</mi></mrow></msub></math></td>
+	 </tr>
+	 <tr>
+   <td align="center" id="dhbg">1</td>
+   <td align="left"  id="dhbg">沿钢筋出现裂缝，宽度小于限值</td>
+   <td align="center" id="dhbg">(0.98,1.00]</td>
+   </tr>
+	 <tr>
+   <td align="center" id="dhbg">2</td>
+   <td align="left"  id="dhbg">沿钢筋出现裂缝，宽度大于限值，或钢筋锈蚀引起混凝土发生层离</td>
+   <td align="center" id="dhbg" >(0.95,0.98]</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">3</td>
+   <td align="left"  id="dhbg">筋锈蚀引起混凝土剥落，钢筋外露，表面有膨胀薄锈层或坑蚀</td>
+   <td align="center" id="dhbg">(0.90,0.95]</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">4</td>
+   <td align="left"  id="dhbg">钢筋锈蚀引起混凝土剥落，钢筋外露、表面膨胀性锈层显著，钢筋断面损失在 10% 以内</td>
+   <td align="center" id="dhbg" >(0.80,0.90]</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">5</td>
+   <td align="left"  id="dhbg">钢筋锈蚀引起混凝土剥落，钢筋外露、出现锈蚀剥落，钢筋断面损失在 10% 以上</td>
+   <td align="center" id="dhbg" >≤0.80</td>
+   </tr>
+	</table>
+ <p><font size="2"> </font></p>
+ <p style="text-align:justify"><a href="#id7.7.7"> 7.7.7</a> <span id="id7.7.7"> 依据实际调查的典型代表交通量、大吨位车辆混入率和轴荷分布情况，可按<a href="#ideq7.7.7">式(7.7.7)</a><span id="ideq7.7.7">确定活载影响修正系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q</mi></mrow></msub></math>。</span></p>
+
+$$\\xi _{q}=\\sqrt[3]{\\xi _{q1}\\xi _{q2}\\xi _{q3}}\\tag{7.7.7}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q1</mi></mrow></msub></math></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">典型代表交通量影响修正系数，按<a href="#B7.7.7.1">表7.7.7-1</a>确定；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q2</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">大吨位车辆混入影响修正系数，按<a href="#B7.7.7.2">表7.7.7-2</a>确定；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q3</mi></mrow></msub></math></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">轴荷分布影响修正系数，按<a href="#B7.7.7.3">表7.7.7-3</a>确定。</td>
+ </tr> 
+ </table>
+ <p></p> 
+
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.7.1">表7.7.7-1 交通量影响修正系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q1</mi></mrow></msub></math></b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><mrow><mo>/</mo></mrow><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q1</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><mrow><mo>/</mo></mrow><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q1</mi></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>1</mn><mo>&lt;</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></mfrac></mstyle><mo>⩽</mo><mn>1.3</mn></math></td>
+   <td align="center" id="dhbg" >[1.0,1.05)</td>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>1.4</mn><mo>&lt;</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></mfrac></mstyle><mo>⩽</mo><mn>2.0</mn></math></td>
+   <td align="center" id="dhbg" >[1.10,1.20)</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>1.3</mn><mo>&lt;</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></mfrac></mstyle><mo>⩽</mo><mn>1.7</mn></math></td>
+   <td align="center" id="dhbg" >[1.05,1.10)</td>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>2.0</mn><mo>&lt;</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></mfrac></mstyle></math></td>
+   <td align="center" id="dhbg" >[1.20,1.35)</td>
+   </tr>
+	</table>
+   <p style="text-indent:2em;" ><font size="2">注：<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">m</mi></mrow></mrow></msub></math>为典型代表交通量；<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Q</mi><mrow><mrow><mi mathvariant="normal">d</mi></mrow></mrow></msub></math>为设计交通量。</font></p> 
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.7.2">表7.7.7-2 大吨位车辆混入影响修正系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q2</mi></mrow></msub></math></b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>a</mi></math></td>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q2</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>a</mi></math></td>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q2</mi></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>a</mi><mo>&lt;</mo><mn>0.3</mn></math></td>
+   <td align="center" id="dhbg" >[1.00,1.05)</td>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>0.5</mn><mo>⩽</mo><mi>a</mi><mo>&lt;</mo><mn>0.8</mn></math></td>
+   <td align="center" id="dhbg" >[1.10,1.20)</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>0.3</mn><mo>⩽</mo><mi>a</mi><mo>&lt;</mo><mn>0.5</mn></math></td>
+   <td align="center" id="dhbg" >[1.05,1.10)</td>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>0.8</mn><mo>⩽</mo><mi>a</mi><mo>&lt;</mo><mn>1.0</mn></math></td>
+   <td align="center" id="dhbg" >[1.20,1.35)</td>
+   </tr>
+	</table>
+   <p style="text-indent:2em;" ><font size="2">注：<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>a</mi></math>为大吨位车辆混入率；<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>ξ</mi><mrow><mrow><mi mathvariant="normal">q2</mi></mrow></mrow></msub></math>值可按<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>a</mi></math>值线形内插。</font></p> 
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.7.7.3">表7.7.7-3 轴荷分布影响修正系数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q3</mi></mrow></msub></math></b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>β</mi></math></td>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q3</mi></mrow></msub></math></td>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>β</mi></math></td>
+   <td  align="center" id="dhbg" width="225px"><math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>ξ</mi><mrow><mi>q3</mi></mrow></msub></math></td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>β</mi><mo>&lt;</mo><mn>5%</mn></math></td>
+   <td align="center" id="dhbg" >1.00</td>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>15%</mn><mo>⩽</mo><mi>β</mi><mo>&lt;</mo><mn>30%</mn></math></td>
+   <td align="center" id="dhbg" >1.30</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>5%</mn><mo>⩽</mo><mi>β</mi><mo>&lt;</mo><mn>15%</mn></math></td>
+   <td align="center" id="dhbg" >1.15</td>
+   <td align="center" id="dhbg" ><math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>β</mi><mo>⩾</mo><mn>30%</mn></math></td>
+   <td align="center" id="dhbg" >1.40</td>
+   </tr>
+	</table>
+   <p style="text-indent:2em;" ><font size="2">注：<math xmlns="http://www.w3.org/1998/Math/MathML" ><mi>β</mi></math>为实际调查轴荷分布中轴重超过14t所占的半分比。</font></p> 
+
  <p style="text-align:justify"><b>条文说明</b></p>
- <p style="text-align:justify;text-indent:2em;" >  </p>
+ <p style="text-align:justify;text-indent:2em;" > 活载影响系数用于考虑实际桥梁所承受的汽车荷载与标准汽车荷载之间的差异。主要根据桥梁运营荷载的调查统计情况，从典型代表交通量、大吨位车辆混入率和轴荷分布情况三个方面进行综合修正确定。</p>
+
+
+
+
+
+
 
 :math:`\ `

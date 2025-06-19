@@ -59,6 +59,7 @@
  <ol>
  <li>推定强度匀质系数：</li>
  </ol>
+ 
 $$K_{\\mathrm{bt} }=\\dfrac{R_{\\mathrm{it} }}{R}\\tag{5.3.5-1}$$
 
 
